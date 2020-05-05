@@ -1,0 +1,82 @@
+Yes-No 2 particular 1 relation
+1a. Does a <T_NOUN> <OP_VERB> a <T_NOUN>?
+1b. Does a <T_NOUN> <OP_VERB_PREP> a <T_NOUN>?
+1c. Does a <T_NOUN> <OP_HAS_NOUNS> that is a <T_NOUN>?
+3. Is a <T_NOUN> <OP_IS_NOUNS_PREP> a <T_NOUN>?
+4a. Is a <T_NOUN> <OP_IS_PARTICIPLE_BY> a <T_NOUN>?
+4b. Is a <T_NOUN> <OP_IS_PARTICIPLE_PREP> a <T_NOUN>?
+Yes-No 2 particular 1 relation + quantifier
+5a. Does a <T_NOUN> <OP_VERB> <Quantifier-only> a <T_NOUN>?
+5b. Does a <T_NOUN> <OP_VERB_PREP> <Quantifier-only> a <T_NOUN>?
+5c. Does a <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-only> a <T_NOUN>?
+6a. Does a <T_NOUN> <OP_VERB> <Quantifier-some> <Thing>?
+6b. Does a <T_NOUN> <OP_VERB_PREP> <Quantifier-some> <T_NOUN>?
+6c. Does a <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-some> <T_NOUN>?
+7a. Is a <T_NOUN> <OP_IS_NOUNS_PREP> <Quantifier-some> <T_NOUN>?
+7b. Is a <T_NOUN> <OP_IS_PARTICIPLE_BY> <Quantifier-some> <T_NOUN>?
+8a. Is a <T_NOUN> <OP_IS_NOUNS_PREP> <Quantifier-only> a <T_NOUN>?
+8b. Is a <T_NOUN> <OP_IS_PARTICIPLE_BY> <Quantifier-only> a <T_NOUN>?
+Yes-No 1 particular 1 relation
+9. Does a <thing> <Perdurant>?
+Equivalence
+13. Are there any differences between a <Endurant> and a <Endurant>?
+14. Are there any differences between <Perdurant> and <Perdurant>?
+True-False
+16a. True or false: A <T_NOUN> <OP_VERB> a <T_NOUN>.
+16b. True or false: A <T_NOUN> <OP_VERB_PREP> a <T_NOUN>.
+16c. True or false: A <T_NOUN> <OP_HAS_NOUNS> that is a <T_NOUN>.
+17a. True or false: A <T_NOUN> is <OP_IS_NOUNS_PREP> a <T_NOUN>.
+17b. True or false: A <T_NOUN> is <OP_IS_PARTICIPLE_BY> a <T_NOUN>.
+18a. A <T_NOUN> <OP_VERB> a <T_NOUN>. True or false?
+18b. A <T_NOUN> <OP_VERB_PREP> a <T_NOUN>. True or false?
+18c. A <T_NOUN> <OP_HAS_NOUNS> that is a <T_NOUN>. True or false?
+19a. A <T_NOUN> is <OP_IS_NOUNS_PREP> a <T_NOUN>. True or false?
+19b. A <T_NOUN> is <OP_IS_PARTICIPLE_BY> a <T_NOUN>. True or false?
+True-False + quantifier
+20a. True or false: A <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-some> <T_NOUN>.
+20b. True or false: A <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-some> <T_NOUN>.
+20c. True or false: A <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-only> a <T_NOUN>.
+20d. True or false: A <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-only> a <T_NOUN>.
+21a. True or false: A <T_NOUN> <OP_VERB> <Quantifier-only> a <T_NOUN>.
+21b. True or false: A <T_NOUN> <OP_VERB_PREP> <Quantifier-only> a <T_NOUN>.
+21c. True or false: A <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-only> a <T_NOUN>.
+21d. True or false: A <T_NOUN> <OP_VERB> <Quantifier-some> <T_NOUN>.
+21e. True or false: A <T_NOUN> <OP_VERB_PREP> <Quantifier-some> <T_NOUN>.
+21f. True or false: A <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-some> <T_NOUN>.
+22a. A <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-some> <T_NOUN>. True or false?
+22b. A <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-some> <T_NOUN>. True or false?
+22c. A <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-only> a <T_NOUN>. True or false?
+22d. A <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-only> a <T_NOUN>. True or false?
+23a. A <T_NOUN> <OP_VERB> <Quantifier-only> a <T_NOUN>. True or false?
+23b. A <T_NOUN> <OP_VERB_PREP> <Quantifier-only> a <T_NOUN>. True or false?
+23c. A <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-only> a <T_NOUN>. True or false?
+23d. A <T_NOUN> <OP_VERB> <Quantifier-some> <T_NOUN>. True or false?
+23e. A <T_NOUN> <OP_VERB_PREP> <Quantifier-some> <T_NOUN>. True or false?
+23f. A <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-some> <T_NOUN>. True or false?
+What 2 particular 1 relation
+24a. Which <T_NOUN> <OP_VERB> a <T_NOUN>?
+24b. Which <T_NOUN> <OP_VERB_PREP> a <T_NOUN>?
+24c. Which <T_NOUN> <OP_HAS_NOUNS> that is a <T_NOUN>?
+24d. Which <T_NOUN> is <OP_IS_NOUNS_PREP> a <T_NOUN>?
+24e. Which <T_NOUN> is <OP_IS_PARTICIPLE_BY> a <T_NOUN>?
+What 2 particular 1 relation + quantifier
+25a. Which <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-some> <T_NOUN>?
+25b. Which <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-some> <T_NOUN>?
+25c. Which <T_NOUN> is <OP_IS_NOUNS_PREP> <Quantifier-only> a <T_NOUN>?
+25d. Which <T_NOUN> is <OP_IS_PARTICIPLE_BY> <Quantifier-only> a <T_NOUN>?
+25e. Which <T_NOUN> <OP_VERB> <Quantifier-only> a <T_NOUN>?
+25f. Which <T_NOUN> <OP_VERB_PREP> <Quantifier-only> a <T_NOUN>?
+25g. Which <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-only> a <T_NOUN>?
+25h. Which <T_NOUN> <OP_VERB> <Quantifier-some> <T_NOUN>?
+25i. Which <T_NOUN> <OP_VERB_PREP> <Quantifier-some> <T_NOUN>?
+25j. Which <T_NOUN> <OP_HAS_NOUNS> that is <Quantifier-some> a <T_NOUN>?
+What 1 particular 1 relation
+26. What does a <T_NOUN> <OP_VERB>?
+27. What does a <T_NOUN> <OP_VERB_PREP>?
+28. What is <T_NOUN> <OP_IS_NOUNS_PREP>?
+29. What is <T_NOUN> <OP_IS_PARTICIPLE_BY>?
+Define
+30. Define a <Endurant>.
+31. What is a <Endurant>?
+32. Define <Perdurant>.
+33. What is <Perdurant>?

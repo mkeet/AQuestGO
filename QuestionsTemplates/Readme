@@ -1,0 +1,18 @@
+Generating Answerable Questions from Ontologies for Educational Exercises
+Toky Raboanary, Steve Wang, and C. Maria Keet
+Department of Computer Science, University of Cape Town, South Africa
+traboanary@cs.uct.ac.za, WNGSHU003@myuct.ac.za, mkeet@cs.uct.ac.za
+
+This folder contains 6 other files which concern the generated questions and templates used by the 3 approaches during the 3 experiments that we conducted.
+
+Files used by the 1st approach using Algorithm 1 during the 1st experiment:
+    - Generated questions: questions1.pdf
+    - Templates (Type A/Type B): templates1.pdf
+
+Files used by the 2nd approach using Algorithm 1 during the 2nd experiment:
+    - Generated questions: questions2.pdf
+    - Templates (Type C): templates2.pdf
+
+Files used by the 3rd approach using Algorithm 1 the 3rd experiment:
+    - Generated questions: questions3.pdf
+    - Templates (Type D): templates3.pdf
