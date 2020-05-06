@@ -1,5 +1,5 @@
 # AQuestGO
-## ---> Answerable Question Generation from Ontologies <---
+## Answerable Question Generation from Ontologies 
  
  ## Overview
 One can use ontologies for a range of tasks, inculding to generate questions from them, with the aim of automating the management of exercises in computer-assisted learning. Research into ontology-driven answerable question generation has focused on multiple choice questions (MCQs) only, whereas learners are also exposed to other types of questions, such as yes/no and short answer questions. Initial research with a use case, called Inquire Biology, showed that it is possible to create such ontology-based questions. However, but it is unknown how that can be done automatically and whether it would work beyond that use case. 
@@ -15,6 +15,6 @@ This repository contains an implementation of the algorithms and the templates w
 
 ## Contributors:
 - Toky Raboanary
-- Steve Wanng
+- Steve Wang
 - Maria Keet
 
