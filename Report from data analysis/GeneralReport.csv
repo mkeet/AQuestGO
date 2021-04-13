@@ -1,0 +1,17 @@
+Stat -> Syntax
+VERY_GOOD;485;665;72.93
+GOOD;85;665;12.78
+AVERAGE;44;665;6.62
+BAD;35;665;5.26
+VERY_BAD;16;665;2.41
+symbolic x coords= {Very Good,Good,Average,Bad,Very Bad},
+\addplot coordinates {(Very Good,485) (Good,85) (Average,44) (Bad,35) (Very Bad,16) };
+
+Stat -> Semantics
+VERY_GOOD;375;665;56.39
+GOOD;87;665;13.08
+AVERAGE;62;665;9.32
+BAD;77;665;11.58
+VERY_BAD;64;665;9.62
+symbolic x coords= {Very Good,Good,Average,Bad,Very Bad},
+\addplot coordinates {(Very Good,375) (Good,87) (Average,62) (Bad,77) (Very Bad,64) };

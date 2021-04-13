@@ -1,0 +1,102 @@
+Inter-rater Agreeement from BIOTOP - Syntax
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a material object project onto an immaterial three dimensional physical entity?;good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a plurality of organisms have a granular part that is an organism?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is an immaterial object a part of a material object?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is a temporal region preceded by a process?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is a material object included in universe?;very_good;good;very_good;average;good;very_good;very_good;VERY_GOOD;4
+ Does a material object project onto only an immaterial three dimensional physical entity?;average;average;good;very_good;very_good;good;very_good;VERY_GOOD;3
+ Does a process project onto some temporal region?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Does a collective process have a granular part that is some process?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is a plurality of organisms a bearer of some taxon quality?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Is a taxon value region a projection of only a taxon quality?;very_good;average;very_good;good;very_good;average;very_good;VERY_GOOD;4
+ Is a process preceded by only a temporal region?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: A process quality inheres in a process.;very_good;good;very_bad;good;very_good;good;very_good;VERY_GOOD;3
+ True or false: A collective process has a granular part that is a process.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: An immaterial object is a part of a material object.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: A temporal region is preceded by a process.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A taxon quality projects onto a taxon value region. True or false?;very_good;very_good;very_good;good;very_good;very_good;very_good;VERY_GOOD;6
+ An immaterial object has a life that is life. True or false?;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ An immaterial three dimensional physical entity is a projection of a material object. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A process is preceded by a temporal region. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Life is a life of some particular.;good;very_good;bad;bad;very_good;average;very_good;VERY_GOOD;3
+ True or false: A condition is a condition of only a situation.;very_good;very_good;very_good;bad;very_good;average;very_good;VERY_GOOD;5
+ True or false: A temporal region is preceded by only a process.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A taxon quality projects onto only a taxon value region.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A collective process has a granular part that is only a process.;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A process projects onto some temporal region.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An immaterial object has a life that is some life.;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ A material object is a part of some universe. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A condition is a condition of only a situation. True or false?;very_good;average;very_good;bad;very_good;average;very_good;VERY_GOOD;4
+ A process is preceded by only a temporal region. True or false?;very_good;very_good;very_good;very_good;very_good;good;very_good;VERY_GOOD;6
+ A physical mass inheres in only a material object. True or false?;very_good;good;bad;very_good;very_good;good;very_good;VERY_GOOD;4
+ A collective process has a granular part that is only a process. True or false?;very_good;good;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+ A process projects onto some temporal region. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A material object has a life that is some life. True or false?;very_good;average;very_good;average;very_good;average;very_good;VERY_GOOD;4
+ Which quality projects onto a canonicity value region?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which condition has a life that is life?;very_good;average;very_good;bad;very_good;average;very_good;VERY_GOOD;4
+ Which process is a life of a particular?;very_good;bad;bad;bad;very_good;bad;very_good;BAD;4
+ Which particular is preceded by a process?;very_good;average;bad;bad;very_good;bad;very_good;VERY_GOOD;3
+ Which process is a life of some particular?;very_good;good;average;bad;very_good;bad;very_good;VERY_GOOD;3
+ Which value region is a projection of only a taxon quality?;very_good;average;very_good;good;very_good;bad;very_good;VERY_GOOD;4
+ Which particular is preceded by only a process?;very_good;average;bad;average;very_good;bad;very_good;VERY_GOOD;3
+ Which object quality projects onto only a taxon value region?;very_good;very_bad;very_good;good;very_good;good;very_good;VERY_GOOD;4
+ Which condition has a life that is only life?;very_good;average;very_good;bad;very_good;bad;very_good;VERY_GOOD;4
+ Which condition projects onto some immaterial three dimensional physical entity?;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ Which condition has a life that is some life?;very_good;bad;very_good;bad;very_good;good;very_good;VERY_GOOD;4
+Rate of agreement (6/7) between evaluators is 18/44 ratio = 40.91%
+Rate of agreement (5/7) between evaluators is 27/44 ratio = 61.36%
+Rate of agreement (4/7) between evaluators is 38/44 ratio = 86.36%
+Rate of agreement (3/7) between evaluators is 44/44 ratio = 100.00%
+
+
+Inter-rater Agreeement from BIOTOP - Semantics
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a material object project onto an immaterial three dimensional physical entity?;average;average;bad;good;very_good;very_good;very_good;VERY_GOOD;3
+ Does a plurality of organisms have a granular part that is an organism?;very_good;very_bad;bad;good;very_good;good;very_good;VERY_GOOD;3
+ Is an immaterial object a part of a material object?;very_good;average;good;very_good;bad;very_good;very_good;VERY_GOOD;4
+ Is a temporal region preceded by a process?;very_good;bad;good;good;very_good;good;very_good;VERY_GOOD;3
+ Is a material object included in universe?;good;good;good;very_good;very_good;very_good;very_good;VERY_GOOD;4
+ Does a material object project onto only an immaterial three dimensional physical entity?;average;good;good;good;very_good;average;very_good;GOOD;3
+ Does a process project onto some temporal region?;very_good;bad;good;bad;very_good;average;very_good;VERY_GOOD;3
+ Does a collective process have a granular part that is some process?;very_good;average;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+ Is a plurality of organisms a bearer of some taxon quality?;good;bad;very_good;good;very_bad;very_good;very_good;VERY_GOOD;3
+ Is a taxon value region a projection of only a taxon quality?;good;average;very_good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Is a process preceded by only a temporal region?;very_good;average;good;bad;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A process quality inheres in a process.;average;bad;very_bad;average;very_bad;very_bad;very_good;VERY_BAD;3
+ True or false: A collective process has a granular part that is a process.;very_good;average;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: An immaterial object is a part of a material object.;very_good;good;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: A temporal region is preceded by a process.;good;good;good;good;very_bad;very_good;very_good;GOOD;4
+ A taxon quality projects onto a taxon value region. True or false?;very_good;good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ An immaterial object has a life that is life. True or false?;very_good;bad;average;average;very_bad;average;average;AVERAGE;4
+ An immaterial three dimensional physical entity is a projection of a material object. True or false?;very_good;very_good;good;average;very_bad;very_good;very_good;VERY_GOOD;4
+ A process is preceded by a temporal region. True or false?;very_good;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: Life is a life of some particular.;bad;average;bad;bad;very_bad;average;very_good;BAD;3
+ True or false: A condition is a condition of only a situation.;average;average;very_good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ True or false: A temporal region is preceded by only a process.;average;average;very_good;good;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A taxon quality projects onto only a taxon value region.;good;average;very_good;bad;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A collective process has a granular part that is only a process.;very_good;bad;very_good;very_good;very_bad;good;very_good;VERY_GOOD;4
+ True or false: A process projects onto some temporal region.;average;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ True or false: An immaterial object has a life that is some life.;good;bad;good;average;very_bad;average;very_good;GOOD;2
+ A material object is a part of some universe. True or false?;very_good;very_good;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;6
+ A condition is a condition of only a situation. True or false?;good;bad;good;bad;very_bad;average;very_good;GOOD;2
+ A process is preceded by only a temporal region. True or false?;very_good;good;very_good;bad;very_bad;good;very_good;VERY_GOOD;3
+ A physical mass inheres in only a material object. True or false?;very_good;bad;bad;very_good;very_bad;average;very_good;VERY_GOOD;3
+ A collective process has a granular part that is only a process. True or false?;very_good;average;good;very_good;very_bad;good;very_good;VERY_GOOD;3
+ A process projects onto some temporal region. True or false?;very_good;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;5
+ A material object has a life that is some life. True or false?;very_good;very_bad;good;average;very_bad;average;very_good;VERY_GOOD;2
+ Which quality projects onto a canonicity value region?;average;good;very_good;bad;very_bad;average;very_good;VERY_GOOD;2
+ Which condition has a life that is life?;good;very_bad;good;bad;very_bad;average;very_good;GOOD;2
+ Which process is a life of a particular?;good;very_bad;bad;bad;very_bad;bad;very_good;BAD;3
+ Which particular is preceded by a process?;very_good;bad;bad;bad;very_bad;bad;very_good;BAD;4
+ Which process is a life of some particular?;very_good;average;average;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Which value region is a projection of only a taxon quality?;good;bad;very_good;bad;very_bad;bad;very_good;BAD;3
+ Which particular is preceded by only a process?;very_good;bad;bad;bad;very_bad;bad;very_good;BAD;4
+ Which object quality projects onto only a taxon value region?;very_good;very_bad;very_good;bad;very_bad;good;very_good;VERY_GOOD;3
+ Which condition has a life that is only life?;good;bad;bad;bad;very_bad;average;very_good;BAD;3
+ Which condition projects onto some immaterial three dimensional physical entity?;good;good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;3
+ Which condition has a life that is some life?;good;bad;bad;bad;very_bad;average;very_good;BAD;3
+Rate of agreement (6/7) between evaluators is 1/44 ratio = 2.27%
+Rate of agreement (5/7) between evaluators is 6/44 ratio = 13.64%
+Rate of agreement (4/7) between evaluators is 16/44 ratio = 36.36%
+Rate of agreement (3/7) between evaluators is 33/44 ratio = 75.00%

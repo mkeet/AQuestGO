@@ -1,0 +1,17 @@
+Syntax
+Quality;Count
+Very Good;6;50.00%
+Good;1;8.33%
+Average;4;33.33%
+Bad;1;8.33%
+Very Bad;0;0.00%
+Unknown;0;0.00%
+
+Semantics
+Quality;Count
+Very Good;5;41.67%
+Good;1;8.33%
+Average;1;8.33%
+Bad;3;25.00%
+Very Bad;2;16.67%
+Unknown;0;0.00%

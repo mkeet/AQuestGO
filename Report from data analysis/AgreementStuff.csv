@@ -1,0 +1,38 @@
+Inter-rater Agreeement from STUFF - Syntax
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a mixed stuff have a part stuff that is a stuff?;very_good;very_bad;very_good;average;very_bad;average;very_good;VERY_GOOD;3
+ Does a stuff stuff state?;very_good;very_bad;bad;bad;very_bad;very_bad;very_good;VERY_BAD;3
+ True or false: A heterogeneous mixture has a stuff distribution that is an uneven distribution.;very_good;very_bad;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ A mixed stuff has a part stuff that is a stuff. True or false?;very_good;very_bad;bad;average;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A stuff has a state that is only a stuff state.;very_good;bad;very_good;average;very_bad;bad;very_good;VERY_GOOD;3
+ A stuff has a state that is only a stuff state. True or false?;very_good;very_bad;very_good;average;very_bad;bad;very_good;VERY_GOOD;3
+ Which mixed stuff has a stuff distribution that is an even distribution?;very_good;very_bad;very_good;good;very_bad;very_good;very_good;VERY_GOOD;4
+ Which physical endurant has a state that is only a stuff state?;very_good;average;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ Define a gel.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is a physical object?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define being a solid.;very_good;average;very_good;very_good;good;average;very_good;VERY_GOOD;4
+ What is being a liquid?;very_good;good;very_good;good;good;good;very_good;GOOD;4
+Rate of agreement (6/7) between evaluators is 2/12 ratio = 16.67%
+Rate of agreement (5/7) between evaluators is 3/12 ratio = 25.00%
+Rate of agreement (4/7) between evaluators is 7/12 ratio = 58.33%
+Rate of agreement (3/7) between evaluators is 11/12 ratio = 91.67%
+
+
+Inter-rater Agreeement from STUFF - Semantics
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a mixed stuff have a part stuff that is a stuff?;average;very_bad;bad;average;very_bad;very_bad;good;VERY_BAD;3
+ Does a stuff stuff state?;bad;very_bad;very_bad;bad;very_bad;very_bad;bad;VERY_BAD;4
+ True or false: A heterogeneous mixture has a stuff distribution that is an uneven distribution.;very_good;bad;very_good;very_good;very_good;average;very_good;VERY_GOOD;5
+ A mixed stuff has a part stuff that is a stuff. True or false?;very_good;very_bad;very_bad;average;very_bad;very_bad;good;VERY_BAD;4
+ True or false: A stuff has a state that is only a stuff state.;very_good;very_bad;very_good;bad;very_bad;very_bad;very_good;VERY_GOOD;3
+ A stuff has a state that is only a stuff state. True or false?;very_good;very_bad;good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Which mixed stuff has a stuff distribution that is an even distribution?;average;very_bad;very_good;very_good;very_bad;good;very_good;VERY_GOOD;3
+ Which physical endurant has a state that is only a stuff state?;average;very_bad;very_good;bad;very_bad;good;very_good;VERY_GOOD;2
+ Define a gel.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is a physical object?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define being a solid.;very_good;average;very_good;very_good;very_good;bad;very_good;VERY_GOOD;5
+ What is being a liquid?;very_good;bad;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+Rate of agreement (6/7) between evaluators is 2/12 ratio = 16.67%
+Rate of agreement (5/7) between evaluators is 5/12 ratio = 41.67%
+Rate of agreement (4/7) between evaluators is 7/12 ratio = 58.33%
+Rate of agreement (3/7) between evaluators is 10/12 ratio = 83.33%

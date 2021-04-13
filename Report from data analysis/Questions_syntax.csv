@@ -1,0 +1,115 @@
+ Does a carnivorous plant eat an animal?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Does an impala live on land?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Is phloem a proper part of a stem?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Does a lion eat only a herbivore?;A=3;B=2;C=2;D=0;E=0;4.14285714285714;[VERY_GOOD-AVERAGE];GOOD
+ Does a rock dassie live on only land?;A=2;B=3;C=0;D=2;E=0;3.71428571428571;[VERY_GOOD-BAD];GOOD
+ Does a carnivorous plant eat some animal?;A=5;B=1;C=0;D=1;E=0;4.42857142857143;[VERY_GOOD-BAD];VERY_GOOD
+ Does a bumble bee participate in flying?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Is phloem a proper part of some stem?;A=6;B=0;C=0;D=1;E=0;4.57142857142857;[VERY_GOOD-BAD];VERY_GOOD
+ Does a bumble bee fly?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Are there any differences between a lion and a king of beasts?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Are there any differences between hole up and hibernate?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ True or false: A carnivorous plant eats an animal.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: An impala lives on land.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: Phloem is a proper part of a stem.;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ A lion eats a herbivore. True or false?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ An elephant lives on land. True or false?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Phloem is a proper part of a stem. True or false?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ True or false: Phloem is a proper part of some stem.;A=5;B=1;C=0;D=1;E=0;4.42857142857143;[VERY_GOOD-BAD];VERY_GOOD
+ True or false: A lion eats only a herbivore.;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ True or false: A rock dassie lives on only land.;A=2;B=4;C=1;D=0;E=0;4.14285714285714;[VERY_GOOD-AVERAGE];GOOD
+ True or false: A carnivorous plant eats some animal.;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ True or false: A bumble bee participates in flying.;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Phloem is a proper part of some stem. True or false?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ A lion eats only a herbivore. True or false?;A=4;B=3;C=0;D=0;E=0;4.57142857142857;[VERY_GOOD-GOOD];VERY_GOOD
+ A rock dassie lives on only land. True or false?;A=3;B=4;C=0;D=0;E=0;4.42857142857143;[VERY_GOOD-GOOD];GOOD
+ A carnivorous plant eats some animal. True or false?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ A bumble bee participates in flying. True or false?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ Which carnivore eats a herbivore?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Which carnivore lives on land?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Which plant parts is a proper part of a stem?;A=4;B=2;C=1;D=0;E=0;4.42857142857143;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Which endurant is a proper part of some plant?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Which carnivore eats only a herbivore?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Which carnivore lives on only land?;A=3;B=3;C=1;D=0;E=0;4.28571428571429;[VERY_GOOD-AVERAGE];GOOD
+ Which carnivore eats some impala?;A=6;B=0;C=0;D=1;E=0;4.57142857142857;[VERY_GOOD-BAD];VERY_GOOD
+ Which insect participates in flying?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ Define a palmtree.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ What is an animal?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Define holing up.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ What is looping?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Does a mixed stuff have a part stuff that is a stuff?;A=3;B=0;C=2;D=0;E=2;3.28571428571429;[VERY_GOOD-VERY_BAD];AVERAGE
+ Does a stuff stuff state?;A=2;B=0;C=0;D=2;E=3;2.42857142857143;[VERY_GOOD-VERY_BAD];BAD
+ True or false: A heterogeneous mixture has a stuff distribution that is an uneven distribution.;A=5;B=1;C=0;D=0;E=1;4.28571428571429;[VERY_GOOD-VERY_BAD];VERY_GOOD
+ A mixed stuff has a part stuff that is a stuff. True or false?;A=2;B=1;C=1;D=1;E=2;3;[VERY_GOOD-VERY_BAD];AVERAGE
+ True or false: A stuff has a state that is only a stuff state.;A=3;B=0;C=1;D=2;E=1;3.28571428571429;[VERY_GOOD-VERY_BAD];AVERAGE
+ A stuff has a state that is only a stuff state. True or false?;A=3;B=0;C=1;D=1;E=2;3.14285714285714;[VERY_GOOD-VERY_BAD];AVERAGE
+ Which mixed stuff has a stuff distribution that is an even distribution?;A=4;B=1;C=0;D=0;E=2;3.71428571428571;[VERY_GOOD-VERY_BAD];VERY_GOOD
+ Which physical endurant has a state that is only a stuff state?;A=4;B=0;C=1;D=1;E=1;3.71428571428571;[VERY_GOOD-VERY_BAD];VERY_GOOD
+ Define a gel.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ What is a physical object?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Define being a solid.;A=4;B=1;C=2;D=0;E=0;4.28571428571429;[VERY_GOOD-AVERAGE];VERY_GOOD
+ What is being a liquid?;A=3;B=4;C=0;D=0;E=0;4.42857142857143;[VERY_GOOD-GOOD];GOOD
+ Does a material object project onto an immaterial three dimensional physical entity?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ Does a plurality of organisms have a granular part that is an organism?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ Is an immaterial object a part of a material object?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ Is a temporal region preceded by a process?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ Is a material object included in universe?;A=4;B=2;C=1;D=0;E=0;4.42857142857143;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Does a material object project onto only an immaterial three dimensional physical entity?;A=3;B=2;C=2;D=0;E=0;4.14285714285714;[VERY_GOOD-AVERAGE];GOOD
+ Does a process project onto some temporal region?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ Does a collective process have a granular part that is some process?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ Is a plurality of organisms a bearer of some taxon quality?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Is a taxon value region a projection of only a taxon quality?;A=4;B=1;C=2;D=0;E=0;4.28571428571429;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Is a process preceded by only a temporal region?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: A process quality inheres in a process.;A=3;B=3;C=0;D=0;E=1;4;[VERY_GOOD-VERY_BAD];GOOD
+ True or false: A collective process has a granular part that is a process.;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ True or false: An immaterial object is a part of a material object.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: A temporal region is preceded by a process.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ A taxon quality projects onto a taxon value region. True or false?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ An immaterial object has a life that is life. True or false?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ An immaterial three dimensional physical entity is a projection of a material object. True or false?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ A process is preceded by a temporal region. True or false?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: Life is a life of some particular.;A=3;B=1;C=1;D=2;E=0;3.71428571428571;[VERY_GOOD-BAD];GOOD
+ True or false: A condition is a condition of only a situation.;A=5;B=0;C=1;D=1;E=0;4.28571428571429;[VERY_GOOD-BAD];VERY_GOOD
+ True or false: A temporal region is preceded by only a process.;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ True or false: A taxon quality projects onto only a taxon value region.;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ True or false: A collective process has a granular part that is only a process.;A=6;B=0;C=1;D=0;E=0;4.71428571428571;[VERY_GOOD-AVERAGE];VERY_GOOD
+ True or false: A process projects onto some temporal region.;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ True or false: An immaterial object has a life that is some life.;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ A material object is a part of some universe. True or false?;A=7;B=0;C=0;D=0;E=0;5;[VERY_GOOD-VERY_GOOD];VERY_GOOD
+ A condition is a condition of only a situation. True or false?;A=4;B=0;C=2;D=1;E=0;4;[VERY_GOOD-BAD];VERY_GOOD
+ A process is preceded by only a temporal region. True or false?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ A physical mass inheres in only a material object. True or false?;A=4;B=2;C=0;D=1;E=0;4.28571428571429;[VERY_GOOD-BAD];VERY_GOOD
+ A collective process has a granular part that is only a process. True or false?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ A process projects onto some temporal region. True or false?;A=6;B=1;C=0;D=0;E=0;4.85714285714286;[VERY_GOOD-GOOD];VERY_GOOD
+ A material object has a life that is some life. True or false?;A=4;B=0;C=3;D=0;E=0;4.14285714285714;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Which quality projects onto a canonicity value region?;A=5;B=2;C=0;D=0;E=0;4.71428571428571;[VERY_GOOD-GOOD];VERY_GOOD
+ Which condition has a life that is life?;A=4;B=0;C=2;D=1;E=0;4;[VERY_GOOD-BAD];VERY_GOOD
+ Which process is a life of a particular?;A=3;B=0;C=0;D=4;E=0;3.28571428571429;[VERY_GOOD-BAD];BAD
+ Which particular is preceded by a process?;A=3;B=0;C=1;D=3;E=0;3.42857142857143;[VERY_GOOD-BAD];AVERAGE
+ Which process is a life of some particular?;A=3;B=1;C=1;D=2;E=0;3.71428571428571;[VERY_GOOD-BAD];GOOD
+ Which value region is a projection of only a taxon quality?;A=4;B=1;C=1;D=1;E=0;4.14285714285714;[VERY_GOOD-BAD];VERY_GOOD
+ Which particular is preceded by only a process?;A=3;B=0;C=2;D=2;E=0;3.57142857142857;[VERY_GOOD-BAD];AVERAGE
+ Which object quality projects onto only a taxon value region?;A=4;B=2;C=0;D=0;E=1;4.14285714285714;[VERY_GOOD-VERY_BAD];VERY_GOOD
+ Which condition has a life that is only life?;A=4;B=0;C=1;D=2;E=0;3.85714285714286;[VERY_GOOD-BAD];VERY_GOOD
+ Which condition projects onto some immaterial three dimensional physical entity?;A=5;B=1;C=1;D=0;E=0;4.57142857142857;[VERY_GOOD-AVERAGE];VERY_GOOD
+ Which condition has a life that is some life?;A=4;B=1;C=0;D=2;E=0;4;[VERY_GOOD-BAD];VERY_GOOD
+
+Repartition Median - SYNTAX
+Very Good;77/95;81.05%
+Good;10/95;10.53%
+Average;6/95;6.32%
+Bad;2/95;2.11%
+Very Bad;0/95;0.00%
+
+\begin{tikzpicture}
+\pie[rotate = 240,
+text = pin,
+explode = 0.2,
+color ={ green!100,green!50,yellow!20,red!50, red!50}]
+{
+81.05/Very Good,
+10.53/Good,
+6.32/Average,
+2.11/Bad,
+0/Very Bad
+\end{tikzpicture}

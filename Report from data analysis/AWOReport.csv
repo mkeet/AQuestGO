@@ -1,0 +1,40 @@
+Num;Question;Syntax;Semantics
+1a; Does a carnivorous plant eat an animal?;Very Good;Very Good
+1b; Does an impala live on land?;Very Good;Very Good
+3; Is phloem a proper part of a stem?;Very Good;Very Good
+7a; Is phloem a proper part of some stem?;Very Good;Very Good
+9; Does a bumble bee fly?;Very Good;Very Good
+13; Are there any differences between a lion and a king of beasts?;Very Good;Very Good
+14; Are there any differences between hole up and hibernate?;Very Good;Very Good
+16a; True or false: A carnivorous plant eats an animal.;Very Good;Very Good
+16b; True or false: An impala lives on land.;Very Good;Very Good
+17a; True or false: Phloem is a proper part of a stem.;Very Good;Very Good
+18a; A lion eats a herbivore. True or false?;Very Good;Very Good
+18b; An elephant lives on land. True or false?;Very Good;Very Good
+19a; Phloem is a proper part of a stem. True or false?;Very Good;Very Good
+20a; True or false: Phloem is a proper part of some stem.;Very Good;Very Good
+21a; True or false: A lion eats only a herbivore.;Very Good;Very Good
+21d; True or false: A carnivorous plant eats some animal.;Very Good;Very Good
+22a; Phloem is a proper part of some stem. True or false?;Very Good;Very Good
+23a; A lion eats only a herbivore. True or false?;Very Good;Very Good
+23d; A carnivorous plant eats some animal. True or false?;Very Good;Very Good
+23e; A bumble bee participates in flying. True or false?;Very Good;Very Good
+24a; Which carnivore eats a herbivore?;Very Good;Very Good
+24b; Which carnivore lives on land?;Very Good;Very Good
+24d; Which plant parts is a proper part of a stem?;Very Good;Very Good
+25e; Which carnivore eats only a herbivore?;Very Good;Very Good
+25h; Which carnivore eats some impala?;Very Good;Very Good
+30; Define a palmtree.;Very Good;Very Good
+31; What is an animal?;Very Good;Very Good
+32; Define holing up.;Very Good;Very Good
+33; What is looping?;Very Good;Very Good
+5a; Does a lion eat only a herbivore?;Good;Very Good
+5b; Does a rock dassie live on only land?;Good;Very Good
+6a; Does a carnivorous plant eat some animal?;Very Good;Good
+6b; Does a bumble bee participate in flying?;Very Good;Good
+21b; True or false: A rock dassie lives on only land.;Good;Very Good
+21e; True or false: A bumble bee participates in flying.;Very Good;Good
+23b; A rock dassie lives on only land. True or false?;Good;Very Good
+25f; Which carnivore lives on only land?;Good;Very Good
+25i; Which insect participates in flying?;Very Good;Good
+25a; Which endurant is a proper part of some plant?;Very Good;Average

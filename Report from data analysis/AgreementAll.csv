@@ -1,0 +1,204 @@
+Inter-rater Agreeement from AWO & STUFF & BIOTOP Ontology - Syntax
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a carnivorous plant eat an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does an impala live on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is phloem a proper part of a stem?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does a lion eat only a herbivore?;very_good;average;very_good;good;average;very_good;good;VERY_GOOD;3
+ Does a rock dassie live on only land?;very_good;bad;bad;good;very_good;good;good;GOOD;3
+ Does a carnivorous plant eat some animal?;very_good;good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;5
+ Does a bumble bee participate in flying?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Is phloem a proper part of some stem?;very_good;very_good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;6
+ Does a bumble bee fly?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between a lion and a king of beasts?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between hole up and hibernate?;very_good;good;very_good;very_good;very_good;very_good;good;VERY_GOOD;5
+ True or false: A carnivorous plant eats an animal.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An impala lives on land.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Phloem is a proper part of a stem.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A lion eats a herbivore. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ An elephant lives on land. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Phloem is a proper part of a stem. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: Phloem is a proper part of some stem.;very_good;good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;5
+ True or false: A lion eats only a herbivore.;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A rock dassie lives on only land.;very_good;average;good;good;very_good;good;good;GOOD;4
+ True or false: A carnivorous plant eats some animal.;very_good;average;very_good;very_good;good;very_good;very_good;VERY_GOOD;5
+ True or false: A bumble bee participates in flying.;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Phloem is a proper part of some stem. True or false?;very_good;very_good;very_good;very_good;good;very_good;very_good;VERY_GOOD;6
+ A lion eats only a herbivore. True or false?;very_good;good;very_good;good;very_good;very_good;good;VERY_GOOD;4
+ A rock dassie lives on only land. True or false?;very_good;good;good;good;very_good;very_good;good;GOOD;4
+ A carnivorous plant eats some animal. True or false?;very_good;good;very_good;very_good;good;very_good;very_good;VERY_GOOD;5
+ A bumble bee participates in flying. True or false?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore eats a herbivore?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which carnivore lives on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which plant parts is a proper part of a stem?;very_good;average;very_good;good;very_good;very_good;good;VERY_GOOD;4
+ Which endurant is a proper part of some plant?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore eats only a herbivore?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore lives on only land?;very_good;average;good;good;very_good;very_good;good;VERY_GOOD;3
+ Which carnivore eats some impala?;very_good;bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which insect participates in flying?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Define a palmtree.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define holing up.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is looping?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does a mixed stuff have a part stuff that is a stuff?;very_good;very_bad;very_good;average;very_bad;average;very_good;VERY_GOOD;3
+ Does a stuff stuff state?;very_good;very_bad;bad;bad;very_bad;very_bad;very_good;VERY_BAD;3
+ True or false: A heterogeneous mixture has a stuff distribution that is an uneven distribution.;very_good;very_bad;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ A mixed stuff has a part stuff that is a stuff. True or false?;very_good;very_bad;bad;average;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A stuff has a state that is only a stuff state.;very_good;bad;very_good;average;very_bad;bad;very_good;VERY_GOOD;3
+ A stuff has a state that is only a stuff state. True or false?;very_good;very_bad;very_good;average;very_bad;bad;very_good;VERY_GOOD;3
+ Which mixed stuff has a stuff distribution that is an even distribution?;very_good;very_bad;very_good;good;very_bad;very_good;very_good;VERY_GOOD;4
+ Which physical endurant has a state that is only a stuff state?;very_good;average;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ Define a gel.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is a physical object?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define being a solid.;very_good;average;very_good;very_good;good;average;very_good;VERY_GOOD;4
+ What is being a liquid?;very_good;good;very_good;good;good;good;very_good;GOOD;4
+ Does a material object project onto an immaterial three dimensional physical entity?;good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a plurality of organisms have a granular part that is an organism?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is an immaterial object a part of a material object?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is a temporal region preceded by a process?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is a material object included in universe?;very_good;good;very_good;average;good;very_good;very_good;VERY_GOOD;4
+ Does a material object project onto only an immaterial three dimensional physical entity?;average;average;good;very_good;very_good;good;very_good;VERY_GOOD;3
+ Does a process project onto some temporal region?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Does a collective process have a granular part that is some process?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Is a plurality of organisms a bearer of some taxon quality?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Is a taxon value region a projection of only a taxon quality?;very_good;average;very_good;good;very_good;average;very_good;VERY_GOOD;4
+ Is a process preceded by only a temporal region?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: A process quality inheres in a process.;very_good;good;very_bad;good;very_good;good;very_good;VERY_GOOD;3
+ True or false: A collective process has a granular part that is a process.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: An immaterial object is a part of a material object.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: A temporal region is preceded by a process.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A taxon quality projects onto a taxon value region. True or false?;very_good;very_good;very_good;good;very_good;very_good;very_good;VERY_GOOD;6
+ An immaterial object has a life that is life. True or false?;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ An immaterial three dimensional physical entity is a projection of a material object. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A process is preceded by a temporal region. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Life is a life of some particular.;good;very_good;bad;bad;very_good;average;very_good;VERY_GOOD;3
+ True or false: A condition is a condition of only a situation.;very_good;very_good;very_good;bad;very_good;average;very_good;VERY_GOOD;5
+ True or false: A temporal region is preceded by only a process.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A taxon quality projects onto only a taxon value region.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A collective process has a granular part that is only a process.;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A process projects onto some temporal region.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An immaterial object has a life that is some life.;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ A material object is a part of some universe. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ A condition is a condition of only a situation. True or false?;very_good;average;very_good;bad;very_good;average;very_good;VERY_GOOD;4
+ A process is preceded by only a temporal region. True or false?;very_good;very_good;very_good;very_good;very_good;good;very_good;VERY_GOOD;6
+ A physical mass inheres in only a material object. True or false?;very_good;good;bad;very_good;very_good;good;very_good;VERY_GOOD;4
+ A collective process has a granular part that is only a process. True or false?;very_good;good;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+ A process projects onto some temporal region. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A material object has a life that is some life. True or false?;very_good;average;very_good;average;very_good;average;very_good;VERY_GOOD;4
+ Which quality projects onto a canonicity value region?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which condition has a life that is life?;very_good;average;very_good;bad;very_good;average;very_good;VERY_GOOD;4
+ Which process is a life of a particular?;very_good;bad;bad;bad;very_good;bad;very_good;BAD;4
+ Which particular is preceded by a process?;very_good;average;bad;bad;very_good;bad;very_good;VERY_GOOD;3
+ Which process is a life of some particular?;very_good;good;average;bad;very_good;bad;very_good;VERY_GOOD;3
+ Which value region is a projection of only a taxon quality?;very_good;average;very_good;good;very_good;bad;very_good;VERY_GOOD;4
+ Which particular is preceded by only a process?;very_good;average;bad;average;very_good;bad;very_good;VERY_GOOD;3
+ Which object quality projects onto only a taxon value region?;very_good;very_bad;very_good;good;very_good;good;very_good;VERY_GOOD;4
+ Which condition has a life that is only life?;very_good;average;very_good;bad;very_good;bad;very_good;VERY_GOOD;4
+ Which condition projects onto some immaterial three dimensional physical entity?;very_good;good;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ Which condition has a life that is some life?;very_good;bad;very_good;bad;very_good;good;very_good;VERY_GOOD;4
+Rate of agreement (6/7) between evaluators is 40/95 ratio = 42.11%
+Rate of agreement (5/7) between evaluators is 62/95 ratio = 65.26%
+Rate of agreement (4/7) between evaluators is 81/95 ratio = 85.26%
+Rate of agreement (3/7) between evaluators is 94/95 ratio = 98.95%
+
+
+Inter-rater Agreeement from AWO & STUFF & BIOTOP Ontology - Semantics
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a carnivorous plant eat an animal?;very_good;average;very_good;very_good;average;very_good;very_good;VERY_GOOD;5
+ Does an impala live on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is phloem a proper part of a stem?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a lion eat only a herbivore?;very_good;bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Does a rock dassie live on only land?;average;bad;good;very_good;very_good;very_good;very_good;VERY_GOOD;4
+ Does a carnivorous plant eat some animal?;average;bad;very_good;very_good;good;very_good;good;VERY_GOOD;3
+ Does a bumble bee participate in flying?;bad;bad;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Is phloem a proper part of some stem?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a bumble bee fly?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between a lion and a king of beasts?;very_good;bad;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ Are there any differences between hole up and hibernate?;average;very_bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A carnivorous plant eats an animal.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An impala lives on land.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Phloem is a proper part of a stem.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ A lion eats a herbivore. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ An elephant lives on land. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Phloem is a proper part of a stem. True or false?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: Phloem is a proper part of some stem.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A lion eats only a herbivore.;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A rock dassie lives on only land.;average;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A carnivorous plant eats some animal.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A bumble bee participates in flying.;bad;average;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Phloem is a proper part of some stem. True or false?;very_good;very_good;very_good;good;very_good;very_good;very_good;VERY_GOOD;6
+ A lion eats only a herbivore. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A rock dassie lives on only land. True or false?;average;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ A carnivorous plant eats some animal. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A bumble bee participates in flying. True or false?;very_good;good;good;very_good;very_good;very_good;good;VERY_GOOD;4
+ Which carnivore eats a herbivore?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which carnivore lives on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which plant parts is a proper part of a stem?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which endurant is a proper part of some plant?;bad;average;average;bad;very_good;very_good;very_good;VERY_GOOD;3
+ Which carnivore eats only a herbivore?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which carnivore lives on only land?;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which carnivore eats some impala?;very_good;bad;average;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ Which insect participates in flying?;bad;good;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Define a palmtree.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define holing up.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is looping?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does a mixed stuff have a part stuff that is a stuff?;average;very_bad;bad;average;very_bad;very_bad;good;VERY_BAD;3
+ Does a stuff stuff state?;bad;very_bad;very_bad;bad;very_bad;very_bad;bad;VERY_BAD;4
+ True or false: A heterogeneous mixture has a stuff distribution that is an uneven distribution.;very_good;bad;very_good;very_good;very_good;average;very_good;VERY_GOOD;5
+ A mixed stuff has a part stuff that is a stuff. True or false?;very_good;very_bad;very_bad;average;very_bad;very_bad;good;VERY_BAD;4
+ True or false: A stuff has a state that is only a stuff state.;very_good;very_bad;very_good;bad;very_bad;very_bad;very_good;VERY_GOOD;3
+ A stuff has a state that is only a stuff state. True or false?;very_good;very_bad;good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Which mixed stuff has a stuff distribution that is an even distribution?;average;very_bad;very_good;very_good;very_bad;good;very_good;VERY_GOOD;3
+ Which physical endurant has a state that is only a stuff state?;average;very_bad;very_good;bad;very_bad;good;very_good;VERY_GOOD;2
+ Define a gel.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is a physical object?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define being a solid.;very_good;average;very_good;very_good;very_good;bad;very_good;VERY_GOOD;5
+ What is being a liquid?;very_good;bad;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+ Does a material object project onto an immaterial three dimensional physical entity?;average;average;bad;good;very_good;very_good;very_good;VERY_GOOD;3
+ Does a plurality of organisms have a granular part that is an organism?;very_good;very_bad;bad;good;very_good;good;very_good;VERY_GOOD;3
+ Is an immaterial object a part of a material object?;very_good;average;good;very_good;bad;very_good;very_good;VERY_GOOD;4
+ Is a temporal region preceded by a process?;very_good;bad;good;good;very_good;good;very_good;VERY_GOOD;3
+ Is a material object included in universe?;good;good;good;very_good;very_good;very_good;very_good;VERY_GOOD;4
+ Does a material object project onto only an immaterial three dimensional physical entity?;average;good;good;good;very_good;average;very_good;GOOD;3
+ Does a process project onto some temporal region?;very_good;bad;good;bad;very_good;average;very_good;VERY_GOOD;3
+ Does a collective process have a granular part that is some process?;very_good;average;very_good;very_good;very_good;good;very_good;VERY_GOOD;5
+ Is a plurality of organisms a bearer of some taxon quality?;good;bad;very_good;good;very_bad;very_good;very_good;VERY_GOOD;3
+ Is a taxon value region a projection of only a taxon quality?;good;average;very_good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Is a process preceded by only a temporal region?;very_good;average;good;bad;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A process quality inheres in a process.;average;bad;very_bad;average;very_bad;very_bad;very_good;VERY_BAD;3
+ True or false: A collective process has a granular part that is a process.;very_good;average;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: An immaterial object is a part of a material object.;very_good;good;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: A temporal region is preceded by a process.;good;good;good;good;very_bad;very_good;very_good;GOOD;4
+ A taxon quality projects onto a taxon value region. True or false?;very_good;good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ An immaterial object has a life that is life. True or false?;very_good;bad;average;average;very_bad;average;average;AVERAGE;4
+ An immaterial three dimensional physical entity is a projection of a material object. True or false?;very_good;very_good;good;average;very_bad;very_good;very_good;VERY_GOOD;4
+ A process is preceded by a temporal region. True or false?;very_good;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;5
+ True or false: Life is a life of some particular.;bad;average;bad;bad;very_bad;average;very_good;BAD;3
+ True or false: A condition is a condition of only a situation.;average;average;very_good;bad;very_bad;bad;very_good;VERY_GOOD;2
+ True or false: A temporal region is preceded by only a process.;average;average;very_good;good;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A taxon quality projects onto only a taxon value region.;good;average;very_good;bad;very_bad;good;very_good;VERY_GOOD;2
+ True or false: A collective process has a granular part that is only a process.;very_good;bad;very_good;very_good;very_bad;good;very_good;VERY_GOOD;4
+ True or false: A process projects onto some temporal region.;average;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;4
+ True or false: An immaterial object has a life that is some life.;good;bad;good;average;very_bad;average;very_good;GOOD;2
+ A material object is a part of some universe. True or false?;very_good;very_good;very_good;very_good;very_bad;very_good;very_good;VERY_GOOD;6
+ A condition is a condition of only a situation. True or false?;good;bad;good;bad;very_bad;average;very_good;GOOD;2
+ A process is preceded by only a temporal region. True or false?;very_good;good;very_good;bad;very_bad;good;very_good;VERY_GOOD;3
+ A physical mass inheres in only a material object. True or false?;very_good;bad;bad;very_good;very_bad;average;very_good;VERY_GOOD;3
+ A collective process has a granular part that is only a process. True or false?;very_good;average;good;very_good;very_bad;good;very_good;VERY_GOOD;3
+ A process projects onto some temporal region. True or false?;very_good;very_good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;5
+ A material object has a life that is some life. True or false?;very_good;very_bad;good;average;very_bad;average;very_good;VERY_GOOD;2
+ Which quality projects onto a canonicity value region?;average;good;very_good;bad;very_bad;average;very_good;VERY_GOOD;2
+ Which condition has a life that is life?;good;very_bad;good;bad;very_bad;average;very_good;GOOD;2
+ Which process is a life of a particular?;good;very_bad;bad;bad;very_bad;bad;very_good;BAD;3
+ Which particular is preceded by a process?;very_good;bad;bad;bad;very_bad;bad;very_good;BAD;4
+ Which process is a life of some particular?;very_good;average;average;bad;very_bad;bad;very_good;VERY_GOOD;2
+ Which value region is a projection of only a taxon quality?;good;bad;very_good;bad;very_bad;bad;very_good;BAD;3
+ Which particular is preceded by only a process?;very_good;bad;bad;bad;very_bad;bad;very_good;BAD;4
+ Which object quality projects onto only a taxon value region?;very_good;very_bad;very_good;bad;very_bad;good;very_good;VERY_GOOD;3
+ Which condition has a life that is only life?;good;bad;bad;bad;very_bad;average;very_good;BAD;3
+ Which condition projects onto some immaterial three dimensional physical entity?;good;good;very_good;bad;very_bad;very_good;very_good;VERY_GOOD;3
+ Which condition has a life that is some life?;good;bad;bad;bad;very_bad;average;very_good;BAD;3
+Rate of agreement (6/7) between evaluators is 23/95 ratio = 24.21%
+Rate of agreement (5/7) between evaluators is 43/95 ratio = 45.26%
+Rate of agreement (4/7) between evaluators is 57/95 ratio = 60.00%
+Rate of agreement (3/7) between evaluators is 82/95 ratio = 86.32%

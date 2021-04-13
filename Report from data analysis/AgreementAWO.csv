@@ -1,0 +1,92 @@
+Inter-rater Agreeement from AWO - Syntax
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a carnivorous plant eat an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does an impala live on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is phloem a proper part of a stem?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Does a lion eat only a herbivore?;very_good;average;very_good;good;average;very_good;good;VERY_GOOD;3
+ Does a rock dassie live on only land?;very_good;bad;bad;good;very_good;good;good;GOOD;3
+ Does a carnivorous plant eat some animal?;very_good;good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;5
+ Does a bumble bee participate in flying?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Is phloem a proper part of some stem?;very_good;very_good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;6
+ Does a bumble bee fly?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between a lion and a king of beasts?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between hole up and hibernate?;very_good;good;very_good;very_good;very_good;very_good;good;VERY_GOOD;5
+ True or false: A carnivorous plant eats an animal.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An impala lives on land.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Phloem is a proper part of a stem.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A lion eats a herbivore. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ An elephant lives on land. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Phloem is a proper part of a stem. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: Phloem is a proper part of some stem.;very_good;good;very_good;very_good;bad;very_good;very_good;VERY_GOOD;5
+ True or false: A lion eats only a herbivore.;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A rock dassie lives on only land.;very_good;average;good;good;very_good;good;good;GOOD;4
+ True or false: A carnivorous plant eats some animal.;very_good;average;very_good;very_good;good;very_good;very_good;VERY_GOOD;5
+ True or false: A bumble bee participates in flying.;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Phloem is a proper part of some stem. True or false?;very_good;very_good;very_good;very_good;good;very_good;very_good;VERY_GOOD;6
+ A lion eats only a herbivore. True or false?;very_good;good;very_good;good;very_good;very_good;good;VERY_GOOD;4
+ A rock dassie lives on only land. True or false?;very_good;good;good;good;very_good;very_good;good;GOOD;4
+ A carnivorous plant eats some animal. True or false?;very_good;good;very_good;very_good;good;very_good;very_good;VERY_GOOD;5
+ A bumble bee participates in flying. True or false?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore eats a herbivore?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which carnivore lives on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which plant parts is a proper part of a stem?;very_good;average;very_good;good;very_good;very_good;good;VERY_GOOD;4
+ Which endurant is a proper part of some plant?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore eats only a herbivore?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which carnivore lives on only land?;very_good;average;good;good;very_good;very_good;good;VERY_GOOD;3
+ Which carnivore eats some impala?;very_good;bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which insect participates in flying?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Define a palmtree.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define holing up.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is looping?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+Rate of agreement (6/7) between evaluators is 20/39 ratio = 51.28%
+Rate of agreement (5/7) between evaluators is 32/39 ratio = 82.05%
+Rate of agreement (4/7) between evaluators is 36/39 ratio = 92.31%
+Rate of agreement (3/7) between evaluators is 39/39 ratio = 100.00%
+
+
+Inter-rater Agreeement from AWO - Semantics
+Question;Evaluator1;Evaluator2;Evaluator3;Evaluator4;Evaluator5;Evaluator6;Evaluator7;Result;Frequency;
+ Does a carnivorous plant eat an animal?;very_good;average;very_good;very_good;average;very_good;very_good;VERY_GOOD;5
+ Does an impala live on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Is phloem a proper part of a stem?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a lion eat only a herbivore?;very_good;bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Does a rock dassie live on only land?;average;bad;good;very_good;very_good;very_good;very_good;VERY_GOOD;4
+ Does a carnivorous plant eat some animal?;average;bad;very_good;very_good;good;very_good;good;VERY_GOOD;3
+ Does a bumble bee participate in flying?;bad;bad;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Is phloem a proper part of some stem?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Does a bumble bee fly?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Are there any differences between a lion and a king of beasts?;very_good;bad;very_good;average;very_good;very_good;very_good;VERY_GOOD;5
+ Are there any differences between hole up and hibernate?;average;very_bad;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A carnivorous plant eats an animal.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: An impala lives on land.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ True or false: Phloem is a proper part of a stem.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ A lion eats a herbivore. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ An elephant lives on land. True or false?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Phloem is a proper part of a stem. True or false?;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: Phloem is a proper part of some stem.;very_good;good;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A lion eats only a herbivore.;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A rock dassie lives on only land.;average;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ True or false: A carnivorous plant eats some animal.;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ True or false: A bumble bee participates in flying.;bad;average;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Phloem is a proper part of some stem. True or false?;very_good;very_good;very_good;good;very_good;very_good;very_good;VERY_GOOD;6
+ A lion eats only a herbivore. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A rock dassie lives on only land. True or false?;average;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ A carnivorous plant eats some animal. True or false?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ A bumble bee participates in flying. True or false?;very_good;good;good;very_good;very_good;very_good;good;VERY_GOOD;4
+ Which carnivore eats a herbivore?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which carnivore lives on land?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Which plant parts is a proper part of a stem?;very_good;average;very_good;good;very_good;very_good;very_good;VERY_GOOD;5
+ Which endurant is a proper part of some plant?;bad;average;average;bad;very_good;very_good;very_good;VERY_GOOD;3
+ Which carnivore eats only a herbivore?;very_good;good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which carnivore lives on only land?;very_good;average;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;6
+ Which carnivore eats some impala?;very_good;bad;average;very_good;very_good;very_good;very_good;VERY_GOOD;5
+ Which insect participates in flying?;bad;good;good;very_good;very_good;very_good;good;VERY_GOOD;3
+ Define a palmtree.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is an animal?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ Define holing up.;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+ What is looping?;very_good;very_good;very_good;very_good;very_good;very_good;very_good;VERY_GOOD;7
+Rate of agreement (6/7) between evaluators is 20/39 ratio = 51.28%
+Rate of agreement (5/7) between evaluators is 32/39 ratio = 82.05%
+Rate of agreement (4/7) between evaluators is 34/39 ratio = 87.18%
+Rate of agreement (3/7) between evaluators is 39/39 ratio = 100.00%

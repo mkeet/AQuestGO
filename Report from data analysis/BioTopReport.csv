@@ -1,0 +1,45 @@
+Num;Question;Syntax;Semantics
+3; Is an immaterial object a part of a material object?;Very Good;Very Good
+4b; Is a material object included in universe?;Very Good;Very Good
+6c; Does a collective process have a granular part that is some process?;Very Good;Very Good
+16c; True or false: A collective process has a granular part that is a process.;Very Good;Very Good
+17a; True or false: An immaterial object is a part of a material object.;Very Good;Very Good
+18b; A taxon quality projects onto a taxon value region. True or false?;Very Good;Very Good
+19a; An immaterial three dimensional physical entity is a projection of a material object. True or false?;Very Good;Very Good
+19b; A process is preceded by a temporal region. True or false?;Very Good;Very Good
+21c; True or false: A collective process has a granular part that is only a process.;Very Good;Very Good
+21e; True or false: A process projects onto some temporal region.;Very Good;Very Good
+22a; A material object is a part of some universe. True or false?;Very Good;Very Good
+23e; A process projects onto some temporal region. True or false?;Very Good;Very Good
+1b; Does a material object project onto an immaterial three dimensional physical entity?;Very Good;Good
+1c; Does a plurality of organisms have a granular part that is an organism?;Very Good;Good
+4a; Is a temporal region preceded by a process?;Very Good;Good
+6b; Does a process project onto some temporal region?;Very Good;Good
+7a; Is a plurality of organisms a bearer of some taxon quality?;Very Good;Good
+8b; Is a process preceded by only a temporal region?;Very Good;Good
+17b; True or false: A temporal region is preceded by a process.;Very Good;Good
+20d; True or false: A temporal region is preceded by only a process.;Very Good;Good
+21b; True or false: A taxon quality projects onto only a taxon value region.;Very Good;Good
+22d; A process is preceded by only a temporal region. True or false?;Very Good;Good
+23c; A collective process has a granular part that is only a process. True or false?;Very Good;Good
+25f; Which object quality projects onto only a taxon value region?;Very Good;Good
+25i; Which condition projects onto some immaterial three dimensional physical entity?;Very Good;Good
+5b; Does a material object project onto only an immaterial three dimensional physical entity?;Good;Good
+8a; Is a taxon value region a projection of only a taxon quality?;Very Good;Average
+18c; An immaterial object has a life that is life. True or false?;Very Good;Average
+20c; True or false: A condition is a condition of only a situation.;Very Good;Average
+21f; True or false: An immaterial object has a life that is some life.;Very Good;Average
+22c; A condition is a condition of only a situation. True or false?;Very Good;Average
+23b; A physical mass inheres in only a material object. True or false?;Very Good;Average
+23f; A material object has a life that is some life. True or false?;Very Good;Average
+24b; Which quality projects onto a canonicity value region?;Very Good;Average
+24c; Which condition has a life that is life?;Very Good;Average
+25a; Which process is a life of some particular?;Good;Average
+25c; Which value region is a projection of only a taxon quality?;Very Good;Bad
+25g; Which condition has a life that is only life?;Very Good;Bad
+25j; Which condition has a life that is some life?;Very Good;Bad
+16b; True or false: A process quality inheres in a process.;Good;Bad
+20a; True or false: Life is a life of some particular.;Good;Bad
+24e; Which particular is preceded by a process?;Average;Bad
+25d; Which particular is preceded by only a process?;Average;Bad
+24d; Which process is a life of a particular?;Bad;Bad
