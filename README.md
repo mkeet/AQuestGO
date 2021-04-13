@@ -11,7 +11,13 @@ These approaches were implemented and evaluated by means of a user evaluation. T
 
 ## Content on this repo
 
-This repository contains an implementation of the algorithms and the templates we designed and used for testing.
+This repository contains implemented algorithms, the templates, the generated questions, the ontologies and the data used in the experiment.
+- DataAnalysis.zip contains the C# code with which we have done the data analysis.
+- Algorithms contains the algorithms: Algorithm 1, Algorithm 2 and OP Classifier.
+- Ontologies contains the ontologies used in the experiment.
+- Data Used contains the collected data (excel and CSV files).
+- Report from data analysis contains the results of the data analysis from the C# code.
+
 
 ## Contributors:
 - Toky Raboanary
