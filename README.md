@@ -18,3 +18,5 @@ This repository contains an implementation of the algorithms and the templates w
 - Steve Wang
 - Maria Keet
 
+## Funding
+In theory, yes, since it was specified as part of the "Quest: Querying Smart Text" project that was approved for funding in 2019 by SADiLaR, but they still haven't paid. The insights gained are also relevant within the scope of the NRF-funded <a href="http://www.meteck.org/MoReNL/">MoreNL project</a> for surface realisers for African languages.
