@@ -17,6 +17,7 @@ This repository contains implemented algorithms, the templates, the generated qu
 - 'DataAnalysis.zip' contains the C# code with which we have done the data analysis.
 - 'AlgorithmsAndQuestionTypes' contains the algorithms: Algorithm 1, Algorithm 2, OP Classifier and the types of questions with their axiom prerequisites.
 - 'Ontologies' contains the ontologies used in the experiment.
+- 'DigitalHumanities' contains the DH ontologies used and the generated questions.
 - 'Data Used' contains the collected data (excel and CSV files).
 - 'Report from data analysis' contains the results of the data analysis from the C# code.
 
