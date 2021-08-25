@@ -1,0 +1,289 @@
+DEFINE_QUESTIONS = 7
+34. What is a manifestation?
+34. What is an aim?
+34. What is a disagree action?
+34. What is a performance?
+34. What is is translating?
+34. What is a lend action?
+34. What is an agree action?
+34. What is a tune?
+34. What is work?
+34. What is is improvising?
+34. What is an offer?
+34. What is a copy?
+34. What is a temporal?
+34. What is is communicating?
+34. What is is lending?
+34. What is a broadcast event?
+34. What is an on demand event?
+34. What is is adapting?
+34. What is an attribute?
+34. What is a create action?
+34. What is a rent action?
+34. What is is attending?
+34. What is a creative work?
+34. What is a recording?
+34. What is a perform in public?
+34. What is a sell?
+34. What is an ownership info?
+34. What is is agreeing?
+34. What is an offer?
+34. What is a public place?
+34. What is a sell action?
+34. What is an use?
+34. What is a make available?
+34. What is a place?
+34. What is a record?
+34. What is an exploit?
+34. What is a person?
+34. What is a copyright?
+34. What is a pay action?
+34. What is an instance?
+34. What is a broadcast?
+34. What is is deriving?
+34. What is an access?
+34. What is is synchronizing?
+34. What is a manifest?
+34. What is is distributing?
+34. What is a legal person?
+34. What is is performing?
+34. What is an organization?
+34. What is an action?
+34. What is an action?
+34. What is a communication?
+34. What is a consume action?
+34. What is is disagreeing?
+34. What is a rent?
+EQUIVALENCE_QUESTIONS = 0
+TRUE_FALSE_QUESTIONS = 1
+16a. True or false: A tune objects a broadcast event.
+18a. A tune objects a broadcast event. True or false?
+16a. True or false: Is improvising objects work.
+18a. Is improvising objects work. True or false?
+16c. True or false: Is improvising has an agent that is a legal person.
+18c. Is improvising has an agent that is a legal person. True or false?
+16a. True or false: Is improvising results a performance.
+18a. Is improvising results a performance. True or false?
+16a. True or false: A copy results an instance.
+18a. A copy results an instance. True or false?
+16a. True or false: A copy objects a creative work.
+18a. A copy objects a creative work. True or false?
+16a. True or false: Is communicating results a communication.
+18a. Is communicating results a communication. True or false?
+16c. True or false: Is lending has a condition that is a pay action.
+18c. Is lending has a condition that is a pay action. True or false?
+16a. True or false: Is attending objects a performance.
+18a. Is attending objects a performance. True or false?
+16c. True or false: A perform in public has a location that is a public place.
+18c. A perform in public has a location that is a public place. True or false?
+16c. True or false: A sell has a condition that is a pay action.
+18c. A sell has a condition that is a pay action. True or false?
+16c. True or false: A sell has a consequence that is an ownership info.
+18c. A sell has a consequence that is an ownership info. True or false?
+16c. True or false: An use has an agent that is a legal person.
+18c. An use has an agent that is a legal person. True or false?
+16a. True or false: A make available results an on demand event.
+18a. A make available results an on demand event. True or false?
+16a. True or false: A record results a recording.
+18a. A record results a recording. True or false?
+16a. True or false: A broadcast results a broadcast event.
+18a. A broadcast results a broadcast event. True or false?
+16a. True or false: Is deriving results a manifestation.
+18a. Is deriving results a manifestation. True or false?
+16a. True or false: Is deriving objects work.
+18a. Is deriving objects work. True or false?
+16a. True or false: An access objects an on demand event.
+18a. An access objects an on demand event. True or false?
+16a. True or false: A manifest objects work.
+18a. A manifest objects work. True or false?
+16c. True or false: A manifest has an agent that is a legal person.
+18c. A manifest has an agent that is a legal person. True or false?
+16a. True or false: A manifest results a manifestation.
+18a. A manifest results a manifestation. True or false?
+16a. True or false: Is distributing objects a creative work.
+18a. Is distributing objects a creative work. True or false?
+16a. True or false: Is performing results a performance.
+18a. Is performing results a performance. True or false?
+16c. True or false: A rent has a condition that is a pay action.
+18c. A rent has a condition that is a pay action. True or false?
+TRUE_FALSE_QUESTIONS_QUANTIFIED = 3
+21a. True or false: A tune objects only a broadcast event.
+23a. A tune objects only a broadcast event. True or false?
+21a. True or false: Is improvising objects only work.
+23a. Is improvising objects only work. True or false?
+21c. True or false: Is improvising has an agent that is only a legal person.
+23c. Is improvising has an agent that is only a legal person. True or false?
+21a. True or false: Is improvising results only a performance.
+23a. Is improvising results only a performance. True or false?
+21a. True or false: A copy results only an instance.
+23a. A copy results only an instance. True or false?
+21a. True or false: A copy objects only a creative work.
+23a. A copy objects only a creative work. True or false?
+21a. True or false: Is communicating results only a communication.
+23a. Is communicating results only a communication. True or false?
+21c. True or false: Is lending has a condition that is only a pay action.
+23c. Is lending has a condition that is only a pay action. True or false?
+21a. True or false: Is attending objects only a performance.
+23a. Is attending objects only a performance. True or false?
+21c. True or false: A perform in public has a location that is only a public place.
+23c. A perform in public has a location that is only a public place. True or false?
+21f. True or false: A sell has a condition that is some pay action.
+23f. A sell has a condition that is some pay action. True or false?
+21f. True or false: A sell has a consequence that is some ownership info.
+23f. A sell has a consequence that is some ownership info. True or false?
+21c. True or false: An use has an agent that is only a legal person.
+23c. An use has an agent that is only a legal person. True or false?
+21a. True or false: A make available results only an on demand event.
+23a. A make available results only an on demand event. True or false?
+21a. True or false: A record results only a recording.
+23a. A record results only a recording. True or false?
+21a. True or false: A broadcast results only a broadcast event.
+23a. A broadcast results only a broadcast event. True or false?
+21a. True or false: Is deriving results only a manifestation.
+23a. Is deriving results only a manifestation. True or false?
+21a. True or false: Is deriving objects only work.
+23a. Is deriving objects only work. True or false?
+21a. True or false: An access objects only an on demand event.
+23a. An access objects only an on demand event. True or false?
+21a. True or false: A manifest objects only work.
+23a. A manifest objects only work. True or false?
+21c. True or false: A manifest has an agent that is only a legal person.
+23c. A manifest has an agent that is only a legal person. True or false?
+21a. True or false: A manifest results only a manifestation.
+23a. A manifest results only a manifestation. True or false?
+21a. True or false: Is distributing objects only a creative work.
+23a. Is distributing objects only a creative work. True or false?
+21a. True or false: Is performing results only a performance.
+23a. Is performing results only a performance. True or false?
+21f. True or false: A rent has a condition that is some pay action.
+23f. A rent has a condition that is some pay action. True or false?
+WHAT_QUESTIONS_QUANTIFIED = 6
+25g. Which lend action has a condition that is only a pay action?
+25e. Which temporal objects only work?
+25g. Which temporal has an agent that is only a legal person?
+25e. Which temporal results only a performance?
+25e. Which temporal results only a manifestation?
+25e. Which communicate results only a broadcast event?
+25e. Which communicate results only an on demand event?
+25e. Which create action objects only work?
+25g. Which create action has an agent that is only a legal person?
+25e. Which create action results only a manifestation?
+25e. Which use objects only a broadcast event?
+25e. Which use objects only an on demand event?
+25e. Which use objects only a performance?
+25e. Which exploit results only a performance?
+25e. Which exploit results only an instance?
+25e. Which exploit objects only a creative work?
+25e. Which exploit results only a communication?
+25e. Which exploit results only a manifestation?
+25e. Which exploit objects only work?
+25e. Which exploit results only a recording?
+25g. Which distribute has a condition that is only a pay action?
+25g. Which perform has a location that is only a public place?
+25e. Which action objects only work?
+25g. Which action has an agent that is only a legal person?
+25e. Which action results only a performance?
+25e. Which action results only a manifestation?
+25g. Which consume action has an agent that is only a legal person?
+WHAT_QUESTIONS_TYPE1 = 4
+24c. Which lend action has a condition that is a pay action?
+24a. Which temporal objects work?
+24c. Which temporal has an agent that is a legal person?
+24a. Which temporal results a performance?
+24a. Which temporal results a manifestation?
+24a. Which communicate results a broadcast event?
+24a. Which communicate results an on demand event?
+24a. Which create action objects work?
+24c. Which create action has an agent that is a legal person?
+24a. Which create action results a manifestation?
+24c. Which rent action has a condition that is a pay action?
+24c. Which sell action has a condition that is a pay action?
+24c. Which sell action has a consequence that is an ownership info?
+24a. Which use objects a broadcast event?
+24a. Which use objects an on demand event?
+24a. Which use objects a performance?
+24a. Which exploit results a performance?
+24a. Which exploit results an instance?
+24a. Which exploit objects a creative work?
+24a. Which exploit results a communication?
+24a. Which exploit results a manifestation?
+24a. Which exploit objects work?
+24a. Which exploit results a recording?
+24c. Which distribute has a condition that is a pay action?
+24c. Which distribute has a consequence that is an ownership info?
+24c. Which perform has a location that is a public place?
+24a. Which action objects work?
+24c. Which action has an agent that is a legal person?
+24a. Which action results a performance?
+24a. Which action results a manifestation?
+24c. Which consume action has an agent that is a legal person?
+WHAT_QUESTIONS_TYPE2 = 5
+26. What does a tune object?
+26. What does is improvising object?
+26. What does is improvising result?
+26. What does a copy result?
+26. What does a copy object?
+26. What does is communicating result?
+26. What does is attending object?
+26. What does a make available result?
+26. What does a record result?
+26. What does a broadcast result?
+26. What does is deriving result?
+26. What does is deriving object?
+26. What does an access object?
+26. What does a manifest result?
+26. What does a manifest object?
+26. What does is distributing object?
+26. What does is performing result?
+YES_NO_QUESTION_TYPE1 = 1
+1a. Does a tune object a broadcast event?
+1a. Does is improvising object work?
+1c. Does is improvising have an agent that is a legal person?
+1a. Does is improvising result a performance?
+1a. Does a copy result an instance?
+1a. Does a copy object a creative work?
+1a. Does is communicating result a communication?
+1c. Does is lending have a condition that is a pay action?
+1a. Does is attending object a performance?
+1c. Does a perform in public have a location that is a public place?
+1c. Does a sell have a condition that is a pay action?
+1c. Does a sell have a consequence that is an ownership info?
+1c. Does an use have an agent that is a legal person?
+1a. Does a make available result an on demand event?
+1a. Does a record result a recording?
+1a. Does a broadcast result a broadcast event?
+1a. Does is deriving result a manifestation?
+1a. Does is deriving object work?
+1a. Does an access object an on demand event?
+1a. Does a manifest object work?
+1c. Does a manifest have an agent that is a legal person?
+1a. Does a manifest result a manifestation?
+1a. Does is distributing object a creative work?
+1a. Does is performing result a performance?
+1c. Does a rent have a condition that is a pay action?
+YES_NO_QUESTION_TYPE1_QUANTIFIED = 3
+5a. Does a tune object only a broadcast event?
+5a. Does is improvising object only work?
+5c. Does is improvising have an agent that is only a legal person?
+5a. Does is improvising result only a performance?
+5a. Does a copy result only an instance?
+5a. Does a copy object only a creative work?
+5a. Does is communicating result only a communication?
+5c. Does is lending have a condition that is only a pay action?
+5a. Does is attending object only a performance?
+5c. Does a perform in public have a location that is only a public place?
+6c. Does a sell have a condition that is some pay action?
+6c. Does a sell have a consequence that is some ownership info?
+5c. Does an use have an agent that is only a legal person?
+5a. Does a make available result only an on demand event?
+5a. Does a record result only a recording?
+5a. Does a broadcast result only a broadcast event?
+5a. Does is deriving result only a manifestation?
+5a. Does is deriving object only work?
+5a. Does an access object only an on demand event?
+5a. Does a manifest object only work?
+5c. Does a manifest have an agent that is only a legal person?
+5a. Does a manifest result only a manifestation?
+5a. Does is distributing object only a creative work?
+5a. Does is performing result only a performance?
+6c. Does a rent have a condition that is some pay action?

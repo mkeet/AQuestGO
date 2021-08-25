@@ -1,0 +1,315 @@
+DEFINE_QUESTIONS = 7
+34. What is a monumental area?
+34. What is a geometry?
+34. What is validity?
+34. What is an archaeological area?
+34. What is a clerical administrative area?
+34. What is a booking?
+34. What is a geographical feature?
+34. What is a theatre?
+34. What is a temporary closure?
+34. What is a day of week?
+34. What is an image object?
+34. What is an agent?
+34. What is an admission type?
+34. What is a cultural entity?
+34. What is a cinema?
+34. What is a measurement unit?
+34. What is an user type?
+34. What is currency?
+34. What is an attribute?
+34. What is a semantic asset?
+34. What is a news article?
+34. What is a card?
+34. What is an opening hours specification?
+34. What is a library?
+34. What is a creative work?
+34. What is a video object?
+34. What is an archaeological park?
+34. What is a site description?
+34. What is an offer?
+34. What is a collection?
+34. What is a museum?
+34. What is a project?
+34. What is a quantitative value?
+34. What is a role?
+34. What is a temporary closure type?
+34. What is a price specification?
+34. What is a cis type?
+34. What is a cultural institute or site?
+34. What is a role in time?
+34. What is an address?
+34. What is a governamental administrative area?
+34. What is a name in time?
+34. What is equipment?
+34. What is a cult reseach center?
+34. What is a cultural heritage object?
+34. What is a contact point?
+34. What is a holder of archive?
+34. What is a service?
+34. What is a site?
+34. What is a cultural landscape asset?
+34. What is an audio object?
+34. What is a time interval?
+34. What is a ticket?
+34. What is an access condition?
+34. What is an event?
+34. What is a catalogue?
+34. What is a subject discipline?
+EQUIVALENCE_QUESTIONS = 0
+TRUE_FALSE_QUESTIONS = 1
+16c. True or false: A geographical feature has a geometry that is a geometry.
+18c. A geographical feature has a geometry that is a geometry. True or false?
+16c. True or false: A temporary closure has a temporary closure type that is a temporary closure type.
+18c. A temporary closure has a temporary closure type that is a temporary closure type. True or false?
+16c. True or false: An opening hours specification has a day of week that is a day of week.
+18c. An opening hours specification has a day of week that is a day of week. True or false?
+17a. True or false: A day of week is a day of week of an opening hours specification.
+19a. A day of week is a day of week of an opening hours specification. True or false?
+16c. True or false: An opening hours specification has an admission type that is an admission type.
+18c. An opening hours specification has an admission type that is an admission type. True or false?
+16c. True or false: A site description has an attribute that is an attribute.
+18c. A site description has an attribute that is an attribute. True or false?
+16c. True or false: An offer has a validity that is validity.
+18c. An offer has a validity that is validity. True or false?
+16a. True or false: An offer includes a ticket.
+18a. An offer includes a ticket. True or false?
+17b. True or false: A collection is described by a catalogue.
+19b. A collection is described by a catalogue. True or false?
+16a. True or false: A catalogue describes a collection.
+18a. A catalogue describes a collection. True or false?
+16c. True or false: A collection has a member that is a cultural heritage object.
+18c. A collection has a member that is a cultural heritage object. True or false?
+17a. True or false: A cultural heritage object is a member of a collection.
+19a. A cultural heritage object is a member of a collection. True or false?
+16c. True or false: A quantitative value has a measurement unit that is a measurement unit.
+18c. A quantitative value has a measurement unit that is a measurement unit. True or false?
+16c. True or false: A price specification has a currency that is currency.
+18c. A price specification has a currency that is currency. True or false?
+17a. True or false: A cultural institute or site is a subject of a creative work.
+19a. A cultural institute or site is a subject of a creative work. True or false?
+16c. True or false: A cultural institute or site has a ticket that is a ticket.
+18c. A cultural institute or site has a ticket that is a ticket. True or false?
+16c. True or false: A cultural institute or site has a name in time that is a name in time.
+18c. A cultural institute or site has a name in time that is a name in time. True or false?
+16c. True or false: A cultural institute or site has a contact point that is a contact point.
+18c. A cultural institute or site has a contact point that is a contact point. True or false?
+16c. True or false: A cultural institute or site has a collection that is a collection.
+18c. A cultural institute or site has a collection that is a collection. True or false?
+16c. True or false: A cultural institute or site has a site that is a site.
+18c. A cultural institute or site has a site that is a site. True or false?
+17a. True or false: A site is a site of a cultural institute or site.
+19a. A site is a site of a cultural institute or site. True or false?
+16c. True or false: A cultural institute or site has a catalogue that is a catalogue.
+18c. A cultural institute or site has a catalogue that is a catalogue. True or false?
+17a. True or false: A catalogue is a catalogue of a cultural institute or site.
+19a. A catalogue is a catalogue of a cultural institute or site. True or false?
+16c. True or false: A cultural institute or site has a discipline that is a subject discipline.
+18c. A cultural institute or site has a discipline that is a subject discipline. True or false?
+17a. True or false: A name in time is a valid during a time interval.
+19a. A name in time is a valid during a time interval. True or false?
+16c. True or false: A service has a contact point that is a contact point.
+18c. A service has a contact point that is a contact point. True or false?
+16c. True or false: A site has a geometry that is a geometry.
+18c. A site has a geometry that is a geometry. True or false?
+16c. True or false: A site has an address that is an address.
+18c. A site has an address that is an address. True or false?
+16a. True or false: A site hosts an event.
+18a. A site hosts an event. True or false?
+17b. True or false: An event is hosted by a site.
+19b. An event is hosted by a site. True or false?
+16c. True or false: A site has a geographical location that is a geographical feature.
+18c. A site has a geographical location that is a geographical feature. True or false?
+16c. True or false: A site has a site description that is a site description.
+18c. A site has a site description that is a site description. True or false?
+16c. True or false: A site has a contact point that is a contact point.
+18c. A site has a contact point that is a contact point. True or false?
+16c. True or false: A ticket has a validity that is validity.
+18c. A ticket has a validity that is validity. True or false?
+16c. True or false: An event has a ticket that is a ticket.
+18c. An event has a ticket that is a ticket. True or false?
+TRUE_FALSE_QUESTIONS_QUANTIFIED = 3
+21c. True or false: A geographical feature has a geometry that is only a geometry.
+23c. A geographical feature has a geometry that is only a geometry. True or false?
+21c. True or false: A temporary closure has a temporary closure type that is only a temporary closure type.
+23c. A temporary closure has a temporary closure type that is only a temporary closure type. True or false?
+21c. True or false: An opening hours specification has a day of week that is only a day of week.
+23c. An opening hours specification has a day of week that is only a day of week. True or false?
+21c. True or false: A day of week has a day of week that is only an opening hours specification.
+23c. A day of week has a day of week that is only an opening hours specification. True or false?
+21c. True or false: An opening hours specification has an admission type that is only an admission type.
+23c. An opening hours specification has an admission type that is only an admission type. True or false?
+21c. True or false: A site description has an attribute that is only an attribute.
+23c. A site description has an attribute that is only an attribute. True or false?
+21c. True or false: An offer has a validity that is only validity.
+23c. An offer has a validity that is only validity. True or false?
+21d. True or false: An offer includes some ticket.
+23d. An offer includes some ticket. True or false?
+21c. True or false: A collection has a member that is only a cultural heritage object.
+23c. A collection has a member that is only a cultural heritage object. True or false?
+21c. True or false: A cultural heritage object has a member that is only a collection.
+23c. A cultural heritage object has a member that is only a collection. True or false?
+21f. True or false: A quantitative value has a measurement unit that is some measurement unit.
+23f. A quantitative value has a measurement unit that is some measurement unit. True or false?
+21f. True or false: A price specification has a currency that is some currency.
+23f. A price specification has a currency that is some currency. True or false?
+20c. True or false: A cultural institute or site is a subject of only a creative work.
+22c. A cultural institute or site is a subject of only a creative work. True or false?
+20c. True or false: A creative work is a subject of only a cultural institute or site.
+22c. A creative work is a subject of only a cultural institute or site. True or false?
+21c. True or false: A cultural institute or site has a ticket that is only a ticket.
+23c. A cultural institute or site has a ticket that is only a ticket. True or false?
+21c. True or false: A ticket has a ticket that is only a cultural institute or site.
+23c. A ticket has a ticket that is only a cultural institute or site. True or false?
+21c. True or false: A cultural institute or site has a name in time that is only a name in time.
+23c. A cultural institute or site has a name in time that is only a name in time. True or false?
+21c. True or false: A cultural institute or site has a contact point that is only a contact point.
+23c. A cultural institute or site has a contact point that is only a contact point. True or false?
+21c. True or false: A cultural institute or site has a collection that is only a collection.
+23c. A cultural institute or site has a collection that is only a collection. True or false?
+21f. True or false: A cultural institute or site has a site that is some site.
+23f. A cultural institute or site has a site that is some site. True or false?
+21f. True or false: A site has a site that is some cultural institute or site.
+23f. A site has a site that is some cultural institute or site. True or false?
+21c. True or false: A cultural institute or site has a catalogue that is only a catalogue.
+23c. A cultural institute or site has a catalogue that is only a catalogue. True or false?
+21c. True or false: A catalogue has a catalogue that is only a cultural institute or site.
+23c. A catalogue has a catalogue that is only a cultural institute or site. True or false?
+21c. True or false: A cultural institute or site has a discipline that is only a subject discipline.
+23c. A cultural institute or site has a discipline that is only a subject discipline. True or false?
+20a. True or false: A name in time is a valid during some time interval.
+22a. A name in time is a valid during some time interval. True or false?
+21c. True or false: A service has a contact point that is only a contact point.
+23c. A service has a contact point that is only a contact point. True or false?
+21c. True or false: A site has a geometry that is only a geometry.
+23c. A site has a geometry that is only a geometry. True or false?
+21f. True or false: A site has an address that is some address.
+23f. A site has an address that is some address. True or false?
+21a. True or false: A site hosts only an event.
+23a. A site hosts only an event. True or false?
+21a. True or false: An event hosts only a site.
+23a. An event hosts only a site. True or false?
+21f. True or false: A site has a geographical location that is some geographical feature.
+23f. A site has a geographical location that is some geographical feature. True or false?
+21f. True or false: A site has a site description that is some site description.
+23f. A site has a site description that is some site description. True or false?
+21c. True or false: A site has a contact point that is only a contact point.
+23c. A site has a contact point that is only a contact point. True or false?
+21c. True or false: A ticket has a validity that is only validity.
+23c. A ticket has a validity that is only validity. True or false?
+21c. True or false: An event has a ticket that is only a ticket.
+23c. An event has a ticket that is only a ticket. True or false?
+21c. True or false: A ticket has a ticket that is only an event.
+23c. A ticket has a ticket that is only an event. True or false?
+21a. True or false: A catalogue describes only a collection.
+23a. A catalogue describes only a collection. True or false?
+21a. True or false: A collection describes only a catalogue.
+23a. A collection describes only a catalogue. True or false?
+WHAT_QUESTIONS_QUANTIFIED = 6
+25c. Which cultural entity is a subject of only a creative work?
+25g. Which cultural entity has a ticket that is only a ticket?
+25g. Which cultural entity has a name in time that is only a name in time?
+25g. Which cultural entity has a contact point that is only a contact point?
+25g. Which cultural entity has a collection that is only a collection?
+25g. Which cultural entity has a catalogue that is only a catalogue?
+25g. Which cultural entity has a discipline that is only a subject discipline?
+25g. Which cultural entity has a member that is only a cultural heritage object?
+25g. Which access condition has a day of week that is only a day of week?
+25g. Which access condition has an admission type that is only an admission type?
+25g. Which access condition has a temporary closure type that is only a temporary closure type?
+WHAT_QUESTIONS_TYPE1 = 4
+24d. Which cultural entity is a subject of a creative work?
+24c. Which cultural entity has a ticket that is a ticket?
+24c. Which cultural entity has a name in time that is a name in time?
+24c. Which cultural entity has a contact point that is a contact point?
+24c. Which cultural entity has a collection that is a collection?
+24c. Which cultural entity has a site that is a site?
+24c. Which cultural entity has a catalogue that is a catalogue?
+24c. Which cultural entity has a discipline that is a subject discipline?
+24e. Which cultural entity is described by a catalogue?
+24c. Which cultural entity has a member that is a cultural heritage object?
+24c. Which access condition has a day of week that is a day of week?
+24c. Which access condition has an admission type that is an admission type?
+24c. Which access condition has a temporary closure type that is a temporary closure type?
+WHAT_QUESTIONS_TYPE2 = 5
+26. What does an offer include?
+29. What is collection described by?
+28. What is cultural institute or site a subject of?
+28. What is name in time a valid during?
+26. What does a site host?
+26. What does a catalogue describe?
+YES_NO_QUESTION_TYPE1 = 1
+1c. Does a geographical feature have a geometry that is a geometry?
+1c. Does a temporary closure have a temporary closure type that is a temporary closure type?
+1c. Does an opening hours specification have a day of week that is a day of week?
+3. Is a day of week a day of week of an opening hours specification?
+1c. Does an opening hours specification have an admission type that is an admission type?
+1c. Does a site description have an attribute that is an attribute?
+1c. Does an offer have a validity that is validity?
+1a. Does an offer include a ticket?
+4a. Is a collection described by a catalogue?
+1a. Does a catalogue describe a collection?
+1c. Does a collection have a member that is a cultural heritage object?
+3. Is a cultural heritage object a member of a collection?
+1c. Does a quantitative value have a measurement unit that is a measurement unit?
+1c. Does a price specification have a currency that is currency?
+3. Is a cultural institute or site a subject of a creative work?
+1c. Does a cultural institute or site have a ticket that is a ticket?
+1c. Does a cultural institute or site have a name in time that is a name in time?
+1c. Does a cultural institute or site have a contact point that is a contact point?
+1c. Does a cultural institute or site have a collection that is a collection?
+1c. Does a cultural institute or site have a site that is a site?
+3. Is a site a site of a cultural institute or site?
+1c. Does a cultural institute or site have a catalogue that is a catalogue?
+3. Is a catalogue a catalogue of a cultural institute or site?
+1c. Does a cultural institute or site have a discipline that is a subject discipline?
+3. Is a name in time a valid during a time interval?
+1c. Does a service have a contact point that is a contact point?
+1c. Does a site have a geometry that is a geometry?
+1c. Does a site have an address that is an address?
+1a. Does a site host an event?
+4a. Is an event hosted by a site?
+1c. Does a site have a geographical location that is a geographical feature?
+1c. Does a site have a site description that is a site description?
+1c. Does a site have a contact point that is a contact point?
+1c. Does a ticket have a validity that is validity?
+1c. Does an event have a ticket that is a ticket?
+YES_NO_QUESTION_TYPE1_QUANTIFIED = 3
+5c. Does a geographical feature have a geometry that is only a geometry?
+5c. Does a temporary closure have a temporary closure type that is only a temporary closure type?
+5c. Does an opening hours specification have a day of week that is only a day of week?
+5c. Does a day of week have a day of week that is only an opening hours specification?
+5c. Does an opening hours specification have an admission type that is only an admission type?
+5c. Does a site description have an attribute that is only an attribute?
+5c. Does an offer have a validity that is only validity?
+6a. Does an offer include some ticket?
+5c. Does a collection have a member that is only a cultural heritage object?
+5c. Does a cultural heritage object have a member that is only a collection?
+6c. Does a quantitative value have a measurement unit that is some measurement unit?
+6c. Does a price specification have a currency that is some currency?
+8a. Is a cultural institute or site a subject of only a creative work?
+8a. Is a creative work a subject of only a cultural institute or site?
+5c. Does a cultural institute or site have a ticket that is only a ticket?
+5c. Does a ticket have a ticket that is only a cultural institute or site?
+5c. Does a cultural institute or site have a name in time that is only a name in time?
+5c. Does a cultural institute or site have a contact point that is only a contact point?
+5c. Does a cultural institute or site have a collection that is only a collection?
+6c. Does a cultural institute or site have a site that is some site?
+6c. Does a site have a site that is some cultural institute or site?
+5c. Does a cultural institute or site have a catalogue that is only a catalogue?
+5c. Does a catalogue have a catalogue that is only a cultural institute or site?
+5c. Does a cultural institute or site have a discipline that is only a subject discipline?
+7a. Is a name in time a valid during some time interval?
+5c. Does a service have a contact point that is only a contact point?
+5c. Does a site have a geometry that is only a geometry?
+6c. Does a site have an address that is some address?
+5a. Does a site host only an event?
+5a. Does an event host only a site?
+6c. Does a site have a geographical location that is some geographical feature?
+6c. Does a site have a site description that is some site description?
+5c. Does a site have a contact point that is only a contact point?
+5c. Does a ticket have a validity that is only validity?
+5c. Does an event have a ticket that is only a ticket?
+5c. Does a ticket have a ticket that is only an event?
+5a. Does a catalogue describe only a collection?
+5a. Does a collection describe only a catalogue?

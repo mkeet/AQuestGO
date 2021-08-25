@@ -1,0 +1,3055 @@
+DEFINE_QUESTIONS = 7
+34. What is a left side turn?
+34. What is a single hand copa?
+34. What is a front cross over?
+34. What is a cross over into men?
+34. What is a cumbia step?
+34. What is a chord beat crossovers?
+34. What is an open basic movement?
+34. What is a front step?
+34. What is a hip twist?
+34. What is a 2 handed?
+34. What is an open break?
+34. What is a dance move?
+34. What is a shoulder checks?
+34. What is a shoulder to shoulder?
+34. What is a salsa?
+34. What is a fallaway swivel?
+34. What is a foot change 3 open to shadow?
+34. What is a foot change shadow to open?
+34. What is a titanic?
+34. What is a 180 cross body lead?
+34. What is an opening out from reverse top?
+34. What is an outside turn?
+34. What is an open to shadow?
+34. What is a right side?
+34. What is a front double cross?
+34. What is a progressive basic?
+34. What is an action?
+34. What is a window?
+34. What is a catwalk?
+34. What is a left check turn?
+34. What is a facing perpendicular to the line of dance?
+34. What is a basic in place?
+34. What is a silver?
+34. What is a leg trap?
+34. What is an underarm turns?
+34. What is an underarm turn with spin?
+34. What is an outside?
+34. What is a coca cola?
+34. What is a cha cha cha?
+34. What is a back tap?
+34. What is a there and back?
+34. What is an open?
+34. What is a 2 corners?
+34. What is a dance level?
+34. What is a hockey stick?
+34. What is a hip twist spiral?
+34. What is a drop hand catch?
+34. What is a double spiral?
+34. What is a bounce?
+34. What is a hand to hand?
+34. What is a toe taps?
+34. What is a side to side?
+34. What is a traveling underarm turn?
+34. What is a grapevine?
+34. What is a braid step?
+34. What is a chase?
+34. What is a double hand copa?
+34. What is a side flares?
+34. What is a crucifix?
+34. What is a switching hands?
+34. What is a three cha cha chas?
+34. What is a cuban breaks?
+34. What is a ronde chasse?
+34. What is a dance type?
+34. What is a new york?
+34. What is a mambo walk?
+34. What is a copa?
+34. What is a basic cha cha?
+34. What is a pre bronze?
+34. What is a change of a hand hold?
+34. What is a the wrap?
+34. What is a three cha chas forward or back?
+34. What is a superwoman?
+34. What is a left switch and underarm turns?
+34. What is a burrito?
+34. What is an including split cuban breaks?
+34. What is a normal open holds?
+34. What is a split cuban breaks?
+34. What is a delay step?
+34. What is a 360 switch position?
+34. What is an in and out?
+34. What is a front tap?
+34. What is a closed hip twist?
+34. What is an elbow push?
+34. What is a shoulder lead?
+34. What is a guapea?
+34. What is a back pass?
+34. What is an arm lock?
+34. What is a trading places?
+34. What is a tightrope?
+34. What is an arm hook?
+34. What is a front rock?
+34. What is a double cross over?
+34. What is a left turn?
+34. What is an inside turn?
+34. What is a cross basic?
+34. What is a cross body lead?
+34. What is is walking around?
+34. What is a foot change open to shadow?
+34. What is a turkish towel?
+34. What is an outside breaks?
+34. What is a shadow check & turn?
+34. What is a double head loop?
+34. What is a right side turn?
+34. What is a normal closed hold?
+34. What is a double front hook?
+34. What is a spiral?
+34. What is an open basic?
+34. What is an outside turns?
+34. What is a hand throw?
+34. What is an alemana?
+34. What is a closed hold?
+34. What is an open hold?
+34. What is a rope spinning?
+34. What is a two corners?
+34. What is a merengue step?
+34. What is a hand drop?
+34. What is a basic movement in place?
+34. What is a butterfly & cradle?
+34. What is a half right?
+34. What is an enchufla?
+34. What is an out of the way?
+34. What is an advanced hip twist?
+34. What is a front hook?
+34. What is a side pass?
+34. What is a windmill?
+34. What is a foot change?
+34. What is a broken left turn?
+34. What is a closed basic movement?
+34. What is a left spins?
+34. What is a change of directions?
+34. What is a right turn?
+34. What is a level i?
+34. What is a facing the line of dance?
+34. What is a cape?
+34. What is an alternating?
+34. What is a full bronze?
+34. What is an inside turns?
+34. What is a right side position?
+34. What is a travel step?
+34. What is a walkthrough?
+34. What is an open hip twist?
+34. What is a hammerlock?
+34. What is a simple dip?
+34. What is a standard?
+34. What is a duck?
+34. What is a cuban side charge?
+34. What is a taca taca?
+34. What is a slave?
+34. What is a suzie q?
+34. What is a ladies right turn?
+34. What is a double crossed?
+34. What is a fan?
+34. What is a right switch and underarm turns?
+34. What is an arm loop?
+34. What is a butterfly?
+34. What is a spiral turns?
+34. What is a level iv?
+34. What is an aida?
+34. What is a back spot turn?
+34. What is a cuban step?
+34. What is a cuddle?
+34. What is a 360 triple spins?
+34. What is a reverse cross body?
+34. What is a basic movements?
+34. What is an uptown downtown?
+34. What is a backward slide?
+34. What is a bridge?
+34. What is a level iii?
+34. What is a half hammerlock?
+34. What is a side steps?
+34. What is a kick swivel?
+34. What is a tunnel?
+34. What is a back break?
+34. What is a basic movement?
+34. What is a right spins?
+34. What is a shadow to open?
+34. What is a hair comb?
+34. What is a cross body check?
+34. What is a right spin turn?
+34. What is a side press?
+34. What is a cumbia into men?
+34. What is a back rock?
+34. What is a peek a boo?
+34. What is a front slide?
+34. What is a drape?
+34. What is a cross over breaks?
+34. What is a sweetheart?
+34. What is a sombrero?
+34. What is a level ii?
+34. What is a left side position?
+34. What is a walk?
+34. What is a half left?
+34. What is an u turn?
+34. What is a side by side triples?
+34. What is an intermediate bronze?
+34. What is a right?
+34. What is a free spin?
+34. What is a hand toss?
+34. What is a diamond step?
+34. What is gold?
+34. What is an overhead?
+34. What is a closed basic?
+34. What is a natural top?
+34. What is a stop and go?
+34. What is a spot turns?
+34. What is a spotting?
+34. What is a time step?
+34. What is a wraps?
+34. What is a hook turn?
+34. What is a left side?
+34. What is an advanced back pass?
+34. What is a switch position?
+34. What is a basic?
+34. What is a prep for double turn?
+34. What is a head loop?
+34. What is a crossed hands?
+34. What is an around the world?
+34. What is an alternative basic movement?
+34. What is a broken arm?
+34. What is a back hook?
+34. What is a foot change 4 shadow to open?
+34. What is a curl?
+34. What is a spiral kick?
+34. What is a forward and back?
+34. What is a forward slide?
+34. What is a reverse top?
+34. What is a back step?
+34. What is an in place?
+34. What is a closed?
+34. What is a hand slide?
+34. What is a check copa?
+34. What is a left?
+34. What is an embrace?
+34. What is a basket?
+34. What is an underarm turn?
+34. What is an open break?
+34. What is a hook step?
+34. What is a front flare?
+34. What is a forward spot turn?
+34. What is a to right and left side position?
+34. What is a promenade swivels?
+34. What is a crossed holds?
+34. What is a basic step?
+34. What is an in place?
+34. What is a natural opening out movement?
+EQUIVALENCE_QUESTIONS = 0
+TRUE_FALSE_QUESTIONS = 1
+16c. True or false: A left side turn has a member of dance that is a salsa.
+18c. A left side turn has a member of dance that is a salsa. True or false?
+17a. True or false: A left side turn is a part of a level iii.
+19a. A left side turn is a part of a level iii. True or false?
+17a. True or false: A single hand copa is a part of a level ii.
+19a. A single hand copa is a part of a level ii. True or false?
+16c. True or false: A single hand copa has a member of dance that is a salsa.
+18c. A single hand copa has a member of dance that is a salsa. True or false?
+17a. True or false: A front cross over is a part of a level iii.
+19a. A front cross over is a part of a level iii. True or false?
+16c. True or false: A front cross over has a member of dance that is a salsa.
+18c. A front cross over has a member of dance that is a salsa. True or false?
+17a. True or false: A cross over into men is a part of a level iii.
+19a. A cross over into men is a part of a level iii. True or false?
+16c. True or false: A cross over into men has a member of dance that is a salsa.
+18c. A cross over into men has a member of dance that is a salsa. True or false?
+17a. True or false: A cumbia step is a part of a level ii.
+19a. A cumbia step is a part of a level ii. True or false?
+16c. True or false: A cumbia step has a member of dance that is a salsa.
+18c. A cumbia step has a member of dance that is a salsa. True or false?
+16c. True or false: A chord beat crossovers has a member of dance that is a salsa.
+18c. A chord beat crossovers has a member of dance that is a salsa. True or false?
+17a. True or false: A chord beat crossovers is a part of a level iii.
+19a. A chord beat crossovers is a part of a level iii. True or false?
+17a. True or false: An open basic movement is a part of a pre bronze.
+19a. An open basic movement is a part of a pre bronze. True or false?
+16c. True or false: An open basic movement has a member of dance that is a cha cha cha.
+18c. An open basic movement has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A front step has a member of dance that is a salsa.
+18c. A front step has a member of dance that is a salsa. True or false?
+17a. True or false: A front step is a part of a level i.
+19a. A front step is a part of a level i. True or false?
+17a. True or false: A hip twist is a part of a full bronze.
+19a. A hip twist is a part of a full bronze. True or false?
+16c. True or false: A hip twist has a member of dance that is a cha cha cha.
+18c. A hip twist has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A 2 handed has a member of dance that is a salsa.
+18c. A 2 handed has a member of dance that is a salsa. True or false?
+17a. True or false: A 2 handed is a part of a level i.
+19a. A 2 handed is a part of a level i. True or false?
+17a. True or false: An open break is a part of a level i.
+19a. An open break is a part of a level i. True or false?
+17a. True or false: An open break is a part of a full bronze.
+19a. An open break is a part of a full bronze. True or false?
+16c. True or false: An open break has a member of dance that is a salsa.
+18c. An open break has a member of dance that is a salsa. True or false?
+16c. True or false: An open break has a member of dance that is a cha cha cha.
+18c. An open break has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A shoulder checks is a part of a level i.
+19a. A shoulder checks is a part of a level i. True or false?
+16c. True or false: A shoulder checks has a member of dance that is a salsa.
+18c. A shoulder checks has a member of dance that is a salsa. True or false?
+16c. True or false: A shoulder to shoulder has a member of dance that is a cha cha cha.
+18c. A shoulder to shoulder has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A shoulder to shoulder is a part of a pre bronze.
+19a. A shoulder to shoulder is a part of a pre bronze. True or false?
+16a. True or false: A salsa contains a level iii.
+18a. A salsa contains a level iii. True or false?
+16a. True or false: A salsa contains a level iv.
+18a. A salsa contains a level iv. True or false?
+16a. True or false: A salsa contains a level ii.
+18a. A salsa contains a level ii. True or false?
+16a. True or false: A salsa contains a level i.
+18a. A salsa contains a level i. True or false?
+16c. True or false: A fallaway swivel has a member of dance that is a cha cha cha.
+18c. A fallaway swivel has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A fallaway swivel is a part of a silver.
+19a. A fallaway swivel is a part of a silver. True or false?
+17a. True or false: A foot change 3 open to shadow is a part of gold.
+19a. A foot change 3 open to shadow is a part of gold. True or false?
+16c. True or false: A foot change 3 open to shadow has a member of dance that is a cha cha cha.
+18c. A foot change 3 open to shadow has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A foot change shadow to open is a part of gold.
+19a. A foot change shadow to open is a part of gold. True or false?
+16c. True or false: A foot change shadow to open has a member of dance that is a cha cha cha.
+18c. A foot change shadow to open has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A titanic has a member of dance that is a salsa.
+18c. A titanic has a member of dance that is a salsa. True or false?
+17a. True or false: A titanic is a part of a level iii.
+19a. A titanic is a part of a level iii. True or false?
+17a. True or false: A 180 cross body lead is a part of a level ii.
+19a. A 180 cross body lead is a part of a level ii. True or false?
+16c. True or false: A 180 cross body lead has a member of dance that is a salsa.
+18c. A 180 cross body lead has a member of dance that is a salsa. True or false?
+17a. True or false: An opening out from reverse top is a part of a silver.
+19a. An opening out from reverse top is a part of a silver. True or false?
+16c. True or false: An opening out from reverse top has a member of dance that is a cha cha cha.
+18c. An opening out from reverse top has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An outside turn is a part of a level ii.
+19a. An outside turn is a part of a level ii. True or false?
+16c. True or false: An outside turn has a member of dance that is a salsa.
+18c. An outside turn has a member of dance that is a salsa. True or false?
+17a. True or false: An open to shadow is a part of gold.
+19a. An open to shadow is a part of gold. True or false?
+16c. True or false: An open to shadow has a member of dance that is a cha cha cha.
+18c. An open to shadow has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A front double cross is a part of a level iv.
+19a. A front double cross is a part of a level iv. True or false?
+16c. True or false: A front double cross has a member of dance that is a salsa.
+18c. A front double cross has a member of dance that is a salsa. True or false?
+16c. True or false: A progressive basic has a member of dance that is a cha cha cha.
+18c. A progressive basic has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A progressive basic is a part of an intermediate bronze.
+19a. A progressive basic is a part of an intermediate bronze. True or false?
+17a. True or false: A window is a part of a level iv.
+19a. A window is a part of a level iv. True or false?
+16c. True or false: A window has a member of dance that is a salsa.
+18c. A window has a member of dance that is a salsa. True or false?
+17a. True or false: A catwalk is a part of a level i.
+19a. A catwalk is a part of a level i. True or false?
+16c. True or false: A catwalk has a member of dance that is a salsa.
+18c. A catwalk has a member of dance that is a salsa. True or false?
+17a. True or false: A left check turn is a part of a level i.
+19a. A left check turn is a part of a level i. True or false?
+16c. True or false: A left check turn has a member of dance that is a salsa.
+18c. A left check turn has a member of dance that is a salsa. True or false?
+16c. True or false: A facing perpendicular to the line of dance has a member of dance that is a salsa.
+18c. A facing perpendicular to the line of dance has a member of dance that is a salsa. True or false?
+17a. True or false: A basic in place is a part of a pre bronze.
+19a. A basic in place is a part of a pre bronze. True or false?
+16c. True or false: A basic in place has a member of dance that is a cha cha cha.
+18c. A basic in place has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A leg trap has a member of dance that is a salsa.
+18c. A leg trap has a member of dance that is a salsa. True or false?
+17a. True or false: A leg trap is a part of a level iv.
+19a. A leg trap is a part of a level iv. True or false?
+16c. True or false: An underarm turns has a member of dance that is a salsa.
+18c. An underarm turns has a member of dance that is a salsa. True or false?
+17a. True or false: An underarm turns is a part of a level i.
+19a. An underarm turns is a part of a level i. True or false?
+16c. True or false: An underarm turns has a member of dance that is a cha cha cha.
+18c. An underarm turns has a member of dance that is a cha cha cha. True or false?
+16c. True or false: An underarm turn with spin has a member of dance that is a cha cha cha.
+18c. An underarm turn with spin has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An underarm turn with spin is a part of an intermediate bronze.
+19a. An underarm turn with spin is a part of an intermediate bronze. True or false?
+17a. True or false: A coca cola is a part of a level iii.
+19a. A coca cola is a part of a level iii. True or false?
+16c. True or false: A coca cola has a member of dance that is a salsa.
+18c. A coca cola has a member of dance that is a salsa. True or false?
+16a. True or false: A cha cha cha contains a silver.
+18a. A cha cha cha contains a silver. True or false?
+16a. True or false: A cha cha cha contains gold.
+18a. A cha cha cha contains gold. True or false?
+16a. True or false: A cha cha cha contains a full bronze.
+18a. A cha cha cha contains a full bronze. True or false?
+16a. True or false: A cha cha cha contains an intermediate bronze.
+18a. A cha cha cha contains an intermediate bronze. True or false?
+16a. True or false: A cha cha cha contains a pre bronze.
+18a. A cha cha cha contains a pre bronze. True or false?
+17a. True or false: A back tap is a part of a level iii.
+19a. A back tap is a part of a level iii. True or false?
+16c. True or false: A back tap has a member of dance that is a salsa.
+18c. A back tap has a member of dance that is a salsa. True or false?
+17a. True or false: A there and back is a part of a pre bronze.
+19a. A there and back is a part of a pre bronze. True or false?
+16c. True or false: A there and back has a member of dance that is a cha cha cha.
+18c. A there and back has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A 2 corners has a member of dance that is a salsa.
+18c. A 2 corners has a member of dance that is a salsa. True or false?
+17a. True or false: A 2 corners is a part of a level i.
+19a. A 2 corners is a part of a level i. True or false?
+17a. True or false: A hockey stick is a part of a full bronze.
+19a. A hockey stick is a part of a full bronze. True or false?
+16c. True or false: A hockey stick has a member of dance that is a cha cha cha.
+18c. A hockey stick has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A hip twist spiral is a part of gold.
+19a. A hip twist spiral is a part of gold. True or false?
+16c. True or false: A hip twist spiral has a member of dance that is a cha cha cha.
+18c. A hip twist spiral has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A drop hand catch has a member of dance that is a salsa.
+18c. A drop hand catch has a member of dance that is a salsa. True or false?
+17a. True or false: A drop hand catch is a part of a level i.
+19a. A drop hand catch is a part of a level i. True or false?
+17a. True or false: A double spiral is a part of a level iv.
+19a. A double spiral is a part of a level iv. True or false?
+16c. True or false: A double spiral has a member of dance that is a salsa.
+18c. A double spiral has a member of dance that is a salsa. True or false?
+17a. True or false: A bounce is a part of a level iii.
+19a. A bounce is a part of a level iii. True or false?
+16c. True or false: A bounce has a member of dance that is a salsa.
+18c. A bounce has a member of dance that is a salsa. True or false?
+16c. True or false: A hand to hand has a member of dance that is a cha cha cha.
+18c. A hand to hand has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A hand to hand is a part of an intermediate bronze.
+19a. A hand to hand is a part of an intermediate bronze. True or false?
+17a. True or false: A toe taps is a part of a level ii.
+19a. A toe taps is a part of a level ii. True or false?
+16c. True or false: A toe taps has a member of dance that is a salsa.
+18c. A toe taps has a member of dance that is a salsa. True or false?
+16c. True or false: A side to side has a member of dance that is a salsa.
+18c. A side to side has a member of dance that is a salsa. True or false?
+17a. True or false: A side to side is a part of a level i.
+19a. A side to side is a part of a level i. True or false?
+17a. True or false: A traveling underarm turn is a part of a level iv.
+19a. A traveling underarm turn is a part of a level iv. True or false?
+16c. True or false: A traveling underarm turn has a member of dance that is a salsa.
+18c. A traveling underarm turn has a member of dance that is a salsa. True or false?
+16c. True or false: A grapevine has a member of dance that is a salsa.
+18c. A grapevine has a member of dance that is a salsa. True or false?
+16c. True or false: A grapevine has a member of dance that is a cha cha cha.
+18c. A grapevine has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A grapevine is a part of gold.
+19a. A grapevine is a part of gold. True or false?
+17a. True or false: A grapevine is a part of a level iv.
+19a. A grapevine is a part of a level iv. True or false?
+16c. True or false: A braid step has a member of dance that is a salsa.
+18c. A braid step has a member of dance that is a salsa. True or false?
+17a. True or false: A braid step is a part of a level iii.
+19a. A braid step is a part of a level iii. True or false?
+16c. True or false: A chase has a member of dance that is a cha cha cha.
+18c. A chase has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A chase is a part of a silver.
+19a. A chase is a part of a silver. True or false?
+17a. True or false: A double hand copa is a part of a level iii.
+19a. A double hand copa is a part of a level iii. True or false?
+16c. True or false: A double hand copa has a member of dance that is a salsa.
+18c. A double hand copa has a member of dance that is a salsa. True or false?
+17a. True or false: A side flares is a part of a level iv.
+19a. A side flares is a part of a level iv. True or false?
+16c. True or false: A side flares has a member of dance that is a salsa.
+18c. A side flares has a member of dance that is a salsa. True or false?
+17a. True or false: A crucifix is a part of a level iv.
+19a. A crucifix is a part of a level iv. True or false?
+16c. True or false: A crucifix has a member of dance that is a salsa.
+18c. A crucifix has a member of dance that is a salsa. True or false?
+16c. True or false: A switching hands has a member of dance that is a salsa.
+18c. A switching hands has a member of dance that is a salsa. True or false?
+17a. True or false: A three cha cha chas is a part of a pre bronze.
+19a. A three cha cha chas is a part of a pre bronze. True or false?
+16c. True or false: A three cha cha chas has a member of dance that is a cha cha cha.
+18c. A three cha cha chas has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A cuban breaks has a member of dance that is a cha cha cha.
+18c. A cuban breaks has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A cuban breaks is a part of a silver.
+19a. A cuban breaks is a part of a silver. True or false?
+16c. True or false: A ronde chasse has a member of dance that is a cha cha cha.
+18c. A ronde chasse has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A ronde chasse is a part of a silver.
+19a. A ronde chasse is a part of a silver. True or false?
+17a. True or false: A new york is a part of a pre bronze.
+19a. A new york is a part of a pre bronze. True or false?
+16c. True or false: A new york has a member of dance that is a cha cha cha.
+18c. A new york has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A mambo walk is a part of a level iii.
+19a. A mambo walk is a part of a level iii. True or false?
+16c. True or false: A mambo walk has a member of dance that is a salsa.
+18c. A mambo walk has a member of dance that is a salsa. True or false?
+17a. True or false: A copa is a part of a level ii.
+19a. A copa is a part of a level ii. True or false?
+16c. True or false: A copa has a member of dance that is a salsa.
+18c. A copa has a member of dance that is a salsa. True or false?
+16c. True or false: A basic cha cha has a member of dance that is a cha cha cha.
+18c. A basic cha cha has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A basic cha cha is a part of an intermediate bronze.
+19a. A basic cha cha is a part of an intermediate bronze. True or false?
+16c. True or false: A change of a hand hold has a member of dance that is a salsa.
+18c. A change of a hand hold has a member of dance that is a salsa. True or false?
+16c. True or false: A the wrap has a member of dance that is a salsa.
+18c. A the wrap has a member of dance that is a salsa. True or false?
+17a. True or false: A the wrap is a part of a level iii.
+19a. A the wrap is a part of a level iii. True or false?
+17a. True or false: A three cha chas forward or back is a part of a pre bronze.
+19a. A three cha chas forward or back is a part of a pre bronze. True or false?
+16c. True or false: A three cha chas forward or back has a member of dance that is a cha cha cha.
+18c. A three cha chas forward or back has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A superwoman has a member of dance that is a salsa.
+18c. A superwoman has a member of dance that is a salsa. True or false?
+17a. True or false: A superwoman is a part of a level iv.
+19a. A superwoman is a part of a level iv. True or false?
+17a. True or false: A burrito is a part of a level iii.
+19a. A burrito is a part of a level iii. True or false?
+16c. True or false: A burrito has a member of dance that is a salsa.
+18c. A burrito has a member of dance that is a salsa. True or false?
+16c. True or false: A normal open holds has a member of dance that is a salsa.
+18c. A normal open holds has a member of dance that is a salsa. True or false?
+17a. True or false: A split cuban breaks is a part of a silver.
+19a. A split cuban breaks is a part of a silver. True or false?
+16c. True or false: A split cuban breaks has a member of dance that is a cha cha cha.
+18c. A split cuban breaks has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A delay step has a member of dance that is a salsa.
+18c. A delay step has a member of dance that is a salsa. True or false?
+17a. True or false: A 360 switch position is a part of a level iii.
+19a. A 360 switch position is a part of a level iii. True or false?
+16c. True or false: A 360 switch position has a member of dance that is a salsa.
+18c. A 360 switch position has a member of dance that is a salsa. True or false?
+17a. True or false: An in and out is a part of a level ii.
+19a. An in and out is a part of a level ii. True or false?
+16c. True or false: An in and out has a member of dance that is a salsa.
+18c. An in and out has a member of dance that is a salsa. True or false?
+16c. True or false: A front tap has a member of dance that is a salsa.
+18c. A front tap has a member of dance that is a salsa. True or false?
+17a. True or false: A front tap is a part of a level iii.
+19a. A front tap is a part of a level iii. True or false?
+17a. True or false: A closed hip twist is a part of a full bronze.
+19a. A closed hip twist is a part of a full bronze. True or false?
+16c. True or false: A closed hip twist has a member of dance that is a cha cha cha.
+18c. A closed hip twist has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An elbow push is a part of a level iv.
+19a. An elbow push is a part of a level iv. True or false?
+16c. True or false: An elbow push has a member of dance that is a salsa.
+18c. An elbow push has a member of dance that is a salsa. True or false?
+16c. True or false: A shoulder lead has a member of dance that is a salsa.
+18c. A shoulder lead has a member of dance that is a salsa. True or false?
+17a. True or false: A shoulder lead is a part of a level ii.
+19a. A shoulder lead is a part of a level ii. True or false?
+17a. True or false: A guapea is a part of a level i.
+19a. A guapea is a part of a level i. True or false?
+16c. True or false: A guapea has a member of dance that is a salsa.
+18c. A guapea has a member of dance that is a salsa. True or false?
+17a. True or false: A back pass is a part of a level ii.
+19a. A back pass is a part of a level ii. True or false?
+16c. True or false: A back pass has a member of dance that is a salsa.
+18c. A back pass has a member of dance that is a salsa. True or false?
+16c. True or false: An arm lock has a member of dance that is a salsa.
+18c. An arm lock has a member of dance that is a salsa. True or false?
+17a. True or false: A trading places is a part of a level iii.
+19a. A trading places is a part of a level iii. True or false?
+16c. True or false: A trading places has a member of dance that is a salsa.
+18c. A trading places has a member of dance that is a salsa. True or false?
+17a. True or false: A tightrope is a part of a level iii.
+19a. A tightrope is a part of a level iii. True or false?
+16c. True or false: A tightrope has a member of dance that is a salsa.
+18c. A tightrope has a member of dance that is a salsa. True or false?
+16c. True or false: An arm hook has a member of dance that is a salsa.
+18c. An arm hook has a member of dance that is a salsa. True or false?
+16c. True or false: A front rock has a member of dance that is a salsa.
+18c. A front rock has a member of dance that is a salsa. True or false?
+17a. True or false: A front rock is a part of a level i.
+19a. A front rock is a part of a level i. True or false?
+17a. True or false: A double cross over is a part of a level ii.
+19a. A double cross over is a part of a level ii. True or false?
+16c. True or false: A double cross over has a member of dance that is a salsa.
+18c. A double cross over has a member of dance that is a salsa. True or false?
+16c. True or false: A left turn has a member of dance that is a salsa.
+18c. A left turn has a member of dance that is a salsa. True or false?
+17a. True or false: A left turn is a part of a level i.
+19a. A left turn is a part of a level i. True or false?
+17a. True or false: An inside turn is a part of a level i.
+19a. An inside turn is a part of a level i. True or false?
+16c. True or false: An inside turn has a member of dance that is a salsa.
+18c. An inside turn has a member of dance that is a salsa. True or false?
+16c. True or false: A cross basic has a member of dance that is a cha cha cha.
+18c. A cross basic has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A cross basic is a part of a silver.
+19a. A cross basic is a part of a silver. True or false?
+17a. True or false: A cross body lead is a part of a full bronze.
+19a. A cross body lead is a part of a full bronze. True or false?
+17a. True or false: A cross body lead is a part of a level i.
+19a. A cross body lead is a part of a level i. True or false?
+16c. True or false: A cross body lead has a member of dance that is a salsa.
+18c. A cross body lead has a member of dance that is a salsa. True or false?
+16c. True or false: A cross body lead has a member of dance that is a cha cha cha.
+18c. A cross body lead has a member of dance that is a cha cha cha. True or false?
+16c. True or false: Is walking around has a member of dance that is a salsa.
+18c. Is walking around has a member of dance that is a salsa. True or false?
+17a. True or false: A foot change open to shadow is a part of gold.
+19a. A foot change open to shadow is a part of gold. True or false?
+16c. True or false: A foot change open to shadow has a member of dance that is a cha cha cha.
+18c. A foot change open to shadow has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A turkish towel is a part of gold.
+19a. A turkish towel is a part of gold. True or false?
+16c. True or false: A turkish towel has a member of dance that is a cha cha cha.
+18c. A turkish towel has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An outside breaks is a part of a full bronze.
+19a. An outside breaks is a part of a full bronze. True or false?
+16c. True or false: An outside breaks has a member of dance that is a cha cha cha.
+18c. An outside breaks has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A shadow check & turn has a member of dance that is a salsa.
+18c. A shadow check & turn has a member of dance that is a salsa. True or false?
+17a. True or false: A shadow check & turn is a part of a level iv.
+19a. A shadow check & turn is a part of a level iv. True or false?
+16c. True or false: A double head loop has a member of dance that is a salsa.
+18c. A double head loop has a member of dance that is a salsa. True or false?
+17a. True or false: A double head loop is a part of a level ii.
+19a. A double head loop is a part of a level ii. True or false?
+16c. True or false: A right side turn has a member of dance that is a salsa.
+18c. A right side turn has a member of dance that is a salsa. True or false?
+17a. True or false: A right side turn is a part of a level iii.
+19a. A right side turn is a part of a level iii. True or false?
+16c. True or false: A normal closed hold has a member of dance that is a salsa.
+18c. A normal closed hold has a member of dance that is a salsa. True or false?
+16c. True or false: A double front hook has a member of dance that is a salsa.
+18c. A double front hook has a member of dance that is a salsa. True or false?
+17a. True or false: A double front hook is a part of a level iii.
+19a. A double front hook is a part of a level iii. True or false?
+16c. True or false: A spiral has a member of dance that is a cha cha cha.
+18c. A spiral has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A spiral is a part of a silver.
+19a. A spiral is a part of a silver. True or false?
+17a. True or false: A spiral is a part of a level iv.
+19a. A spiral is a part of a level iv. True or false?
+16c. True or false: A spiral has a member of dance that is a salsa.
+18c. A spiral has a member of dance that is a salsa. True or false?
+16c. True or false: An open basic has a member of dance that is a cha cha cha.
+18c. An open basic has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An open basic is a part of a pre bronze.
+19a. An open basic is a part of a pre bronze. True or false?
+16c. True or false: An outside turns has a member of dance that is a salsa.
+18c. An outside turns has a member of dance that is a salsa. True or false?
+17a. True or false: An outside turns is a part of a level ii.
+19a. An outside turns is a part of a level ii. True or false?
+16c. True or false: A hand throw has a member of dance that is a salsa.
+18c. A hand throw has a member of dance that is a salsa. True or false?
+17a. True or false: An alemana is a part of a full bronze.
+19a. An alemana is a part of a full bronze. True or false?
+16c. True or false: An alemana has a member of dance that is a cha cha cha.
+18c. An alemana has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A closed hold has a member of dance that is a salsa.
+18c. A closed hold has a member of dance that is a salsa. True or false?
+16c. True or false: An open hold has a member of dance that is a salsa.
+18c. An open hold has a member of dance that is a salsa. True or false?
+17a. True or false: A rope spinning is a part of gold.
+19a. A rope spinning is a part of gold. True or false?
+16c. True or false: A rope spinning has a member of dance that is a cha cha cha.
+18c. A rope spinning has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A two corners is a part of a level iii.
+19a. A two corners is a part of a level iii. True or false?
+16c. True or false: A two corners has a member of dance that is a salsa.
+18c. A two corners has a member of dance that is a salsa. True or false?
+17a. True or false: A merengue step is a part of a level iii.
+19a. A merengue step is a part of a level iii. True or false?
+16c. True or false: A merengue step has a member of dance that is a salsa.
+18c. A merengue step has a member of dance that is a salsa. True or false?
+16c. True or false: A hand drop has a member of dance that is a salsa.
+18c. A hand drop has a member of dance that is a salsa. True or false?
+16c. True or false: A basic movement in place has a member of dance that is a cha cha cha.
+18c. A basic movement in place has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A basic movement in place is a part of a pre bronze.
+19a. A basic movement in place is a part of a pre bronze. True or false?
+16c. True or false: A butterfly & cradle has a member of dance that is a salsa.
+18c. A butterfly & cradle has a member of dance that is a salsa. True or false?
+17a. True or false: A half right is a part of a level ii.
+19a. A half right is a part of a level ii. True or false?
+16c. True or false: A half right has a member of dance that is a salsa.
+18c. A half right has a member of dance that is a salsa. True or false?
+17a. True or false: An enchufla is a part of a level ii.
+19a. An enchufla is a part of a level ii. True or false?
+16c. True or false: An enchufla has a member of dance that is a salsa.
+18c. An enchufla has a member of dance that is a salsa. True or false?
+17a. True or false: An out of the way is a part of a level iv.
+19a. An out of the way is a part of a level iv. True or false?
+16c. True or false: An out of the way has a member of dance that is a salsa.
+18c. An out of the way has a member of dance that is a salsa. True or false?
+17a. True or false: An advanced hip twist is a part of gold.
+19a. An advanced hip twist is a part of gold. True or false?
+16c. True or false: An advanced hip twist has a member of dance that is a cha cha cha.
+18c. An advanced hip twist has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A front hook has a member of dance that is a salsa.
+18c. A front hook has a member of dance that is a salsa. True or false?
+17a. True or false: A front hook is a part of a level iii.
+19a. A front hook is a part of a level iii. True or false?
+17a. True or false: A windmill is a part of a level iv.
+19a. A windmill is a part of a level iv. True or false?
+16c. True or false: A windmill has a member of dance that is a salsa.
+18c. A windmill has a member of dance that is a salsa. True or false?
+17a. True or false: A foot change is a part of gold.
+19a. A foot change is a part of gold. True or false?
+16c. True or false: A foot change has a member of dance that is a cha cha cha.
+18c. A foot change has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A broken left turn has a member of dance that is a salsa.
+18c. A broken left turn has a member of dance that is a salsa. True or false?
+17a. True or false: A broken left turn is a part of a level ii.
+19a. A broken left turn is a part of a level ii. True or false?
+16c. True or false: A closed basic movement has a member of dance that is a cha cha cha.
+18c. A closed basic movement has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A closed basic movement is a part of a pre bronze.
+19a. A closed basic movement is a part of a pre bronze. True or false?
+16c. True or false: A left spins has a member of dance that is a salsa.
+18c. A left spins has a member of dance that is a salsa. True or false?
+17a. True or false: A left spins is a part of a level iii.
+19a. A left spins is a part of a level iii. True or false?
+16c. True or false: A change of directions has a member of dance that is a salsa.
+18c. A change of directions has a member of dance that is a salsa. True or false?
+17a. True or false: A right turn is a part of a level ii.
+19a. A right turn is a part of a level ii. True or false?
+16c. True or false: A right turn has a member of dance that is a salsa.
+18c. A right turn has a member of dance that is a salsa. True or false?
+16c. True or false: A facing the line of dance has a member of dance that is a salsa.
+18c. A facing the line of dance has a member of dance that is a salsa. True or false?
+17a. True or false: A cape is a part of a level iii.
+19a. A cape is a part of a level iii. True or false?
+16c. True or false: A cape has a member of dance that is a salsa.
+18c. A cape has a member of dance that is a salsa. True or false?
+16c. True or false: An alternating has a member of dance that is a salsa.
+18c. An alternating has a member of dance that is a salsa. True or false?
+17a. True or false: An alternating is a part of a level ii.
+19a. An alternating is a part of a level ii. True or false?
+16c. True or false: An inside turns has a member of dance that is a salsa.
+18c. An inside turns has a member of dance that is a salsa. True or false?
+17a. True or false: An inside turns is a part of a level i.
+19a. An inside turns is a part of a level i. True or false?
+17a. True or false: A travel step is a part of a level iv.
+19a. A travel step is a part of a level iv. True or false?
+16c. True or false: A travel step has a member of dance that is a salsa.
+18c. A travel step has a member of dance that is a salsa. True or false?
+16c. True or false: A walkthrough has a member of dance that is a salsa.
+18c. A walkthrough has a member of dance that is a salsa. True or false?
+17a. True or false: A walkthrough is a part of a level iv.
+19a. A walkthrough is a part of a level iv. True or false?
+17a. True or false: An open hip twist is a part of a silver.
+19a. An open hip twist is a part of a silver. True or false?
+16c. True or false: An open hip twist has a member of dance that is a cha cha cha.
+18c. An open hip twist has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A hammerlock is a part of a level iv.
+19a. A hammerlock is a part of a level iv. True or false?
+16c. True or false: A hammerlock has a member of dance that is a salsa.
+18c. A hammerlock has a member of dance that is a salsa. True or false?
+16c. True or false: A simple dip has a member of dance that is a salsa.
+18c. A simple dip has a member of dance that is a salsa. True or false?
+17a. True or false: A simple dip is a part of a level iii.
+19a. A simple dip is a part of a level iii. True or false?
+17a. True or false: A standard is a part of a level iv.
+19a. A standard is a part of a level iv. True or false?
+16c. True or false: A standard has a member of dance that is a salsa.
+18c. A standard has a member of dance that is a salsa. True or false?
+16c. True or false: A duck has a member of dance that is a salsa.
+18c. A duck has a member of dance that is a salsa. True or false?
+17a. True or false: A duck is a part of a level iii.
+19a. A duck is a part of a level iii. True or false?
+17a. True or false: A cuban side charge is a part of a level iii.
+19a. A cuban side charge is a part of a level iii. True or false?
+16c. True or false: A cuban side charge has a member of dance that is a salsa.
+18c. A cuban side charge has a member of dance that is a salsa. True or false?
+16c. True or false: A taca taca has a member of dance that is a salsa.
+18c. A taca taca has a member of dance that is a salsa. True or false?
+17a. True or false: A taca taca is a part of a level iv.
+19a. A taca taca is a part of a level iv. True or false?
+16c. True or false: A slave has a member of dance that is a salsa.
+18c. A slave has a member of dance that is a salsa. True or false?
+17a. True or false: A slave is a part of a level iii.
+19a. A slave is a part of a level iii. True or false?
+17a. True or false: A suzie q is a part of a level ii.
+19a. A suzie q is a part of a level ii. True or false?
+16c. True or false: A suzie q has a member of dance that is a salsa.
+18c. A suzie q has a member of dance that is a salsa. True or false?
+17a. True or false: A double crossed is a part of a level ii.
+19a. A double crossed is a part of a level ii. True or false?
+16c. True or false: A double crossed has a member of dance that is a salsa.
+18c. A double crossed has a member of dance that is a salsa. True or false?
+16c. True or false: A fan has a member of dance that is a cha cha cha.
+18c. A fan has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A fan is a part of a full bronze.
+19a. A fan is a part of a full bronze. True or false?
+16c. True or false: An arm loop has a member of dance that is a salsa.
+18c. An arm loop has a member of dance that is a salsa. True or false?
+16c. True or false: A butterfly has a member of dance that is a salsa.
+18c. A butterfly has a member of dance that is a salsa. True or false?
+16c. True or false: A spiral turns has a member of dance that is a cha cha cha.
+18c. A spiral turns has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A spiral turns is a part of a silver.
+19a. A spiral turns is a part of a silver. True or false?
+16c. True or false: An aida has a member of dance that is a cha cha cha.
+18c. An aida has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An aida is a part of a silver.
+19a. An aida is a part of a silver. True or false?
+16c. True or false: A back spot turn has a member of dance that is a cha cha cha.
+18c. A back spot turn has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A back spot turn is a part of a silver.
+19a. A back spot turn is a part of a silver. True or false?
+16c. True or false: A back spot turn has a member of dance that is a salsa.
+18c. A back spot turn has a member of dance that is a salsa. True or false?
+17a. True or false: A back spot turn is a part of a level i.
+19a. A back spot turn is a part of a level i. True or false?
+16c. True or false: A cuban step has a member of dance that is a salsa.
+18c. A cuban step has a member of dance that is a salsa. True or false?
+17a. True or false: A cuban step is a part of a level ii.
+19a. A cuban step is a part of a level ii. True or false?
+16c. True or false: A cuddle has a member of dance that is a salsa.
+18c. A cuddle has a member of dance that is a salsa. True or false?
+17a. True or false: A cuddle is a part of a level iv.
+19a. A cuddle is a part of a level iv. True or false?
+16c. True or false: A 360 triple spins has a member of dance that is a salsa.
+18c. A 360 triple spins has a member of dance that is a salsa. True or false?
+17a. True or false: A 360 triple spins is a part of a level iv.
+19a. A 360 triple spins is a part of a level iv. True or false?
+16c. True or false: A reverse cross body has a member of dance that is a salsa.
+18c. A reverse cross body has a member of dance that is a salsa. True or false?
+17a. True or false: A reverse cross body is a part of a level ii.
+19a. A reverse cross body is a part of a level ii. True or false?
+16c. True or false: A basic movements has a member of dance that is a cha cha cha.
+18c. A basic movements has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A basic movements is a part of a pre bronze.
+19a. A basic movements is a part of a pre bronze. True or false?
+16c. True or false: An uptown downtown has a member of dance that is a salsa.
+18c. An uptown downtown has a member of dance that is a salsa. True or false?
+17a. True or false: An uptown downtown is a part of a level iii.
+19a. An uptown downtown is a part of a level iii. True or false?
+17a. True or false: A backward slide is a part of a level i.
+19a. A backward slide is a part of a level i. True or false?
+16c. True or false: A backward slide has a member of dance that is a salsa.
+18c. A backward slide has a member of dance that is a salsa. True or false?
+16c. True or false: A bridge has a member of dance that is a salsa.
+18c. A bridge has a member of dance that is a salsa. True or false?
+17a. True or false: A bridge is a part of a level iii.
+19a. A bridge is a part of a level iii. True or false?
+16c. True or false: A half hammerlock has a member of dance that is a salsa.
+18c. A half hammerlock has a member of dance that is a salsa. True or false?
+17a. True or false: A side steps is a part of a level i.
+19a. A side steps is a part of a level i. True or false?
+16c. True or false: A side steps has a member of dance that is a salsa.
+18c. A side steps has a member of dance that is a salsa. True or false?
+17a. True or false: A side steps is a part of an intermediate bronze.
+19a. A side steps is a part of an intermediate bronze. True or false?
+16c. True or false: A side steps has a member of dance that is a cha cha cha.
+18c. A side steps has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A kick swivel is a part of an intermediate bronze.
+19a. A kick swivel is a part of an intermediate bronze. True or false?
+16c. True or false: A kick swivel has a member of dance that is a cha cha cha.
+18c. A kick swivel has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A tunnel has a member of dance that is a salsa.
+18c. A tunnel has a member of dance that is a salsa. True or false?
+17a. True or false: A tunnel is a part of a level iii.
+19a. A tunnel is a part of a level iii. True or false?
+16c. True or false: A back break has a member of dance that is a salsa.
+18c. A back break has a member of dance that is a salsa. True or false?
+17a. True or false: A back break is a part of a level i.
+19a. A back break is a part of a level i. True or false?
+17a. True or false: A basic movement is a part of a pre bronze.
+19a. A basic movement is a part of a pre bronze. True or false?
+16c. True or false: A basic movement has a member of dance that is a cha cha cha.
+18c. A basic movement has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A right spins has a member of dance that is a salsa.
+18c. A right spins has a member of dance that is a salsa. True or false?
+17a. True or false: A right spins is a part of a level iii.
+19a. A right spins is a part of a level iii. True or false?
+16c. True or false: A shadow to open has a member of dance that is a cha cha cha.
+18c. A shadow to open has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A shadow to open is a part of gold.
+19a. A shadow to open is a part of gold. True or false?
+16c. True or false: A hair comb has a member of dance that is a salsa.
+18c. A hair comb has a member of dance that is a salsa. True or false?
+17a. True or false: A hair comb is a part of a level iv.
+19a. A hair comb is a part of a level iv. True or false?
+17a. True or false: A cross body check is a part of a level iii.
+19a. A cross body check is a part of a level iii. True or false?
+16c. True or false: A cross body check has a member of dance that is a salsa.
+18c. A cross body check has a member of dance that is a salsa. True or false?
+16c. True or false: A right spin turn has a member of dance that is a salsa.
+18c. A right spin turn has a member of dance that is a salsa. True or false?
+17a. True or false: A right spin turn is a part of a level iii.
+19a. A right spin turn is a part of a level iii. True or false?
+16c. True or false: A side press has a member of dance that is a salsa.
+18c. A side press has a member of dance that is a salsa. True or false?
+17a. True or false: A side press is a part of a level i.
+19a. A side press is a part of a level i. True or false?
+17a. True or false: A cumbia into men is a part of a level ii.
+19a. A cumbia into men is a part of a level ii. True or false?
+16c. True or false: A cumbia into men has a member of dance that is a salsa.
+18c. A cumbia into men has a member of dance that is a salsa. True or false?
+17a. True or false: A back rock is a part of a level i.
+19a. A back rock is a part of a level i. True or false?
+16c. True or false: A back rock has a member of dance that is a salsa.
+18c. A back rock has a member of dance that is a salsa. True or false?
+17a. True or false: A peek a boo is a part of a level i.
+19a. A peek a boo is a part of a level i. True or false?
+16c. True or false: A peek a boo has a member of dance that is a salsa.
+18c. A peek a boo has a member of dance that is a salsa. True or false?
+16c. True or false: A front slide has a member of dance that is a salsa.
+18c. A front slide has a member of dance that is a salsa. True or false?
+17a. True or false: A front slide is a part of a level iii.
+19a. A front slide is a part of a level iii. True or false?
+16c. True or false: A drape has a member of dance that is a salsa.
+18c. A drape has a member of dance that is a salsa. True or false?
+17a. True or false: A drape is a part of a level ii.
+19a. A drape is a part of a level ii. True or false?
+16c. True or false: A cross over breaks has a member of dance that is a cha cha cha.
+18c. A cross over breaks has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A cross over breaks is a part of an intermediate bronze.
+19a. A cross over breaks is a part of an intermediate bronze. True or false?
+16c. True or false: A sweetheart has a member of dance that is a cha cha cha.
+18c. A sweetheart has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A sweetheart is a part of gold.
+19a. A sweetheart is a part of gold. True or false?
+16c. True or false: A sombrero has a member of dance that is a salsa.
+18c. A sombrero has a member of dance that is a salsa. True or false?
+16c. True or false: A walk has a member of dance that is a salsa.
+18c. A walk has a member of dance that is a salsa. True or false?
+16c. True or false: A half left has a member of dance that is a salsa.
+18c. A half left has a member of dance that is a salsa. True or false?
+17a. True or false: A half left is a part of a level ii.
+19a. A half left is a part of a level ii. True or false?
+16c. True or false: An u turn has a member of dance that is a salsa.
+18c. An u turn has a member of dance that is a salsa. True or false?
+17a. True or false: A side by side triples is a part of a silver.
+19a. A side by side triples is a part of a silver. True or false?
+16c. True or false: A side by side triples has a member of dance that is a cha cha cha.
+18c. A side by side triples has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A free spin is a part of a level iii.
+19a. A free spin is a part of a level iii. True or false?
+16c. True or false: A free spin has a member of dance that is a salsa.
+18c. A free spin has a member of dance that is a salsa. True or false?
+17a. True or false: A hand toss is a part of a level iii.
+19a. A hand toss is a part of a level iii. True or false?
+16c. True or false: A hand toss has a member of dance that is a salsa.
+18c. A hand toss has a member of dance that is a salsa. True or false?
+16c. True or false: A diamond step has a member of dance that is a salsa.
+18c. A diamond step has a member of dance that is a salsa. True or false?
+17a. True or false: A diamond step is a part of a level iii.
+19a. A diamond step is a part of a level iii. True or false?
+16c. True or false: An overhead has a member of dance that is a salsa.
+18c. An overhead has a member of dance that is a salsa. True or false?
+17a. True or false: An overhead is a part of a level iv.
+19a. An overhead is a part of a level iv. True or false?
+16c. True or false: A closed basic has a member of dance that is a cha cha cha.
+18c. A closed basic has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A closed basic is a part of a pre bronze.
+19a. A closed basic is a part of a pre bronze. True or false?
+17a. True or false: A natural top is a part of a full bronze.
+19a. A natural top is a part of a full bronze. True or false?
+16c. True or false: A natural top has a member of dance that is a cha cha cha.
+18c. A natural top has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A stop and go has a member of dance that is a salsa.
+18c. A stop and go has a member of dance that is a salsa. True or false?
+17a. True or false: A stop and go is a part of a level ii.
+19a. A stop and go is a part of a level ii. True or false?
+16c. True or false: A spot turns has a member of dance that is a salsa.
+18c. A spot turns has a member of dance that is a salsa. True or false?
+17a. True or false: A spot turns is a part of a level ii.
+19a. A spot turns is a part of a level ii. True or false?
+16c. True or false: A spotting has a member of dance that is a salsa.
+18c. A spotting has a member of dance that is a salsa. True or false?
+17a. True or false: A spotting is a part of a level iv.
+19a. A spotting is a part of a level iv. True or false?
+17a. True or false: A time step is a part of a pre bronze.
+19a. A time step is a part of a pre bronze. True or false?
+16c. True or false: A time step has a member of dance that is a cha cha cha.
+18c. A time step has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A wraps has a member of dance that is a salsa.
+18c. A wraps has a member of dance that is a salsa. True or false?
+17a. True or false: A wraps is a part of a level iv.
+19a. A wraps is a part of a level iv. True or false?
+17a. True or false: A hook turn is a part of a level iii.
+19a. A hook turn is a part of a level iii. True or false?
+16c. True or false: A hook turn has a member of dance that is a salsa.
+18c. A hook turn has a member of dance that is a salsa. True or false?
+16c. True or false: An advanced back pass has a member of dance that is a salsa.
+18c. An advanced back pass has a member of dance that is a salsa. True or false?
+17a. True or false: An advanced back pass is a part of a level iv.
+19a. An advanced back pass is a part of a level iv. True or false?
+16c. True or false: A switch position has a member of dance that is a salsa.
+18c. A switch position has a member of dance that is a salsa. True or false?
+17a. True or false: A switch position is a part of a level iii.
+19a. A switch position is a part of a level iii. True or false?
+16c. True or false: A basic has a member of dance that is a cha cha cha.
+18c. A basic has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A basic is a part of a pre bronze.
+19a. A basic is a part of a pre bronze. True or false?
+17a. True or false: A prep for double turn is a part of a level iii.
+19a. A prep for double turn is a part of a level iii. True or false?
+16c. True or false: A prep for double turn has a member of dance that is a salsa.
+18c. A prep for double turn has a member of dance that is a salsa. True or false?
+16c. True or false: A head loop has a member of dance that is a salsa.
+18c. A head loop has a member of dance that is a salsa. True or false?
+17a. True or false: A head loop is a part of a level ii.
+19a. A head loop is a part of a level ii. True or false?
+16c. True or false: A crossed hands has a member of dance that is a salsa.
+18c. A crossed hands has a member of dance that is a salsa. True or false?
+17a. True or false: A crossed hands is a part of a level iii.
+19a. A crossed hands is a part of a level iii. True or false?
+16c. True or false: An around the world has a member of dance that is a salsa.
+18c. An around the world has a member of dance that is a salsa. True or false?
+17a. True or false: An around the world is a part of a level iii.
+19a. An around the world is a part of a level iii. True or false?
+17a. True or false: An alternative basic movement is a part of a pre bronze.
+19a. An alternative basic movement is a part of a pre bronze. True or false?
+16c. True or false: An alternative basic movement has a member of dance that is a cha cha cha.
+18c. An alternative basic movement has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A broken arm has a member of dance that is a salsa.
+18c. A broken arm has a member of dance that is a salsa. True or false?
+17a. True or false: A back hook is a part of a level iii.
+19a. A back hook is a part of a level iii. True or false?
+16c. True or false: A back hook has a member of dance that is a salsa.
+18c. A back hook has a member of dance that is a salsa. True or false?
+16c. True or false: A foot change 4 shadow to open has a member of dance that is a cha cha cha.
+18c. A foot change 4 shadow to open has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A foot change 4 shadow to open is a part of gold.
+19a. A foot change 4 shadow to open is a part of gold. True or false?
+16c. True or false: A curl has a member of dance that is a cha cha cha.
+18c. A curl has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A curl is a part of a silver.
+19a. A curl is a part of a silver. True or false?
+16c. True or false: A spiral kick has a member of dance that is a salsa.
+18c. A spiral kick has a member of dance that is a salsa. True or false?
+17a. True or false: A spiral kick is a part of a level iv.
+19a. A spiral kick is a part of a level iv. True or false?
+16c. True or false: A forward slide has a member of dance that is a salsa.
+18c. A forward slide has a member of dance that is a salsa. True or false?
+17a. True or false: A forward slide is a part of a level iii.
+19a. A forward slide is a part of a level iii. True or false?
+16c. True or false: A reverse top has a member of dance that is a cha cha cha.
+18c. A reverse top has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A reverse top is a part of a silver.
+19a. A reverse top is a part of a silver. True or false?
+16c. True or false: A back step has a member of dance that is a salsa.
+18c. A back step has a member of dance that is a salsa. True or false?
+17a. True or false: A back step is a part of a level i.
+19a. A back step is a part of a level i. True or false?
+17a. True or false: A hand slide is a part of a level iv.
+19a. A hand slide is a part of a level iv. True or false?
+16c. True or false: A hand slide has a member of dance that is a salsa.
+18c. A hand slide has a member of dance that is a salsa. True or false?
+17a. True or false: A check copa is a part of a level ii.
+19a. A check copa is a part of a level ii. True or false?
+16c. True or false: A check copa has a member of dance that is a salsa.
+18c. A check copa has a member of dance that is a salsa. True or false?
+16c. True or false: An embrace has a member of dance that is a salsa.
+18c. An embrace has a member of dance that is a salsa. True or false?
+17a. True or false: A basket is a part of a level iv.
+19a. A basket is a part of a level iv. True or false?
+16c. True or false: A basket has a member of dance that is a salsa.
+18c. A basket has a member of dance that is a salsa. True or false?
+16c. True or false: An underarm turn has a member of dance that is a cha cha cha.
+18c. An underarm turn has a member of dance that is a cha cha cha. True or false?
+17a. True or false: An underarm turn is a part of an intermediate bronze.
+19a. An underarm turn is a part of an intermediate bronze. True or false?
+16c. True or false: An underarm turn has a member of dance that is a salsa.
+18c. An underarm turn has a member of dance that is a salsa. True or false?
+17a. True or false: An underarm turn is a part of a level i.
+19a. An underarm turn is a part of a level i. True or false?
+16c. True or false: A hook step has a member of dance that is a salsa.
+18c. A hook step has a member of dance that is a salsa. True or false?
+17a. True or false: A hook step is a part of a level iii.
+19a. A hook step is a part of a level iii. True or false?
+16c. True or false: A front flare has a member of dance that is a salsa.
+18c. A front flare has a member of dance that is a salsa. True or false?
+17a. True or false: A front flare is a part of a level iii.
+19a. A front flare is a part of a level iii. True or false?
+17a. True or false: A forward spot turn is a part of a silver.
+19a. A forward spot turn is a part of a silver. True or false?
+16c. True or false: A forward spot turn has a member of dance that is a cha cha cha.
+18c. A forward spot turn has a member of dance that is a cha cha cha. True or false?
+16c. True or false: A promenade swivels has a member of dance that is a cha cha cha.
+18c. A promenade swivels has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A promenade swivels is a part of a silver.
+19a. A promenade swivels is a part of a silver. True or false?
+16c. True or false: A crossed holds has a member of dance that is a salsa.
+18c. A crossed holds has a member of dance that is a salsa. True or false?
+16c. True or false: A basic step has a member of dance that is a salsa.
+18c. A basic step has a member of dance that is a salsa. True or false?
+17a. True or false: A basic step is a part of a level i.
+19a. A basic step is a part of a level i. True or false?
+16c. True or false: A natural opening out movement has a member of dance that is a cha cha cha.
+18c. A natural opening out movement has a member of dance that is a cha cha cha. True or false?
+17a. True or false: A natural opening out movement is a part of a full bronze.
+19a. A natural opening out movement is a part of a full bronze. True or false?
+TRUE_FALSE_QUESTIONS_QUANTIFIED = 3
+21f. True or false: A left side turn has a member of dance that is some salsa.
+23f. A left side turn has a member of dance that is some salsa. True or false?
+20a. True or false: A left side turn is a part of some level iii.
+22a. A left side turn is a part of some level iii. True or false?
+20a. True or false: A single hand copa is a part of some level ii.
+22a. A single hand copa is a part of some level ii. True or false?
+21f. True or false: A single hand copa has a member of dance that is some salsa.
+23f. A single hand copa has a member of dance that is some salsa. True or false?
+20a. True or false: A front cross over is a part of some level iii.
+22a. A front cross over is a part of some level iii. True or false?
+21f. True or false: A front cross over has a member of dance that is some salsa.
+23f. A front cross over has a member of dance that is some salsa. True or false?
+20a. True or false: A cross over into men is a part of some level iii.
+22a. A cross over into men is a part of some level iii. True or false?
+21f. True or false: A cross over into men has a member of dance that is some salsa.
+23f. A cross over into men has a member of dance that is some salsa. True or false?
+20a. True or false: A cumbia step is a part of some level ii.
+22a. A cumbia step is a part of some level ii. True or false?
+21f. True or false: A cumbia step has a member of dance that is some salsa.
+23f. A cumbia step has a member of dance that is some salsa. True or false?
+21f. True or false: A chord beat crossovers has a member of dance that is some salsa.
+23f. A chord beat crossovers has a member of dance that is some salsa. True or false?
+20a. True or false: A chord beat crossovers is a part of some level iii.
+22a. A chord beat crossovers is a part of some level iii. True or false?
+20a. True or false: An open basic movement is a part of some pre bronze.
+22a. An open basic movement is a part of some pre bronze. True or false?
+21f. True or false: An open basic movement has a member of dance that is some cha cha cha.
+23f. An open basic movement has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A front step has a member of dance that is some salsa.
+23f. A front step has a member of dance that is some salsa. True or false?
+20a. True or false: A front step is a part of some level i.
+22a. A front step is a part of some level i. True or false?
+20a. True or false: A hip twist is a part of some full bronze.
+22a. A hip twist is a part of some full bronze. True or false?
+21f. True or false: A hip twist has a member of dance that is some cha cha cha.
+23f. A hip twist has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A 2 handed has a member of dance that is some salsa.
+23f. A 2 handed has a member of dance that is some salsa. True or false?
+20a. True or false: A 2 handed is a part of some level i.
+22a. A 2 handed is a part of some level i. True or false?
+20a. True or false: An open break is a part of some level i.
+22a. An open break is a part of some level i. True or false?
+20a. True or false: An open break is a part of some full bronze.
+22a. An open break is a part of some full bronze. True or false?
+21f. True or false: An open break has a member of dance that is some salsa.
+23f. An open break has a member of dance that is some salsa. True or false?
+21f. True or false: An open break has a member of dance that is some cha cha cha.
+23f. An open break has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A shoulder checks is a part of some level i.
+22a. A shoulder checks is a part of some level i. True or false?
+21f. True or false: A shoulder checks has a member of dance that is some salsa.
+23f. A shoulder checks has a member of dance that is some salsa. True or false?
+21f. True or false: A shoulder to shoulder has a member of dance that is some cha cha cha.
+23f. A shoulder to shoulder has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A shoulder to shoulder is a part of some pre bronze.
+22a. A shoulder to shoulder is a part of some pre bronze. True or false?
+21a. True or false: A salsa contains only a level iii.
+23a. A salsa contains only a level iii. True or false?
+21a. True or false: A salsa contains only a level iv.
+23a. A salsa contains only a level iv. True or false?
+21a. True or false: A salsa contains only a level ii.
+23a. A salsa contains only a level ii. True or false?
+21a. True or false: A salsa contains only a level i.
+23a. A salsa contains only a level i. True or false?
+21f. True or false: A fallaway swivel has a member of dance that is some cha cha cha.
+23f. A fallaway swivel has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A fallaway swivel is a part of some silver.
+22a. A fallaway swivel is a part of some silver. True or false?
+20a. True or false: A foot change 3 open to shadow is a part of some gold.
+22a. A foot change 3 open to shadow is a part of some gold. True or false?
+21f. True or false: A foot change 3 open to shadow has a member of dance that is some cha cha cha.
+23f. A foot change 3 open to shadow has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A foot change shadow to open is a part of some gold.
+22a. A foot change shadow to open is a part of some gold. True or false?
+21f. True or false: A foot change shadow to open has a member of dance that is some cha cha cha.
+23f. A foot change shadow to open has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A titanic has a member of dance that is some salsa.
+23f. A titanic has a member of dance that is some salsa. True or false?
+20a. True or false: A titanic is a part of some level iii.
+22a. A titanic is a part of some level iii. True or false?
+20a. True or false: A 180 cross body lead is a part of some level ii.
+22a. A 180 cross body lead is a part of some level ii. True or false?
+21f. True or false: A 180 cross body lead has a member of dance that is some salsa.
+23f. A 180 cross body lead has a member of dance that is some salsa. True or false?
+20a. True or false: An opening out from reverse top is a part of some silver.
+22a. An opening out from reverse top is a part of some silver. True or false?
+21f. True or false: An opening out from reverse top has a member of dance that is some cha cha cha.
+23f. An opening out from reverse top has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An outside turn is a part of some level ii.
+22a. An outside turn is a part of some level ii. True or false?
+21f. True or false: An outside turn has a member of dance that is some salsa.
+23f. An outside turn has a member of dance that is some salsa. True or false?
+20a. True or false: An open to shadow is a part of some gold.
+22a. An open to shadow is a part of some gold. True or false?
+21f. True or false: An open to shadow has a member of dance that is some cha cha cha.
+23f. An open to shadow has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A front double cross is a part of some level iv.
+22a. A front double cross is a part of some level iv. True or false?
+21f. True or false: A front double cross has a member of dance that is some salsa.
+23f. A front double cross has a member of dance that is some salsa. True or false?
+21f. True or false: A progressive basic has a member of dance that is some cha cha cha.
+23f. A progressive basic has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A progressive basic is a part of some intermediate bronze.
+22a. A progressive basic is a part of some intermediate bronze. True or false?
+20a. True or false: A window is a part of some level iv.
+22a. A window is a part of some level iv. True or false?
+21f. True or false: A window has a member of dance that is some salsa.
+23f. A window has a member of dance that is some salsa. True or false?
+20a. True or false: A catwalk is a part of some level i.
+22a. A catwalk is a part of some level i. True or false?
+21f. True or false: A catwalk has a member of dance that is some salsa.
+23f. A catwalk has a member of dance that is some salsa. True or false?
+20a. True or false: A left check turn is a part of some level i.
+22a. A left check turn is a part of some level i. True or false?
+21f. True or false: A left check turn has a member of dance that is some salsa.
+23f. A left check turn has a member of dance that is some salsa. True or false?
+21f. True or false: A facing perpendicular to the line of dance has a member of dance that is some salsa.
+23f. A facing perpendicular to the line of dance has a member of dance that is some salsa. True or false?
+20a. True or false: A basic in place is a part of some pre bronze.
+22a. A basic in place is a part of some pre bronze. True or false?
+21f. True or false: A basic in place has a member of dance that is some cha cha cha.
+23f. A basic in place has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A leg trap has a member of dance that is some salsa.
+23f. A leg trap has a member of dance that is some salsa. True or false?
+20a. True or false: A leg trap is a part of some level iv.
+22a. A leg trap is a part of some level iv. True or false?
+21f. True or false: An underarm turns has a member of dance that is some salsa.
+23f. An underarm turns has a member of dance that is some salsa. True or false?
+20a. True or false: An underarm turns is a part of some level i.
+22a. An underarm turns is a part of some level i. True or false?
+21f. True or false: An underarm turns has a member of dance that is some cha cha cha.
+23f. An underarm turns has a member of dance that is some cha cha cha. True or false?
+21f. True or false: An underarm turn with spin has a member of dance that is some cha cha cha.
+23f. An underarm turn with spin has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An underarm turn with spin is a part of some intermediate bronze.
+22a. An underarm turn with spin is a part of some intermediate bronze. True or false?
+20a. True or false: A coca cola is a part of some level iii.
+22a. A coca cola is a part of some level iii. True or false?
+21f. True or false: A coca cola has a member of dance that is some salsa.
+23f. A coca cola has a member of dance that is some salsa. True or false?
+21a. True or false: A cha cha cha contains only a silver.
+23a. A cha cha cha contains only a silver. True or false?
+21a. True or false: A cha cha cha contains only gold.
+23a. A cha cha cha contains only gold. True or false?
+21a. True or false: A cha cha cha contains only a full bronze.
+23a. A cha cha cha contains only a full bronze. True or false?
+21a. True or false: A cha cha cha contains only an intermediate bronze.
+23a. A cha cha cha contains only an intermediate bronze. True or false?
+21a. True or false: A cha cha cha contains only a pre bronze.
+23a. A cha cha cha contains only a pre bronze. True or false?
+20a. True or false: A back tap is a part of some level iii.
+22a. A back tap is a part of some level iii. True or false?
+21f. True or false: A back tap has a member of dance that is some salsa.
+23f. A back tap has a member of dance that is some salsa. True or false?
+20a. True or false: A there and back is a part of some pre bronze.
+22a. A there and back is a part of some pre bronze. True or false?
+21f. True or false: A there and back has a member of dance that is some cha cha cha.
+23f. A there and back has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A 2 corners has a member of dance that is some salsa.
+23f. A 2 corners has a member of dance that is some salsa. True or false?
+20a. True or false: A 2 corners is a part of some level i.
+22a. A 2 corners is a part of some level i. True or false?
+20a. True or false: A hockey stick is a part of some full bronze.
+22a. A hockey stick is a part of some full bronze. True or false?
+21f. True or false: A hockey stick has a member of dance that is some cha cha cha.
+23f. A hockey stick has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A hip twist spiral is a part of some gold.
+22a. A hip twist spiral is a part of some gold. True or false?
+21f. True or false: A hip twist spiral has a member of dance that is some cha cha cha.
+23f. A hip twist spiral has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A drop hand catch has a member of dance that is some salsa.
+23f. A drop hand catch has a member of dance that is some salsa. True or false?
+20a. True or false: A drop hand catch is a part of some level i.
+22a. A drop hand catch is a part of some level i. True or false?
+20a. True or false: A double spiral is a part of some level iv.
+22a. A double spiral is a part of some level iv. True or false?
+21f. True or false: A double spiral has a member of dance that is some salsa.
+23f. A double spiral has a member of dance that is some salsa. True or false?
+20a. True or false: A bounce is a part of some level iii.
+22a. A bounce is a part of some level iii. True or false?
+21f. True or false: A bounce has a member of dance that is some salsa.
+23f. A bounce has a member of dance that is some salsa. True or false?
+21f. True or false: A hand to hand has a member of dance that is some cha cha cha.
+23f. A hand to hand has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A hand to hand is a part of some intermediate bronze.
+22a. A hand to hand is a part of some intermediate bronze. True or false?
+20a. True or false: A toe taps is a part of some level ii.
+22a. A toe taps is a part of some level ii. True or false?
+21f. True or false: A toe taps has a member of dance that is some salsa.
+23f. A toe taps has a member of dance that is some salsa. True or false?
+21f. True or false: A side to side has a member of dance that is some salsa.
+23f. A side to side has a member of dance that is some salsa. True or false?
+20a. True or false: A side to side is a part of some level i.
+22a. A side to side is a part of some level i. True or false?
+20a. True or false: A traveling underarm turn is a part of some level iv.
+22a. A traveling underarm turn is a part of some level iv. True or false?
+21f. True or false: A traveling underarm turn has a member of dance that is some salsa.
+23f. A traveling underarm turn has a member of dance that is some salsa. True or false?
+21f. True or false: A grapevine has a member of dance that is some salsa.
+23f. A grapevine has a member of dance that is some salsa. True or false?
+21f. True or false: A grapevine has a member of dance that is some cha cha cha.
+23f. A grapevine has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A grapevine is a part of some gold.
+22a. A grapevine is a part of some gold. True or false?
+20a. True or false: A grapevine is a part of some level iv.
+22a. A grapevine is a part of some level iv. True or false?
+21f. True or false: A braid step has a member of dance that is some salsa.
+23f. A braid step has a member of dance that is some salsa. True or false?
+20a. True or false: A braid step is a part of some level iii.
+22a. A braid step is a part of some level iii. True or false?
+21f. True or false: A chase has a member of dance that is some cha cha cha.
+23f. A chase has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A chase is a part of some silver.
+22a. A chase is a part of some silver. True or false?
+20a. True or false: A double hand copa is a part of some level iii.
+22a. A double hand copa is a part of some level iii. True or false?
+21f. True or false: A double hand copa has a member of dance that is some salsa.
+23f. A double hand copa has a member of dance that is some salsa. True or false?
+20a. True or false: A side flares is a part of some level iv.
+22a. A side flares is a part of some level iv. True or false?
+21f. True or false: A side flares has a member of dance that is some salsa.
+23f. A side flares has a member of dance that is some salsa. True or false?
+20a. True or false: A crucifix is a part of some level iv.
+22a. A crucifix is a part of some level iv. True or false?
+21f. True or false: A crucifix has a member of dance that is some salsa.
+23f. A crucifix has a member of dance that is some salsa. True or false?
+21f. True or false: A switching hands has a member of dance that is some salsa.
+23f. A switching hands has a member of dance that is some salsa. True or false?
+20a. True or false: A three cha cha chas is a part of some pre bronze.
+22a. A three cha cha chas is a part of some pre bronze. True or false?
+21f. True or false: A three cha cha chas has a member of dance that is some cha cha cha.
+23f. A three cha cha chas has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A cuban breaks has a member of dance that is some cha cha cha.
+23f. A cuban breaks has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A cuban breaks is a part of some silver.
+22a. A cuban breaks is a part of some silver. True or false?
+21f. True or false: A ronde chasse has a member of dance that is some cha cha cha.
+23f. A ronde chasse has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A ronde chasse is a part of some silver.
+22a. A ronde chasse is a part of some silver. True or false?
+20a. True or false: A new york is a part of some pre bronze.
+22a. A new york is a part of some pre bronze. True or false?
+21f. True or false: A new york has a member of dance that is some cha cha cha.
+23f. A new york has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A mambo walk is a part of some level iii.
+22a. A mambo walk is a part of some level iii. True or false?
+21f. True or false: A mambo walk has a member of dance that is some salsa.
+23f. A mambo walk has a member of dance that is some salsa. True or false?
+20a. True or false: A copa is a part of some level ii.
+22a. A copa is a part of some level ii. True or false?
+21f. True or false: A copa has a member of dance that is some salsa.
+23f. A copa has a member of dance that is some salsa. True or false?
+21f. True or false: A basic cha cha has a member of dance that is some cha cha cha.
+23f. A basic cha cha has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A basic cha cha is a part of some intermediate bronze.
+22a. A basic cha cha is a part of some intermediate bronze. True or false?
+21f. True or false: A change of a hand hold has a member of dance that is some salsa.
+23f. A change of a hand hold has a member of dance that is some salsa. True or false?
+21f. True or false: A the wrap has a member of dance that is some salsa.
+23f. A the wrap has a member of dance that is some salsa. True or false?
+20a. True or false: A the wrap is a part of some level iii.
+22a. A the wrap is a part of some level iii. True or false?
+20a. True or false: A three cha chas forward or back is a part of some pre bronze.
+22a. A three cha chas forward or back is a part of some pre bronze. True or false?
+21f. True or false: A three cha chas forward or back has a member of dance that is some cha cha cha.
+23f. A three cha chas forward or back has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A superwoman has a member of dance that is some salsa.
+23f. A superwoman has a member of dance that is some salsa. True or false?
+20a. True or false: A superwoman is a part of some level iv.
+22a. A superwoman is a part of some level iv. True or false?
+20a. True or false: A burrito is a part of some level iii.
+22a. A burrito is a part of some level iii. True or false?
+21f. True or false: A burrito has a member of dance that is some salsa.
+23f. A burrito has a member of dance that is some salsa. True or false?
+21f. True or false: A normal open holds has a member of dance that is some salsa.
+23f. A normal open holds has a member of dance that is some salsa. True or false?
+20a. True or false: A split cuban breaks is a part of some silver.
+22a. A split cuban breaks is a part of some silver. True or false?
+21f. True or false: A split cuban breaks has a member of dance that is some cha cha cha.
+23f. A split cuban breaks has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A delay step has a member of dance that is some salsa.
+23f. A delay step has a member of dance that is some salsa. True or false?
+20a. True or false: A 360 switch position is a part of some level iii.
+22a. A 360 switch position is a part of some level iii. True or false?
+21f. True or false: A 360 switch position has a member of dance that is some salsa.
+23f. A 360 switch position has a member of dance that is some salsa. True or false?
+20a. True or false: An in and out is a part of some level ii.
+22a. An in and out is a part of some level ii. True or false?
+21f. True or false: An in and out has a member of dance that is some salsa.
+23f. An in and out has a member of dance that is some salsa. True or false?
+21f. True or false: A front tap has a member of dance that is some salsa.
+23f. A front tap has a member of dance that is some salsa. True or false?
+20a. True or false: A front tap is a part of some level iii.
+22a. A front tap is a part of some level iii. True or false?
+20a. True or false: A closed hip twist is a part of some full bronze.
+22a. A closed hip twist is a part of some full bronze. True or false?
+21f. True or false: A closed hip twist has a member of dance that is some cha cha cha.
+23f. A closed hip twist has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An elbow push is a part of some level iv.
+22a. An elbow push is a part of some level iv. True or false?
+21f. True or false: An elbow push has a member of dance that is some salsa.
+23f. An elbow push has a member of dance that is some salsa. True or false?
+21f. True or false: A shoulder lead has a member of dance that is some salsa.
+23f. A shoulder lead has a member of dance that is some salsa. True or false?
+20a. True or false: A shoulder lead is a part of some level ii.
+22a. A shoulder lead is a part of some level ii. True or false?
+20a. True or false: A guapea is a part of some level i.
+22a. A guapea is a part of some level i. True or false?
+21f. True or false: A guapea has a member of dance that is some salsa.
+23f. A guapea has a member of dance that is some salsa. True or false?
+20a. True or false: A back pass is a part of some level ii.
+22a. A back pass is a part of some level ii. True or false?
+21f. True or false: A back pass has a member of dance that is some salsa.
+23f. A back pass has a member of dance that is some salsa. True or false?
+21f. True or false: An arm lock has a member of dance that is some salsa.
+23f. An arm lock has a member of dance that is some salsa. True or false?
+20a. True or false: A trading places is a part of some level iii.
+22a. A trading places is a part of some level iii. True or false?
+21f. True or false: A trading places has a member of dance that is some salsa.
+23f. A trading places has a member of dance that is some salsa. True or false?
+20a. True or false: A tightrope is a part of some level iii.
+22a. A tightrope is a part of some level iii. True or false?
+21f. True or false: A tightrope has a member of dance that is some salsa.
+23f. A tightrope has a member of dance that is some salsa. True or false?
+21f. True or false: An arm hook has a member of dance that is some salsa.
+23f. An arm hook has a member of dance that is some salsa. True or false?
+21f. True or false: A front rock has a member of dance that is some salsa.
+23f. A front rock has a member of dance that is some salsa. True or false?
+20a. True or false: A front rock is a part of some level i.
+22a. A front rock is a part of some level i. True or false?
+20a. True or false: A double cross over is a part of some level ii.
+22a. A double cross over is a part of some level ii. True or false?
+21f. True or false: A double cross over has a member of dance that is some salsa.
+23f. A double cross over has a member of dance that is some salsa. True or false?
+21f. True or false: A left turn has a member of dance that is some salsa.
+23f. A left turn has a member of dance that is some salsa. True or false?
+20a. True or false: A left turn is a part of some level i.
+22a. A left turn is a part of some level i. True or false?
+20a. True or false: An inside turn is a part of some level i.
+22a. An inside turn is a part of some level i. True or false?
+21f. True or false: An inside turn has a member of dance that is some salsa.
+23f. An inside turn has a member of dance that is some salsa. True or false?
+21f. True or false: A cross basic has a member of dance that is some cha cha cha.
+23f. A cross basic has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A cross basic is a part of some silver.
+22a. A cross basic is a part of some silver. True or false?
+20a. True or false: A cross body lead is a part of some full bronze.
+22a. A cross body lead is a part of some full bronze. True or false?
+20a. True or false: A cross body lead is a part of some level i.
+22a. A cross body lead is a part of some level i. True or false?
+21f. True or false: A cross body lead has a member of dance that is some salsa.
+23f. A cross body lead has a member of dance that is some salsa. True or false?
+21f. True or false: A cross body lead has a member of dance that is some cha cha cha.
+23f. A cross body lead has a member of dance that is some cha cha cha. True or false?
+21f. True or false: Is walking around has a member of dance that is some salsa.
+23f. Is walking around has a member of dance that is some salsa. True or false?
+20a. True or false: A foot change open to shadow is a part of some gold.
+22a. A foot change open to shadow is a part of some gold. True or false?
+21f. True or false: A foot change open to shadow has a member of dance that is some cha cha cha.
+23f. A foot change open to shadow has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A turkish towel is a part of some gold.
+22a. A turkish towel is a part of some gold. True or false?
+21f. True or false: A turkish towel has a member of dance that is some cha cha cha.
+23f. A turkish towel has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An outside breaks is a part of some full bronze.
+22a. An outside breaks is a part of some full bronze. True or false?
+21f. True or false: An outside breaks has a member of dance that is some cha cha cha.
+23f. An outside breaks has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A shadow check & turn has a member of dance that is some salsa.
+23f. A shadow check & turn has a member of dance that is some salsa. True or false?
+20a. True or false: A shadow check & turn is a part of some level iv.
+22a. A shadow check & turn is a part of some level iv. True or false?
+21f. True or false: A double head loop has a member of dance that is some salsa.
+23f. A double head loop has a member of dance that is some salsa. True or false?
+20a. True or false: A double head loop is a part of some level ii.
+22a. A double head loop is a part of some level ii. True or false?
+21f. True or false: A right side turn has a member of dance that is some salsa.
+23f. A right side turn has a member of dance that is some salsa. True or false?
+20a. True or false: A right side turn is a part of some level iii.
+22a. A right side turn is a part of some level iii. True or false?
+21f. True or false: A normal closed hold has a member of dance that is some salsa.
+23f. A normal closed hold has a member of dance that is some salsa. True or false?
+21f. True or false: A double front hook has a member of dance that is some salsa.
+23f. A double front hook has a member of dance that is some salsa. True or false?
+20a. True or false: A double front hook is a part of some level iii.
+22a. A double front hook is a part of some level iii. True or false?
+21f. True or false: A spiral has a member of dance that is some cha cha cha.
+23f. A spiral has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A spiral is a part of some silver.
+22a. A spiral is a part of some silver. True or false?
+20a. True or false: A spiral is a part of some level iv.
+22a. A spiral is a part of some level iv. True or false?
+21f. True or false: A spiral has a member of dance that is some salsa.
+23f. A spiral has a member of dance that is some salsa. True or false?
+21f. True or false: An open basic has a member of dance that is some cha cha cha.
+23f. An open basic has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An open basic is a part of some pre bronze.
+22a. An open basic is a part of some pre bronze. True or false?
+21f. True or false: An outside turns has a member of dance that is some salsa.
+23f. An outside turns has a member of dance that is some salsa. True or false?
+20a. True or false: An outside turns is a part of some level ii.
+22a. An outside turns is a part of some level ii. True or false?
+21f. True or false: A hand throw has a member of dance that is some salsa.
+23f. A hand throw has a member of dance that is some salsa. True or false?
+20a. True or false: An alemana is a part of some full bronze.
+22a. An alemana is a part of some full bronze. True or false?
+21f. True or false: An alemana has a member of dance that is some cha cha cha.
+23f. An alemana has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A closed hold has a member of dance that is some salsa.
+23f. A closed hold has a member of dance that is some salsa. True or false?
+21f. True or false: An open hold has a member of dance that is some salsa.
+23f. An open hold has a member of dance that is some salsa. True or false?
+20a. True or false: A rope spinning is a part of some gold.
+22a. A rope spinning is a part of some gold. True or false?
+21f. True or false: A rope spinning has a member of dance that is some cha cha cha.
+23f. A rope spinning has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A two corners is a part of some level iii.
+22a. A two corners is a part of some level iii. True or false?
+21f. True or false: A two corners has a member of dance that is some salsa.
+23f. A two corners has a member of dance that is some salsa. True or false?
+20a. True or false: A merengue step is a part of some level iii.
+22a. A merengue step is a part of some level iii. True or false?
+21f. True or false: A merengue step has a member of dance that is some salsa.
+23f. A merengue step has a member of dance that is some salsa. True or false?
+21f. True or false: A hand drop has a member of dance that is some salsa.
+23f. A hand drop has a member of dance that is some salsa. True or false?
+21f. True or false: A basic movement in place has a member of dance that is some cha cha cha.
+23f. A basic movement in place has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A basic movement in place is a part of some pre bronze.
+22a. A basic movement in place is a part of some pre bronze. True or false?
+21f. True or false: A butterfly & cradle has a member of dance that is some salsa.
+23f. A butterfly & cradle has a member of dance that is some salsa. True or false?
+20a. True or false: A half right is a part of some level ii.
+22a. A half right is a part of some level ii. True or false?
+21f. True or false: A half right has a member of dance that is some salsa.
+23f. A half right has a member of dance that is some salsa. True or false?
+20a. True or false: An enchufla is a part of some level ii.
+22a. An enchufla is a part of some level ii. True or false?
+21f. True or false: An enchufla has a member of dance that is some salsa.
+23f. An enchufla has a member of dance that is some salsa. True or false?
+20a. True or false: An out of the way is a part of some level iv.
+22a. An out of the way is a part of some level iv. True or false?
+21f. True or false: An out of the way has a member of dance that is some salsa.
+23f. An out of the way has a member of dance that is some salsa. True or false?
+20a. True or false: An advanced hip twist is a part of some gold.
+22a. An advanced hip twist is a part of some gold. True or false?
+21f. True or false: An advanced hip twist has a member of dance that is some cha cha cha.
+23f. An advanced hip twist has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A front hook has a member of dance that is some salsa.
+23f. A front hook has a member of dance that is some salsa. True or false?
+20a. True or false: A front hook is a part of some level iii.
+22a. A front hook is a part of some level iii. True or false?
+20a. True or false: A windmill is a part of some level iv.
+22a. A windmill is a part of some level iv. True or false?
+21f. True or false: A windmill has a member of dance that is some salsa.
+23f. A windmill has a member of dance that is some salsa. True or false?
+20a. True or false: A foot change is a part of some gold.
+22a. A foot change is a part of some gold. True or false?
+21f. True or false: A foot change has a member of dance that is some cha cha cha.
+23f. A foot change has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A broken left turn has a member of dance that is some salsa.
+23f. A broken left turn has a member of dance that is some salsa. True or false?
+20a. True or false: A broken left turn is a part of some level ii.
+22a. A broken left turn is a part of some level ii. True or false?
+21f. True or false: A closed basic movement has a member of dance that is some cha cha cha.
+23f. A closed basic movement has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A closed basic movement is a part of some pre bronze.
+22a. A closed basic movement is a part of some pre bronze. True or false?
+21f. True or false: A left spins has a member of dance that is some salsa.
+23f. A left spins has a member of dance that is some salsa. True or false?
+20a. True or false: A left spins is a part of some level iii.
+22a. A left spins is a part of some level iii. True or false?
+21f. True or false: A change of directions has a member of dance that is some salsa.
+23f. A change of directions has a member of dance that is some salsa. True or false?
+20a. True or false: A right turn is a part of some level ii.
+22a. A right turn is a part of some level ii. True or false?
+21f. True or false: A right turn has a member of dance that is some salsa.
+23f. A right turn has a member of dance that is some salsa. True or false?
+21f. True or false: A facing the line of dance has a member of dance that is some salsa.
+23f. A facing the line of dance has a member of dance that is some salsa. True or false?
+20a. True or false: A cape is a part of some level iii.
+22a. A cape is a part of some level iii. True or false?
+21f. True or false: A cape has a member of dance that is some salsa.
+23f. A cape has a member of dance that is some salsa. True or false?
+21f. True or false: An alternating has a member of dance that is some salsa.
+23f. An alternating has a member of dance that is some salsa. True or false?
+20a. True or false: An alternating is a part of some level ii.
+22a. An alternating is a part of some level ii. True or false?
+21f. True or false: An inside turns has a member of dance that is some salsa.
+23f. An inside turns has a member of dance that is some salsa. True or false?
+20a. True or false: An inside turns is a part of some level i.
+22a. An inside turns is a part of some level i. True or false?
+20a. True or false: A travel step is a part of some level iv.
+22a. A travel step is a part of some level iv. True or false?
+21f. True or false: A travel step has a member of dance that is some salsa.
+23f. A travel step has a member of dance that is some salsa. True or false?
+21f. True or false: A walkthrough has a member of dance that is some salsa.
+23f. A walkthrough has a member of dance that is some salsa. True or false?
+20a. True or false: A walkthrough is a part of some level iv.
+22a. A walkthrough is a part of some level iv. True or false?
+20a. True or false: An open hip twist is a part of some silver.
+22a. An open hip twist is a part of some silver. True or false?
+21f. True or false: An open hip twist has a member of dance that is some cha cha cha.
+23f. An open hip twist has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A hammerlock is a part of some level iv.
+22a. A hammerlock is a part of some level iv. True or false?
+21f. True or false: A hammerlock has a member of dance that is some salsa.
+23f. A hammerlock has a member of dance that is some salsa. True or false?
+21f. True or false: A simple dip has a member of dance that is some salsa.
+23f. A simple dip has a member of dance that is some salsa. True or false?
+20a. True or false: A simple dip is a part of some level iii.
+22a. A simple dip is a part of some level iii. True or false?
+20a. True or false: A standard is a part of some level iv.
+22a. A standard is a part of some level iv. True or false?
+21f. True or false: A standard has a member of dance that is some salsa.
+23f. A standard has a member of dance that is some salsa. True or false?
+21f. True or false: A duck has a member of dance that is some salsa.
+23f. A duck has a member of dance that is some salsa. True or false?
+20a. True or false: A duck is a part of some level iii.
+22a. A duck is a part of some level iii. True or false?
+20a. True or false: A cuban side charge is a part of some level iii.
+22a. A cuban side charge is a part of some level iii. True or false?
+21f. True or false: A cuban side charge has a member of dance that is some salsa.
+23f. A cuban side charge has a member of dance that is some salsa. True or false?
+21f. True or false: A taca taca has a member of dance that is some salsa.
+23f. A taca taca has a member of dance that is some salsa. True or false?
+20a. True or false: A taca taca is a part of some level iv.
+22a. A taca taca is a part of some level iv. True or false?
+21f. True or false: A slave has a member of dance that is some salsa.
+23f. A slave has a member of dance that is some salsa. True or false?
+20a. True or false: A slave is a part of some level iii.
+22a. A slave is a part of some level iii. True or false?
+20a. True or false: A suzie q is a part of some level ii.
+22a. A suzie q is a part of some level ii. True or false?
+21f. True or false: A suzie q has a member of dance that is some salsa.
+23f. A suzie q has a member of dance that is some salsa. True or false?
+20a. True or false: A double crossed is a part of some level ii.
+22a. A double crossed is a part of some level ii. True or false?
+21f. True or false: A double crossed has a member of dance that is some salsa.
+23f. A double crossed has a member of dance that is some salsa. True or false?
+21f. True or false: A fan has a member of dance that is some cha cha cha.
+23f. A fan has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A fan is a part of some full bronze.
+22a. A fan is a part of some full bronze. True or false?
+21f. True or false: An arm loop has a member of dance that is some salsa.
+23f. An arm loop has a member of dance that is some salsa. True or false?
+21f. True or false: A butterfly has a member of dance that is some salsa.
+23f. A butterfly has a member of dance that is some salsa. True or false?
+21f. True or false: A spiral turns has a member of dance that is some cha cha cha.
+23f. A spiral turns has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A spiral turns is a part of some silver.
+22a. A spiral turns is a part of some silver. True or false?
+21f. True or false: An aida has a member of dance that is some cha cha cha.
+23f. An aida has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An aida is a part of some silver.
+22a. An aida is a part of some silver. True or false?
+21f. True or false: A back spot turn has a member of dance that is some cha cha cha.
+23f. A back spot turn has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A back spot turn is a part of some silver.
+22a. A back spot turn is a part of some silver. True or false?
+21f. True or false: A back spot turn has a member of dance that is some salsa.
+23f. A back spot turn has a member of dance that is some salsa. True or false?
+20a. True or false: A back spot turn is a part of some level i.
+22a. A back spot turn is a part of some level i. True or false?
+21f. True or false: A cuban step has a member of dance that is some salsa.
+23f. A cuban step has a member of dance that is some salsa. True or false?
+20a. True or false: A cuban step is a part of some level ii.
+22a. A cuban step is a part of some level ii. True or false?
+21f. True or false: A cuddle has a member of dance that is some salsa.
+23f. A cuddle has a member of dance that is some salsa. True or false?
+20a. True or false: A cuddle is a part of some level iv.
+22a. A cuddle is a part of some level iv. True or false?
+21f. True or false: A 360 triple spins has a member of dance that is some salsa.
+23f. A 360 triple spins has a member of dance that is some salsa. True or false?
+20a. True or false: A 360 triple spins is a part of some level iv.
+22a. A 360 triple spins is a part of some level iv. True or false?
+21f. True or false: A reverse cross body has a member of dance that is some salsa.
+23f. A reverse cross body has a member of dance that is some salsa. True or false?
+20a. True or false: A reverse cross body is a part of some level ii.
+22a. A reverse cross body is a part of some level ii. True or false?
+21f. True or false: A basic movements has a member of dance that is some cha cha cha.
+23f. A basic movements has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A basic movements is a part of some pre bronze.
+22a. A basic movements is a part of some pre bronze. True or false?
+21f. True or false: An uptown downtown has a member of dance that is some salsa.
+23f. An uptown downtown has a member of dance that is some salsa. True or false?
+20a. True or false: An uptown downtown is a part of some level iii.
+22a. An uptown downtown is a part of some level iii. True or false?
+20a. True or false: A backward slide is a part of some level i.
+22a. A backward slide is a part of some level i. True or false?
+21f. True or false: A backward slide has a member of dance that is some salsa.
+23f. A backward slide has a member of dance that is some salsa. True or false?
+21f. True or false: A bridge has a member of dance that is some salsa.
+23f. A bridge has a member of dance that is some salsa. True or false?
+20a. True or false: A bridge is a part of some level iii.
+22a. A bridge is a part of some level iii. True or false?
+21f. True or false: A half hammerlock has a member of dance that is some salsa.
+23f. A half hammerlock has a member of dance that is some salsa. True or false?
+20a. True or false: A side steps is a part of some level i.
+22a. A side steps is a part of some level i. True or false?
+21f. True or false: A side steps has a member of dance that is some salsa.
+23f. A side steps has a member of dance that is some salsa. True or false?
+20a. True or false: A side steps is a part of some intermediate bronze.
+22a. A side steps is a part of some intermediate bronze. True or false?
+21f. True or false: A side steps has a member of dance that is some cha cha cha.
+23f. A side steps has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A kick swivel is a part of some intermediate bronze.
+22a. A kick swivel is a part of some intermediate bronze. True or false?
+21f. True or false: A kick swivel has a member of dance that is some cha cha cha.
+23f. A kick swivel has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A tunnel has a member of dance that is some salsa.
+23f. A tunnel has a member of dance that is some salsa. True or false?
+20a. True or false: A tunnel is a part of some level iii.
+22a. A tunnel is a part of some level iii. True or false?
+21f. True or false: A back break has a member of dance that is some salsa.
+23f. A back break has a member of dance that is some salsa. True or false?
+20a. True or false: A back break is a part of some level i.
+22a. A back break is a part of some level i. True or false?
+20a. True or false: A basic movement is a part of some pre bronze.
+22a. A basic movement is a part of some pre bronze. True or false?
+21f. True or false: A basic movement has a member of dance that is some cha cha cha.
+23f. A basic movement has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A right spins has a member of dance that is some salsa.
+23f. A right spins has a member of dance that is some salsa. True or false?
+20a. True or false: A right spins is a part of some level iii.
+22a. A right spins is a part of some level iii. True or false?
+21f. True or false: A shadow to open has a member of dance that is some cha cha cha.
+23f. A shadow to open has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A shadow to open is a part of some gold.
+22a. A shadow to open is a part of some gold. True or false?
+21f. True or false: A hair comb has a member of dance that is some salsa.
+23f. A hair comb has a member of dance that is some salsa. True or false?
+20a. True or false: A hair comb is a part of some level iv.
+22a. A hair comb is a part of some level iv. True or false?
+20a. True or false: A cross body check is a part of some level iii.
+22a. A cross body check is a part of some level iii. True or false?
+21f. True or false: A cross body check has a member of dance that is some salsa.
+23f. A cross body check has a member of dance that is some salsa. True or false?
+21f. True or false: A right spin turn has a member of dance that is some salsa.
+23f. A right spin turn has a member of dance that is some salsa. True or false?
+20a. True or false: A right spin turn is a part of some level iii.
+22a. A right spin turn is a part of some level iii. True or false?
+21f. True or false: A side press has a member of dance that is some salsa.
+23f. A side press has a member of dance that is some salsa. True or false?
+20a. True or false: A side press is a part of some level i.
+22a. A side press is a part of some level i. True or false?
+20a. True or false: A cumbia into men is a part of some level ii.
+22a. A cumbia into men is a part of some level ii. True or false?
+21f. True or false: A cumbia into men has a member of dance that is some salsa.
+23f. A cumbia into men has a member of dance that is some salsa. True or false?
+20a. True or false: A back rock is a part of some level i.
+22a. A back rock is a part of some level i. True or false?
+21f. True or false: A back rock has a member of dance that is some salsa.
+23f. A back rock has a member of dance that is some salsa. True or false?
+20a. True or false: A peek a boo is a part of some level i.
+22a. A peek a boo is a part of some level i. True or false?
+21f. True or false: A peek a boo has a member of dance that is some salsa.
+23f. A peek a boo has a member of dance that is some salsa. True or false?
+21f. True or false: A front slide has a member of dance that is some salsa.
+23f. A front slide has a member of dance that is some salsa. True or false?
+20a. True or false: A front slide is a part of some level iii.
+22a. A front slide is a part of some level iii. True or false?
+21f. True or false: A drape has a member of dance that is some salsa.
+23f. A drape has a member of dance that is some salsa. True or false?
+20a. True or false: A drape is a part of some level ii.
+22a. A drape is a part of some level ii. True or false?
+21f. True or false: A cross over breaks has a member of dance that is some cha cha cha.
+23f. A cross over breaks has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A cross over breaks is a part of some intermediate bronze.
+22a. A cross over breaks is a part of some intermediate bronze. True or false?
+21f. True or false: A sweetheart has a member of dance that is some cha cha cha.
+23f. A sweetheart has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A sweetheart is a part of some gold.
+22a. A sweetheart is a part of some gold. True or false?
+21f. True or false: A sombrero has a member of dance that is some salsa.
+23f. A sombrero has a member of dance that is some salsa. True or false?
+21f. True or false: A walk has a member of dance that is some salsa.
+23f. A walk has a member of dance that is some salsa. True or false?
+21f. True or false: A half left has a member of dance that is some salsa.
+23f. A half left has a member of dance that is some salsa. True or false?
+20a. True or false: A half left is a part of some level ii.
+22a. A half left is a part of some level ii. True or false?
+21f. True or false: An u turn has a member of dance that is some salsa.
+23f. An u turn has a member of dance that is some salsa. True or false?
+20a. True or false: A side by side triples is a part of some silver.
+22a. A side by side triples is a part of some silver. True or false?
+21f. True or false: A side by side triples has a member of dance that is some cha cha cha.
+23f. A side by side triples has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A free spin is a part of some level iii.
+22a. A free spin is a part of some level iii. True or false?
+21f. True or false: A free spin has a member of dance that is some salsa.
+23f. A free spin has a member of dance that is some salsa. True or false?
+20a. True or false: A hand toss is a part of some level iii.
+22a. A hand toss is a part of some level iii. True or false?
+21f. True or false: A hand toss has a member of dance that is some salsa.
+23f. A hand toss has a member of dance that is some salsa. True or false?
+21f. True or false: A diamond step has a member of dance that is some salsa.
+23f. A diamond step has a member of dance that is some salsa. True or false?
+20a. True or false: A diamond step is a part of some level iii.
+22a. A diamond step is a part of some level iii. True or false?
+21f. True or false: An overhead has a member of dance that is some salsa.
+23f. An overhead has a member of dance that is some salsa. True or false?
+20a. True or false: An overhead is a part of some level iv.
+22a. An overhead is a part of some level iv. True or false?
+21f. True or false: A closed basic has a member of dance that is some cha cha cha.
+23f. A closed basic has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A closed basic is a part of some pre bronze.
+22a. A closed basic is a part of some pre bronze. True or false?
+20a. True or false: A natural top is a part of some full bronze.
+22a. A natural top is a part of some full bronze. True or false?
+21f. True or false: A natural top has a member of dance that is some cha cha cha.
+23f. A natural top has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A stop and go has a member of dance that is some salsa.
+23f. A stop and go has a member of dance that is some salsa. True or false?
+20a. True or false: A stop and go is a part of some level ii.
+22a. A stop and go is a part of some level ii. True or false?
+21f. True or false: A spot turns has a member of dance that is some salsa.
+23f. A spot turns has a member of dance that is some salsa. True or false?
+20a. True or false: A spot turns is a part of some level ii.
+22a. A spot turns is a part of some level ii. True or false?
+21f. True or false: A spotting has a member of dance that is some salsa.
+23f. A spotting has a member of dance that is some salsa. True or false?
+20a. True or false: A spotting is a part of some level iv.
+22a. A spotting is a part of some level iv. True or false?
+20a. True or false: A time step is a part of some pre bronze.
+22a. A time step is a part of some pre bronze. True or false?
+21f. True or false: A time step has a member of dance that is some cha cha cha.
+23f. A time step has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A wraps has a member of dance that is some salsa.
+23f. A wraps has a member of dance that is some salsa. True or false?
+20a. True or false: A wraps is a part of some level iv.
+22a. A wraps is a part of some level iv. True or false?
+20a. True or false: A hook turn is a part of some level iii.
+22a. A hook turn is a part of some level iii. True or false?
+21f. True or false: A hook turn has a member of dance that is some salsa.
+23f. A hook turn has a member of dance that is some salsa. True or false?
+21f. True or false: An advanced back pass has a member of dance that is some salsa.
+23f. An advanced back pass has a member of dance that is some salsa. True or false?
+20a. True or false: An advanced back pass is a part of some level iv.
+22a. An advanced back pass is a part of some level iv. True or false?
+21f. True or false: A switch position has a member of dance that is some salsa.
+23f. A switch position has a member of dance that is some salsa. True or false?
+20a. True or false: A switch position is a part of some level iii.
+22a. A switch position is a part of some level iii. True or false?
+21f. True or false: A basic has a member of dance that is some cha cha cha.
+23f. A basic has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A basic is a part of some pre bronze.
+22a. A basic is a part of some pre bronze. True or false?
+20a. True or false: A prep for double turn is a part of some level iii.
+22a. A prep for double turn is a part of some level iii. True or false?
+21f. True or false: A prep for double turn has a member of dance that is some salsa.
+23f. A prep for double turn has a member of dance that is some salsa. True or false?
+21f. True or false: A head loop has a member of dance that is some salsa.
+23f. A head loop has a member of dance that is some salsa. True or false?
+20a. True or false: A head loop is a part of some level ii.
+22a. A head loop is a part of some level ii. True or false?
+21f. True or false: A crossed hands has a member of dance that is some salsa.
+23f. A crossed hands has a member of dance that is some salsa. True or false?
+20a. True or false: A crossed hands is a part of some level iii.
+22a. A crossed hands is a part of some level iii. True or false?
+21f. True or false: An around the world has a member of dance that is some salsa.
+23f. An around the world has a member of dance that is some salsa. True or false?
+20a. True or false: An around the world is a part of some level iii.
+22a. An around the world is a part of some level iii. True or false?
+20a. True or false: An alternative basic movement is a part of some pre bronze.
+22a. An alternative basic movement is a part of some pre bronze. True or false?
+21f. True or false: An alternative basic movement has a member of dance that is some cha cha cha.
+23f. An alternative basic movement has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A broken arm has a member of dance that is some salsa.
+23f. A broken arm has a member of dance that is some salsa. True or false?
+20a. True or false: A back hook is a part of some level iii.
+22a. A back hook is a part of some level iii. True or false?
+21f. True or false: A back hook has a member of dance that is some salsa.
+23f. A back hook has a member of dance that is some salsa. True or false?
+21f. True or false: A foot change 4 shadow to open has a member of dance that is some cha cha cha.
+23f. A foot change 4 shadow to open has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A foot change 4 shadow to open is a part of some gold.
+22a. A foot change 4 shadow to open is a part of some gold. True or false?
+21f. True or false: A curl has a member of dance that is some cha cha cha.
+23f. A curl has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A curl is a part of some silver.
+22a. A curl is a part of some silver. True or false?
+21f. True or false: A spiral kick has a member of dance that is some salsa.
+23f. A spiral kick has a member of dance that is some salsa. True or false?
+20a. True or false: A spiral kick is a part of some level iv.
+22a. A spiral kick is a part of some level iv. True or false?
+21f. True or false: A forward slide has a member of dance that is some salsa.
+23f. A forward slide has a member of dance that is some salsa. True or false?
+20a. True or false: A forward slide is a part of some level iii.
+22a. A forward slide is a part of some level iii. True or false?
+21f. True or false: A reverse top has a member of dance that is some cha cha cha.
+23f. A reverse top has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A reverse top is a part of some silver.
+22a. A reverse top is a part of some silver. True or false?
+21f. True or false: A back step has a member of dance that is some salsa.
+23f. A back step has a member of dance that is some salsa. True or false?
+20a. True or false: A back step is a part of some level i.
+22a. A back step is a part of some level i. True or false?
+20a. True or false: A hand slide is a part of some level iv.
+22a. A hand slide is a part of some level iv. True or false?
+21f. True or false: A hand slide has a member of dance that is some salsa.
+23f. A hand slide has a member of dance that is some salsa. True or false?
+20a. True or false: A check copa is a part of some level ii.
+22a. A check copa is a part of some level ii. True or false?
+21f. True or false: A check copa has a member of dance that is some salsa.
+23f. A check copa has a member of dance that is some salsa. True or false?
+21f. True or false: An embrace has a member of dance that is some salsa.
+23f. An embrace has a member of dance that is some salsa. True or false?
+20a. True or false: A basket is a part of some level iv.
+22a. A basket is a part of some level iv. True or false?
+21f. True or false: A basket has a member of dance that is some salsa.
+23f. A basket has a member of dance that is some salsa. True or false?
+21f. True or false: An underarm turn has a member of dance that is some cha cha cha.
+23f. An underarm turn has a member of dance that is some cha cha cha. True or false?
+20a. True or false: An underarm turn is a part of some intermediate bronze.
+22a. An underarm turn is a part of some intermediate bronze. True or false?
+21f. True or false: An underarm turn has a member of dance that is some salsa.
+23f. An underarm turn has a member of dance that is some salsa. True or false?
+20a. True or false: An underarm turn is a part of some level i.
+22a. An underarm turn is a part of some level i. True or false?
+21f. True or false: A hook step has a member of dance that is some salsa.
+23f. A hook step has a member of dance that is some salsa. True or false?
+20a. True or false: A hook step is a part of some level iii.
+22a. A hook step is a part of some level iii. True or false?
+21f. True or false: A front flare has a member of dance that is some salsa.
+23f. A front flare has a member of dance that is some salsa. True or false?
+20a. True or false: A front flare is a part of some level iii.
+22a. A front flare is a part of some level iii. True or false?
+20a. True or false: A forward spot turn is a part of some silver.
+22a. A forward spot turn is a part of some silver. True or false?
+21f. True or false: A forward spot turn has a member of dance that is some cha cha cha.
+23f. A forward spot turn has a member of dance that is some cha cha cha. True or false?
+21f. True or false: A promenade swivels has a member of dance that is some cha cha cha.
+23f. A promenade swivels has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A promenade swivels is a part of some silver.
+22a. A promenade swivels is a part of some silver. True or false?
+21f. True or false: A crossed holds has a member of dance that is some salsa.
+23f. A crossed holds has a member of dance that is some salsa. True or false?
+21f. True or false: A basic step has a member of dance that is some salsa.
+23f. A basic step has a member of dance that is some salsa. True or false?
+20a. True or false: A basic step is a part of some level i.
+22a. A basic step is a part of some level i. True or false?
+21f. True or false: A natural opening out movement has a member of dance that is some cha cha cha.
+23f. A natural opening out movement has a member of dance that is some cha cha cha. True or false?
+20a. True or false: A natural opening out movement is a part of some full bronze.
+22a. A natural opening out movement is a part of some full bronze. True or false?
+WHAT_QUESTIONS_QUANTIFIED = 6
+25a. Which dance move is a part of some level ii?
+25j. Which dance move has a member of dance that is some salsa?
+25a. Which dance move is a part of some level iii?
+25a. Which dance move is a part of some level iv?
+25j. Which dance move has a member of dance that is some cha cha cha?
+25a. Which dance move is a part of some pre bronze?
+25a. Which dance move is a part of some level i?
+25a. Which dance move is a part of some full bronze?
+25a. Which dance move is a part of some silver?
+25a. Which dance move is a part of some gold?
+25a. Which dance move is a part of some intermediate bronze?
+25j. Which action has a member of dance that is some salsa?
+25a. Which action is a part of some level iii?
+25a. Which action is a part of some gold?
+25j. Which action has a member of dance that is some cha cha cha?
+25a. Which action is a part of some level ii?
+25a. Which action is a part of some level i?
+25a. Which action is a part of some full bronze?
+25a. Which action is a part of some pre bronze?
+25a. Which action is a part of some level iv?
+25a. Which action is a part of some silver?
+25a. Which action is a part of some intermediate bronze?
+25a. Which three cha cha chas is a part of some pre bronze?
+25j. Which three cha cha chas has a member of dance that is some cha cha cha?
+25j. Which spiral turns has a member of dance that is some cha cha cha?
+25a. Which spiral turns is a part of some silver?
+25a. Which spiral turns is a part of some level iv?
+25j. Which spiral turns has a member of dance that is some salsa?
+25a. Which spiral turns is a part of some gold?
+25a. Which open break is a part of some level i?
+25j. Which open break has a member of dance that is some salsa?
+25a. Which open break is a part of some level ii?
+WHAT_QUESTIONS_TYPE1 = 4
+24d. Which dance move is a part of a level ii?
+24c. Which dance move has a member of dance that is a salsa?
+24d. Which dance move is a part of a level iii?
+24d. Which dance move is a part of a level iv?
+24c. Which dance move has a member of dance that is a cha cha cha?
+24d. Which dance move is a part of a pre bronze?
+24d. Which dance move is a part of a level i?
+24d. Which dance move is a part of a full bronze?
+24d. Which dance move is a part of a silver?
+24d. Which dance move is a part of gold?
+24d. Which dance move is a part of an intermediate bronze?
+24c. Which action has a member of dance that is a salsa?
+24d. Which action is a part of a level iii?
+24d. Which action is a part of gold?
+24c. Which action has a member of dance that is a cha cha cha?
+24d. Which action is a part of a level ii?
+24d. Which action is a part of a level i?
+24d. Which action is a part of a full bronze?
+24d. Which action is a part of a pre bronze?
+24d. Which action is a part of a level iv?
+24d. Which action is a part of a silver?
+24d. Which action is a part of an intermediate bronze?
+24d. Which three cha cha chas is a part of a pre bronze?
+24c. Which three cha cha chas has a member of dance that is a cha cha cha?
+24a. Which dance type contains a silver?
+24a. Which dance type contains gold?
+24a. Which dance type contains a full bronze?
+24a. Which dance type contains an intermediate bronze?
+24a. Which dance type contains a pre bronze?
+24a. Which dance type contains a level iii?
+24a. Which dance type contains a level iv?
+24a. Which dance type contains a level ii?
+24a. Which dance type contains a level i?
+24c. Which spiral turns has a member of dance that is a cha cha cha?
+24d. Which spiral turns is a part of a silver?
+24d. Which spiral turns is a part of a level iv?
+24c. Which spiral turns has a member of dance that is a salsa?
+24d. Which spiral turns is a part of gold?
+24d. Which open break is a part of a level i?
+24c. Which open break has a member of dance that is a salsa?
+24d. Which open break is a part of a level ii?
+WHAT_QUESTIONS_TYPE2 = 5
+28. What is left side turn a part of?
+28. What is single hand copa a part of?
+28. What is front cross over a part of?
+28. What is cross over into men a part of?
+28. What is cumbia step a part of?
+28. What is chord beat crossovers a part of?
+28. What is open basic movement a part of?
+28. What is front step a part of?
+28. What is hip twist a part of?
+28. What is 2 handed a part of?
+28. What is open break a part of?
+28. What is shoulder checks a part of?
+28. What is shoulder to shoulder a part of?
+26. What does a salsa contain?
+28. What is fallaway swivel a part of?
+28. What is foot change 3 open to shadow a part of?
+28. What is foot change shadow to open a part of?
+28. What is titanic a part of?
+28. What is 180 cross body lead a part of?
+28. What is opening out from reverse top a part of?
+28. What is outside turn a part of?
+28. What is open to shadow a part of?
+28. What is front double cross a part of?
+28. What is progressive basic a part of?
+28. What is window a part of?
+28. What is catwalk a part of?
+28. What is left check turn a part of?
+28. What is basic in place a part of?
+28. What is leg trap a part of?
+28. What is underarm turns a part of?
+28. What is underarm turn with spin a part of?
+28. What is coca cola a part of?
+26. What does a cha cha cha contain?
+28. What is back tap a part of?
+28. What is there and back a part of?
+28. What is 2 corners a part of?
+28. What is hockey stick a part of?
+28. What is hip twist spiral a part of?
+28. What is drop hand catch a part of?
+28. What is double spiral a part of?
+28. What is bounce a part of?
+28. What is hand to hand a part of?
+28. What is toe taps a part of?
+28. What is side to side a part of?
+28. What is traveling underarm turn a part of?
+28. What is grapevine a part of?
+28. What is braid step a part of?
+28. What is chase a part of?
+28. What is double hand copa a part of?
+28. What is side flares a part of?
+28. What is crucifix a part of?
+28. What is three cha cha chas a part of?
+28. What is cuban breaks a part of?
+28. What is ronde chasse a part of?
+28. What is new york a part of?
+28. What is mambo walk a part of?
+28. What is copa a part of?
+28. What is basic cha cha a part of?
+28. What is the wrap a part of?
+28. What is three cha chas forward or back a part of?
+28. What is superwoman a part of?
+28. What is burrito a part of?
+28. What is split cuban breaks a part of?
+28. What is 360 switch position a part of?
+28. What is in and out a part of?
+28. What is front tap a part of?
+28. What is closed hip twist a part of?
+28. What is elbow push a part of?
+28. What is shoulder lead a part of?
+28. What is guapea a part of?
+28. What is back pass a part of?
+28. What is trading places a part of?
+28. What is tightrope a part of?
+28. What is front rock a part of?
+28. What is double cross over a part of?
+28. What is left turn a part of?
+28. What is inside turn a part of?
+28. What is cross basic a part of?
+28. What is cross body lead a part of?
+28. What is foot change open to shadow a part of?
+28. What is turkish towel a part of?
+28. What is outside breaks a part of?
+28. What is shadow check & turn a part of?
+28. What is double head loop a part of?
+28. What is right side turn a part of?
+28. What is double front hook a part of?
+28. What is spiral a part of?
+28. What is open basic a part of?
+28. What is outside turns a part of?
+28. What is alemana a part of?
+28. What is rope spinning a part of?
+28. What is two corners a part of?
+28. What is merengue step a part of?
+28. What is basic movement in place a part of?
+28. What is half right a part of?
+28. What is enchufla a part of?
+28. What is out of the way a part of?
+28. What is advanced hip twist a part of?
+28. What is front hook a part of?
+28. What is windmill a part of?
+28. What is foot change a part of?
+28. What is broken left turn a part of?
+28. What is closed basic movement a part of?
+28. What is left spins a part of?
+28. What is right turn a part of?
+28. What is cape a part of?
+28. What is alternating a part of?
+28. What is inside turns a part of?
+28. What is travel step a part of?
+28. What is walkthrough a part of?
+28. What is open hip twist a part of?
+28. What is hammerlock a part of?
+28. What is simple dip a part of?
+28. What is standard a part of?
+28. What is duck a part of?
+28. What is cuban side charge a part of?
+28. What is taca taca a part of?
+28. What is slave a part of?
+28. What is suzie q a part of?
+28. What is double crossed a part of?
+28. What is fan a part of?
+28. What is spiral turns a part of?
+28. What is aida a part of?
+28. What is back spot turn a part of?
+28. What is cuban step a part of?
+28. What is cuddle a part of?
+28. What is 360 triple spins a part of?
+28. What is reverse cross body a part of?
+28. What is basic movements a part of?
+28. What is uptown downtown a part of?
+28. What is backward slide a part of?
+28. What is bridge a part of?
+28. What is side steps a part of?
+28. What is kick swivel a part of?
+28. What is tunnel a part of?
+28. What is back break a part of?
+28. What is basic movement a part of?
+28. What is right spins a part of?
+28. What is shadow to open a part of?
+28. What is hair comb a part of?
+28. What is cross body check a part of?
+28. What is right spin turn a part of?
+28. What is side press a part of?
+28. What is cumbia into men a part of?
+28. What is back rock a part of?
+28. What is peek a boo a part of?
+28. What is front slide a part of?
+28. What is drape a part of?
+28. What is cross over breaks a part of?
+28. What is sweetheart a part of?
+28. What is half left a part of?
+28. What is side by side triples a part of?
+28. What is free spin a part of?
+28. What is hand toss a part of?
+28. What is diamond step a part of?
+28. What is overhead a part of?
+28. What is closed basic a part of?
+28. What is natural top a part of?
+28. What is stop and go a part of?
+28. What is spot turns a part of?
+28. What is spotting a part of?
+28. What is time step a part of?
+28. What is wraps a part of?
+28. What is hook turn a part of?
+28. What is advanced back pass a part of?
+28. What is switch position a part of?
+28. What is basic a part of?
+28. What is prep for double turn a part of?
+28. What is head loop a part of?
+28. What is crossed hands a part of?
+28. What is around the world a part of?
+28. What is alternative basic movement a part of?
+28. What is back hook a part of?
+28. What is foot change 4 shadow to open a part of?
+28. What is curl a part of?
+28. What is spiral kick a part of?
+28. What is forward slide a part of?
+28. What is reverse top a part of?
+28. What is back step a part of?
+28. What is hand slide a part of?
+28. What is check copa a part of?
+28. What is basket a part of?
+28. What is underarm turn a part of?
+28. What is hook step a part of?
+28. What is front flare a part of?
+28. What is forward spot turn a part of?
+28. What is promenade swivels a part of?
+28. What is basic step a part of?
+28. What is natural opening out movement a part of?
+YES_NO_QUESTION_TYPE1 = 1
+1c. Does a left side turn have a member of dance that is a salsa?
+3. Is a left side turn a part of a level iii?
+3. Is a single hand copa a part of a level ii?
+1c. Does a single hand copa have a member of dance that is a salsa?
+3. Is a front cross over a part of a level iii?
+1c. Does a front cross over have a member of dance that is a salsa?
+3. Is a cross over into men a part of a level iii?
+1c. Does a cross over into men have a member of dance that is a salsa?
+3. Is a cumbia step a part of a level ii?
+1c. Does a cumbia step have a member of dance that is a salsa?
+1c. Does a chord beat crossovers have a member of dance that is a salsa?
+3. Is a chord beat crossovers a part of a level iii?
+3. Is an open basic movement a part of a pre bronze?
+1c. Does an open basic movement have a member of dance that is a cha cha cha?
+1c. Does a front step have a member of dance that is a salsa?
+3. Is a front step a part of a level i?
+3. Is a hip twist a part of a full bronze?
+1c. Does a hip twist have a member of dance that is a cha cha cha?
+1c. Does a 2 handed have a member of dance that is a salsa?
+3. Is a 2 handed a part of a level i?
+3. Is an open break a part of a level i?
+3. Is an open break a part of a full bronze?
+1c. Does an open break have a member of dance that is a salsa?
+1c. Does an open break have a member of dance that is a cha cha cha?
+3. Is a shoulder checks a part of a level i?
+1c. Does a shoulder checks have a member of dance that is a salsa?
+1c. Does a shoulder to shoulder have a member of dance that is a cha cha cha?
+3. Is a shoulder to shoulder a part of a pre bronze?
+1a. Does a salsa contain a level iii?
+1a. Does a salsa contain a level iv?
+1a. Does a salsa contain a level ii?
+1a. Does a salsa contain a level i?
+1c. Does a fallaway swivel have a member of dance that is a cha cha cha?
+3. Is a fallaway swivel a part of a silver?
+3. Is a foot change 3 open to shadow a part of gold?
+1c. Does a foot change 3 open to shadow have a member of dance that is a cha cha cha?
+3. Is a foot change shadow to open a part of gold?
+1c. Does a foot change shadow to open have a member of dance that is a cha cha cha?
+1c. Does a titanic have a member of dance that is a salsa?
+3. Is a titanic a part of a level iii?
+3. Is a 180 cross body lead a part of a level ii?
+1c. Does a 180 cross body lead have a member of dance that is a salsa?
+3. Is an opening out from reverse top a part of a silver?
+1c. Does an opening out from reverse top have a member of dance that is a cha cha cha?
+3. Is an outside turn a part of a level ii?
+1c. Does an outside turn have a member of dance that is a salsa?
+3. Is an open to shadow a part of gold?
+1c. Does an open to shadow have a member of dance that is a cha cha cha?
+3. Is a front double cross a part of a level iv?
+1c. Does a front double cross have a member of dance that is a salsa?
+1c. Does a progressive basic have a member of dance that is a cha cha cha?
+3. Is a progressive basic a part of an intermediate bronze?
+3. Is a window a part of a level iv?
+1c. Does a window have a member of dance that is a salsa?
+3. Is a catwalk a part of a level i?
+1c. Does a catwalk have a member of dance that is a salsa?
+3. Is a left check turn a part of a level i?
+1c. Does a left check turn have a member of dance that is a salsa?
+1c. Does a facing perpendicular to the line of dance have a member of dance that is a salsa?
+3. Is a basic in place a part of a pre bronze?
+1c. Does a basic in place have a member of dance that is a cha cha cha?
+1c. Does a leg trap have a member of dance that is a salsa?
+3. Is a leg trap a part of a level iv?
+1c. Does an underarm turns have a member of dance that is a salsa?
+3. Is an underarm turns a part of a level i?
+1c. Does an underarm turns have a member of dance that is a cha cha cha?
+1c. Does an underarm turn with spin have a member of dance that is a cha cha cha?
+3. Is an underarm turn with spin a part of an intermediate bronze?
+3. Is a coca cola a part of a level iii?
+1c. Does a coca cola have a member of dance that is a salsa?
+1a. Does a cha cha cha contain a silver?
+1a. Does a cha cha cha contain gold?
+1a. Does a cha cha cha contain a full bronze?
+1a. Does a cha cha cha contain an intermediate bronze?
+1a. Does a cha cha cha contain a pre bronze?
+3. Is a back tap a part of a level iii?
+1c. Does a back tap have a member of dance that is a salsa?
+3. Is a there and back a part of a pre bronze?
+1c. Does a there and back have a member of dance that is a cha cha cha?
+1c. Does a 2 corners have a member of dance that is a salsa?
+3. Is a 2 corners a part of a level i?
+3. Is a hockey stick a part of a full bronze?
+1c. Does a hockey stick have a member of dance that is a cha cha cha?
+3. Is a hip twist spiral a part of gold?
+1c. Does a hip twist spiral have a member of dance that is a cha cha cha?
+1c. Does a drop hand catch have a member of dance that is a salsa?
+3. Is a drop hand catch a part of a level i?
+3. Is a double spiral a part of a level iv?
+1c. Does a double spiral have a member of dance that is a salsa?
+3. Is a bounce a part of a level iii?
+1c. Does a bounce have a member of dance that is a salsa?
+1c. Does a hand to hand have a member of dance that is a cha cha cha?
+3. Is a hand to hand a part of an intermediate bronze?
+3. Is a toe taps a part of a level ii?
+1c. Does a toe taps have a member of dance that is a salsa?
+1c. Does a side to side have a member of dance that is a salsa?
+3. Is a side to side a part of a level i?
+3. Is a traveling underarm turn a part of a level iv?
+1c. Does a traveling underarm turn have a member of dance that is a salsa?
+1c. Does a grapevine have a member of dance that is a salsa?
+1c. Does a grapevine have a member of dance that is a cha cha cha?
+3. Is a grapevine a part of gold?
+3. Is a grapevine a part of a level iv?
+1c. Does a braid step have a member of dance that is a salsa?
+3. Is a braid step a part of a level iii?
+1c. Does a chase have a member of dance that is a cha cha cha?
+3. Is a chase a part of a silver?
+3. Is a double hand copa a part of a level iii?
+1c. Does a double hand copa have a member of dance that is a salsa?
+3. Is a side flares a part of a level iv?
+1c. Does a side flares have a member of dance that is a salsa?
+3. Is a crucifix a part of a level iv?
+1c. Does a crucifix have a member of dance that is a salsa?
+1c. Does a switching hands have a member of dance that is a salsa?
+3. Is a three cha cha chas a part of a pre bronze?
+1c. Does a three cha cha chas have a member of dance that is a cha cha cha?
+1c. Does a cuban breaks have a member of dance that is a cha cha cha?
+3. Is a cuban breaks a part of a silver?
+1c. Does a ronde chasse have a member of dance that is a cha cha cha?
+3. Is a ronde chasse a part of a silver?
+3. Is a new york a part of a pre bronze?
+1c. Does a new york have a member of dance that is a cha cha cha?
+3. Is a mambo walk a part of a level iii?
+1c. Does a mambo walk have a member of dance that is a salsa?
+3. Is a copa a part of a level ii?
+1c. Does a copa have a member of dance that is a salsa?
+1c. Does a basic cha cha have a member of dance that is a cha cha cha?
+3. Is a basic cha cha a part of an intermediate bronze?
+1c. Does a change of a hand hold have a member of dance that is a salsa?
+1c. Does a the wrap have a member of dance that is a salsa?
+3. Is a the wrap a part of a level iii?
+3. Is a three cha chas forward or back a part of a pre bronze?
+1c. Does a three cha chas forward or back have a member of dance that is a cha cha cha?
+1c. Does a superwoman have a member of dance that is a salsa?
+3. Is a superwoman a part of a level iv?
+3. Is a burrito a part of a level iii?
+1c. Does a burrito have a member of dance that is a salsa?
+1c. Does a normal open holds have a member of dance that is a salsa?
+3. Is a split cuban breaks a part of a silver?
+1c. Does a split cuban breaks have a member of dance that is a cha cha cha?
+1c. Does a delay step have a member of dance that is a salsa?
+3. Is a 360 switch position a part of a level iii?
+1c. Does a 360 switch position have a member of dance that is a salsa?
+3. Is an in and out a part of a level ii?
+1c. Does an in and out have a member of dance that is a salsa?
+1c. Does a front tap have a member of dance that is a salsa?
+3. Is a front tap a part of a level iii?
+3. Is a closed hip twist a part of a full bronze?
+1c. Does a closed hip twist have a member of dance that is a cha cha cha?
+3. Is an elbow push a part of a level iv?
+1c. Does an elbow push have a member of dance that is a salsa?
+1c. Does a shoulder lead have a member of dance that is a salsa?
+3. Is a shoulder lead a part of a level ii?
+3. Is a guapea a part of a level i?
+1c. Does a guapea have a member of dance that is a salsa?
+3. Is a back pass a part of a level ii?
+1c. Does a back pass have a member of dance that is a salsa?
+1c. Does an arm lock have a member of dance that is a salsa?
+3. Is a trading places a part of a level iii?
+1c. Does a trading places have a member of dance that is a salsa?
+3. Is a tightrope a part of a level iii?
+1c. Does a tightrope have a member of dance that is a salsa?
+1c. Does an arm hook have a member of dance that is a salsa?
+1c. Does a front rock have a member of dance that is a salsa?
+3. Is a front rock a part of a level i?
+3. Is a double cross over a part of a level ii?
+1c. Does a double cross over have a member of dance that is a salsa?
+1c. Does a left turn have a member of dance that is a salsa?
+3. Is a left turn a part of a level i?
+3. Is an inside turn a part of a level i?
+1c. Does an inside turn have a member of dance that is a salsa?
+1c. Does a cross basic have a member of dance that is a cha cha cha?
+3. Is a cross basic a part of a silver?
+3. Is a cross body lead a part of a full bronze?
+3. Is a cross body lead a part of a level i?
+1c. Does a cross body lead have a member of dance that is a salsa?
+1c. Does a cross body lead have a member of dance that is a cha cha cha?
+1c. Does is walking around have a member of dance that is a salsa?
+3. Is a foot change open to shadow a part of gold?
+1c. Does a foot change open to shadow have a member of dance that is a cha cha cha?
+3. Is a turkish towel a part of gold?
+1c. Does a turkish towel have a member of dance that is a cha cha cha?
+3. Is an outside breaks a part of a full bronze?
+1c. Does an outside breaks have a member of dance that is a cha cha cha?
+1c. Does a shadow check & turn have a member of dance that is a salsa?
+3. Is a shadow check & turn a part of a level iv?
+1c. Does a double head loop have a member of dance that is a salsa?
+3. Is a double head loop a part of a level ii?
+1c. Does a right side turn have a member of dance that is a salsa?
+3. Is a right side turn a part of a level iii?
+1c. Does a normal closed hold have a member of dance that is a salsa?
+1c. Does a double front hook have a member of dance that is a salsa?
+3. Is a double front hook a part of a level iii?
+1c. Does a spiral have a member of dance that is a cha cha cha?
+3. Is a spiral a part of a silver?
+3. Is a spiral a part of a level iv?
+1c. Does a spiral have a member of dance that is a salsa?
+1c. Does an open basic have a member of dance that is a cha cha cha?
+3. Is an open basic a part of a pre bronze?
+1c. Does an outside turns have a member of dance that is a salsa?
+3. Is an outside turns a part of a level ii?
+1c. Does a hand throw have a member of dance that is a salsa?
+3. Is an alemana a part of a full bronze?
+1c. Does an alemana have a member of dance that is a cha cha cha?
+1c. Does a closed hold have a member of dance that is a salsa?
+1c. Does an open hold have a member of dance that is a salsa?
+3. Is a rope spinning a part of gold?
+1c. Does a rope spinning have a member of dance that is a cha cha cha?
+3. Is a two corners a part of a level iii?
+1c. Does a two corners have a member of dance that is a salsa?
+3. Is a merengue step a part of a level iii?
+1c. Does a merengue step have a member of dance that is a salsa?
+1c. Does a hand drop have a member of dance that is a salsa?
+1c. Does a basic movement in place have a member of dance that is a cha cha cha?
+3. Is a basic movement in place a part of a pre bronze?
+1c. Does a butterfly & cradle have a member of dance that is a salsa?
+3. Is a half right a part of a level ii?
+1c. Does a half right have a member of dance that is a salsa?
+3. Is an enchufla a part of a level ii?
+1c. Does an enchufla have a member of dance that is a salsa?
+3. Is an out of the way a part of a level iv?
+1c. Does an out of the way have a member of dance that is a salsa?
+3. Is an advanced hip twist a part of gold?
+1c. Does an advanced hip twist have a member of dance that is a cha cha cha?
+1c. Does a front hook have a member of dance that is a salsa?
+3. Is a front hook a part of a level iii?
+3. Is a windmill a part of a level iv?
+1c. Does a windmill have a member of dance that is a salsa?
+3. Is a foot change a part of gold?
+1c. Does a foot change have a member of dance that is a cha cha cha?
+1c. Does a broken left turn have a member of dance that is a salsa?
+3. Is a broken left turn a part of a level ii?
+1c. Does a closed basic movement have a member of dance that is a cha cha cha?
+3. Is a closed basic movement a part of a pre bronze?
+1c. Does a left spins have a member of dance that is a salsa?
+3. Is a left spins a part of a level iii?
+1c. Does a change of directions have a member of dance that is a salsa?
+3. Is a right turn a part of a level ii?
+1c. Does a right turn have a member of dance that is a salsa?
+1c. Does a facing the line of dance have a member of dance that is a salsa?
+3. Is a cape a part of a level iii?
+1c. Does a cape have a member of dance that is a salsa?
+1c. Does an alternating have a member of dance that is a salsa?
+3. Is an alternating a part of a level ii?
+1c. Does an inside turns have a member of dance that is a salsa?
+3. Is an inside turns a part of a level i?
+3. Is a travel step a part of a level iv?
+1c. Does a travel step have a member of dance that is a salsa?
+1c. Does a walkthrough have a member of dance that is a salsa?
+3. Is a walkthrough a part of a level iv?
+3. Is an open hip twist a part of a silver?
+1c. Does an open hip twist have a member of dance that is a cha cha cha?
+3. Is a hammerlock a part of a level iv?
+1c. Does a hammerlock have a member of dance that is a salsa?
+1c. Does a simple dip have a member of dance that is a salsa?
+3. Is a simple dip a part of a level iii?
+3. Is a standard a part of a level iv?
+1c. Does a standard have a member of dance that is a salsa?
+1c. Does a duck have a member of dance that is a salsa?
+3. Is a duck a part of a level iii?
+3. Is a cuban side charge a part of a level iii?
+1c. Does a cuban side charge have a member of dance that is a salsa?
+1c. Does a taca taca have a member of dance that is a salsa?
+3. Is a taca taca a part of a level iv?
+1c. Does a slave have a member of dance that is a salsa?
+3. Is a slave a part of a level iii?
+3. Is a suzie q a part of a level ii?
+1c. Does a suzie q have a member of dance that is a salsa?
+3. Is a double crossed a part of a level ii?
+1c. Does a double crossed have a member of dance that is a salsa?
+1c. Does a fan have a member of dance that is a cha cha cha?
+3. Is a fan a part of a full bronze?
+1c. Does an arm loop have a member of dance that is a salsa?
+1c. Does a butterfly have a member of dance that is a salsa?
+1c. Does a spiral turns have a member of dance that is a cha cha cha?
+3. Is a spiral turns a part of a silver?
+1c. Does an aida have a member of dance that is a cha cha cha?
+3. Is an aida a part of a silver?
+1c. Does a back spot turn have a member of dance that is a cha cha cha?
+3. Is a back spot turn a part of a silver?
+1c. Does a back spot turn have a member of dance that is a salsa?
+3. Is a back spot turn a part of a level i?
+1c. Does a cuban step have a member of dance that is a salsa?
+3. Is a cuban step a part of a level ii?
+1c. Does a cuddle have a member of dance that is a salsa?
+3. Is a cuddle a part of a level iv?
+1c. Does a 360 triple spins have a member of dance that is a salsa?
+3. Is a 360 triple spins a part of a level iv?
+1c. Does a reverse cross body have a member of dance that is a salsa?
+3. Is a reverse cross body a part of a level ii?
+1c. Does a basic movements have a member of dance that is a cha cha cha?
+3. Is a basic movements a part of a pre bronze?
+1c. Does an uptown downtown have a member of dance that is a salsa?
+3. Is an uptown downtown a part of a level iii?
+3. Is a backward slide a part of a level i?
+1c. Does a backward slide have a member of dance that is a salsa?
+1c. Does a bridge have a member of dance that is a salsa?
+3. Is a bridge a part of a level iii?
+1c. Does a half hammerlock have a member of dance that is a salsa?
+3. Is a side steps a part of a level i?
+1c. Does a side steps have a member of dance that is a salsa?
+3. Is a side steps a part of an intermediate bronze?
+1c. Does a side steps have a member of dance that is a cha cha cha?
+3. Is a kick swivel a part of an intermediate bronze?
+1c. Does a kick swivel have a member of dance that is a cha cha cha?
+1c. Does a tunnel have a member of dance that is a salsa?
+3. Is a tunnel a part of a level iii?
+1c. Does a back break have a member of dance that is a salsa?
+3. Is a back break a part of a level i?
+3. Is a basic movement a part of a pre bronze?
+1c. Does a basic movement have a member of dance that is a cha cha cha?
+1c. Does a right spins have a member of dance that is a salsa?
+3. Is a right spins a part of a level iii?
+1c. Does a shadow to open have a member of dance that is a cha cha cha?
+3. Is a shadow to open a part of gold?
+1c. Does a hair comb have a member of dance that is a salsa?
+3. Is a hair comb a part of a level iv?
+3. Is a cross body check a part of a level iii?
+1c. Does a cross body check have a member of dance that is a salsa?
+1c. Does a right spin turn have a member of dance that is a salsa?
+3. Is a right spin turn a part of a level iii?
+1c. Does a side press have a member of dance that is a salsa?
+3. Is a side press a part of a level i?
+3. Is a cumbia into men a part of a level ii?
+1c. Does a cumbia into men have a member of dance that is a salsa?
+3. Is a back rock a part of a level i?
+1c. Does a back rock have a member of dance that is a salsa?
+3. Is a peek a boo a part of a level i?
+1c. Does a peek a boo have a member of dance that is a salsa?
+1c. Does a front slide have a member of dance that is a salsa?
+3. Is a front slide a part of a level iii?
+1c. Does a drape have a member of dance that is a salsa?
+3. Is a drape a part of a level ii?
+1c. Does a cross over breaks have a member of dance that is a cha cha cha?
+3. Is a cross over breaks a part of an intermediate bronze?
+1c. Does a sweetheart have a member of dance that is a cha cha cha?
+3. Is a sweetheart a part of gold?
+1c. Does a sombrero have a member of dance that is a salsa?
+1c. Does a walk have a member of dance that is a salsa?
+1c. Does a half left have a member of dance that is a salsa?
+3. Is a half left a part of a level ii?
+1c. Does an u turn have a member of dance that is a salsa?
+3. Is a side by side triples a part of a silver?
+1c. Does a side by side triples have a member of dance that is a cha cha cha?
+3. Is a free spin a part of a level iii?
+1c. Does a free spin have a member of dance that is a salsa?
+3. Is a hand toss a part of a level iii?
+1c. Does a hand toss have a member of dance that is a salsa?
+1c. Does a diamond step have a member of dance that is a salsa?
+3. Is a diamond step a part of a level iii?
+1c. Does an overhead have a member of dance that is a salsa?
+3. Is an overhead a part of a level iv?
+1c. Does a closed basic have a member of dance that is a cha cha cha?
+3. Is a closed basic a part of a pre bronze?
+3. Is a natural top a part of a full bronze?
+1c. Does a natural top have a member of dance that is a cha cha cha?
+1c. Does a stop and go have a member of dance that is a salsa?
+3. Is a stop and go a part of a level ii?
+1c. Does a spot turns have a member of dance that is a salsa?
+3. Is a spot turns a part of a level ii?
+1c. Does a spotting have a member of dance that is a salsa?
+3. Is a spotting a part of a level iv?
+3. Is a time step a part of a pre bronze?
+1c. Does a time step have a member of dance that is a cha cha cha?
+1c. Does a wraps have a member of dance that is a salsa?
+3. Is a wraps a part of a level iv?
+3. Is a hook turn a part of a level iii?
+1c. Does a hook turn have a member of dance that is a salsa?
+1c. Does an advanced back pass have a member of dance that is a salsa?
+3. Is an advanced back pass a part of a level iv?
+1c. Does a switch position have a member of dance that is a salsa?
+3. Is a switch position a part of a level iii?
+1c. Does a basic have a member of dance that is a cha cha cha?
+3. Is a basic a part of a pre bronze?
+3. Is a prep for double turn a part of a level iii?
+1c. Does a prep for double turn have a member of dance that is a salsa?
+1c. Does a head loop have a member of dance that is a salsa?
+3. Is a head loop a part of a level ii?
+1c. Does a crossed hands have a member of dance that is a salsa?
+3. Is a crossed hands a part of a level iii?
+1c. Does an around the world have a member of dance that is a salsa?
+3. Is an around the world a part of a level iii?
+3. Is an alternative basic movement a part of a pre bronze?
+1c. Does an alternative basic movement have a member of dance that is a cha cha cha?
+1c. Does a broken arm have a member of dance that is a salsa?
+3. Is a back hook a part of a level iii?
+1c. Does a back hook have a member of dance that is a salsa?
+1c. Does a foot change 4 shadow to open have a member of dance that is a cha cha cha?
+3. Is a foot change 4 shadow to open a part of gold?
+1c. Does a curl have a member of dance that is a cha cha cha?
+3. Is a curl a part of a silver?
+1c. Does a spiral kick have a member of dance that is a salsa?
+3. Is a spiral kick a part of a level iv?
+1c. Does a forward slide have a member of dance that is a salsa?
+3. Is a forward slide a part of a level iii?
+1c. Does a reverse top have a member of dance that is a cha cha cha?
+3. Is a reverse top a part of a silver?
+1c. Does a back step have a member of dance that is a salsa?
+3. Is a back step a part of a level i?
+3. Is a hand slide a part of a level iv?
+1c. Does a hand slide have a member of dance that is a salsa?
+3. Is a check copa a part of a level ii?
+1c. Does a check copa have a member of dance that is a salsa?
+1c. Does an embrace have a member of dance that is a salsa?
+3. Is a basket a part of a level iv?
+1c. Does a basket have a member of dance that is a salsa?
+1c. Does an underarm turn have a member of dance that is a cha cha cha?
+3. Is an underarm turn a part of an intermediate bronze?
+1c. Does an underarm turn have a member of dance that is a salsa?
+3. Is an underarm turn a part of a level i?
+1c. Does a hook step have a member of dance that is a salsa?
+3. Is a hook step a part of a level iii?
+1c. Does a front flare have a member of dance that is a salsa?
+3. Is a front flare a part of a level iii?
+3. Is a forward spot turn a part of a silver?
+1c. Does a forward spot turn have a member of dance that is a cha cha cha?
+1c. Does a promenade swivels have a member of dance that is a cha cha cha?
+3. Is a promenade swivels a part of a silver?
+1c. Does a crossed holds have a member of dance that is a salsa?
+1c. Does a basic step have a member of dance that is a salsa?
+3. Is a basic step a part of a level i?
+1c. Does a natural opening out movement have a member of dance that is a cha cha cha?
+3. Is a natural opening out movement a part of a full bronze?
+YES_NO_QUESTION_TYPE1_QUANTIFIED = 3
+6c. Does a left side turn have a member of dance that is some salsa?
+7a. Is a left side turn a part of some level iii?
+7a. Is a single hand copa a part of some level ii?
+6c. Does a single hand copa have a member of dance that is some salsa?
+7a. Is a front cross over a part of some level iii?
+6c. Does a front cross over have a member of dance that is some salsa?
+7a. Is a cross over into men a part of some level iii?
+6c. Does a cross over into men have a member of dance that is some salsa?
+7a. Is a cumbia step a part of some level ii?
+6c. Does a cumbia step have a member of dance that is some salsa?
+6c. Does a chord beat crossovers have a member of dance that is some salsa?
+7a. Is a chord beat crossovers a part of some level iii?
+7a. Is an open basic movement a part of some pre bronze?
+6c. Does an open basic movement have a member of dance that is some cha cha cha?
+6c. Does a front step have a member of dance that is some salsa?
+7a. Is a front step a part of some level i?
+7a. Is a hip twist a part of some full bronze?
+6c. Does a hip twist have a member of dance that is some cha cha cha?
+6c. Does a 2 handed have a member of dance that is some salsa?
+7a. Is a 2 handed a part of some level i?
+7a. Is an open break a part of some level i?
+7a. Is an open break a part of some full bronze?
+6c. Does an open break have a member of dance that is some salsa?
+6c. Does an open break have a member of dance that is some cha cha cha?
+7a. Is a shoulder checks a part of some level i?
+6c. Does a shoulder checks have a member of dance that is some salsa?
+6c. Does a shoulder to shoulder have a member of dance that is some cha cha cha?
+7a. Is a shoulder to shoulder a part of some pre bronze?
+5a. Does a salsa contain only a level iii?
+5a. Does a salsa contain only a level iv?
+5a. Does a salsa contain only a level ii?
+5a. Does a salsa contain only a level i?
+6c. Does a fallaway swivel have a member of dance that is some cha cha cha?
+7a. Is a fallaway swivel a part of some silver?
+7a. Is a foot change 3 open to shadow a part of some gold?
+6c. Does a foot change 3 open to shadow have a member of dance that is some cha cha cha?
+7a. Is a foot change shadow to open a part of some gold?
+6c. Does a foot change shadow to open have a member of dance that is some cha cha cha?
+6c. Does a titanic have a member of dance that is some salsa?
+7a. Is a titanic a part of some level iii?
+7a. Is a 180 cross body lead a part of some level ii?
+6c. Does a 180 cross body lead have a member of dance that is some salsa?
+7a. Is an opening out from reverse top a part of some silver?
+6c. Does an opening out from reverse top have a member of dance that is some cha cha cha?
+7a. Is an outside turn a part of some level ii?
+6c. Does an outside turn have a member of dance that is some salsa?
+7a. Is an open to shadow a part of some gold?
+6c. Does an open to shadow have a member of dance that is some cha cha cha?
+7a. Is a front double cross a part of some level iv?
+6c. Does a front double cross have a member of dance that is some salsa?
+6c. Does a progressive basic have a member of dance that is some cha cha cha?
+7a. Is a progressive basic a part of some intermediate bronze?
+7a. Is a window a part of some level iv?
+6c. Does a window have a member of dance that is some salsa?
+7a. Is a catwalk a part of some level i?
+6c. Does a catwalk have a member of dance that is some salsa?
+7a. Is a left check turn a part of some level i?
+6c. Does a left check turn have a member of dance that is some salsa?
+6c. Does a facing perpendicular to the line of dance have a member of dance that is some salsa?
+7a. Is a basic in place a part of some pre bronze?
+6c. Does a basic in place have a member of dance that is some cha cha cha?
+6c. Does a leg trap have a member of dance that is some salsa?
+7a. Is a leg trap a part of some level iv?
+6c. Does an underarm turns have a member of dance that is some salsa?
+7a. Is an underarm turns a part of some level i?
+6c. Does an underarm turns have a member of dance that is some cha cha cha?
+6c. Does an underarm turn with spin have a member of dance that is some cha cha cha?
+7a. Is an underarm turn with spin a part of some intermediate bronze?
+7a. Is a coca cola a part of some level iii?
+6c. Does a coca cola have a member of dance that is some salsa?
+5a. Does a cha cha cha contain only a silver?
+5a. Does a cha cha cha contain only gold?
+5a. Does a cha cha cha contain only a full bronze?
+5a. Does a cha cha cha contain only an intermediate bronze?
+5a. Does a cha cha cha contain only a pre bronze?
+7a. Is a back tap a part of some level iii?
+6c. Does a back tap have a member of dance that is some salsa?
+7a. Is a there and back a part of some pre bronze?
+6c. Does a there and back have a member of dance that is some cha cha cha?
+6c. Does a 2 corners have a member of dance that is some salsa?
+7a. Is a 2 corners a part of some level i?
+7a. Is a hockey stick a part of some full bronze?
+6c. Does a hockey stick have a member of dance that is some cha cha cha?
+7a. Is a hip twist spiral a part of some gold?
+6c. Does a hip twist spiral have a member of dance that is some cha cha cha?
+6c. Does a drop hand catch have a member of dance that is some salsa?
+7a. Is a drop hand catch a part of some level i?
+7a. Is a double spiral a part of some level iv?
+6c. Does a double spiral have a member of dance that is some salsa?
+7a. Is a bounce a part of some level iii?
+6c. Does a bounce have a member of dance that is some salsa?
+6c. Does a hand to hand have a member of dance that is some cha cha cha?
+7a. Is a hand to hand a part of some intermediate bronze?
+7a. Is a toe taps a part of some level ii?
+6c. Does a toe taps have a member of dance that is some salsa?
+6c. Does a side to side have a member of dance that is some salsa?
+7a. Is a side to side a part of some level i?
+7a. Is a traveling underarm turn a part of some level iv?
+6c. Does a traveling underarm turn have a member of dance that is some salsa?
+6c. Does a grapevine have a member of dance that is some salsa?
+6c. Does a grapevine have a member of dance that is some cha cha cha?
+7a. Is a grapevine a part of some gold?
+7a. Is a grapevine a part of some level iv?
+6c. Does a braid step have a member of dance that is some salsa?
+7a. Is a braid step a part of some level iii?
+6c. Does a chase have a member of dance that is some cha cha cha?
+7a. Is a chase a part of some silver?
+7a. Is a double hand copa a part of some level iii?
+6c. Does a double hand copa have a member of dance that is some salsa?
+7a. Is a side flares a part of some level iv?
+6c. Does a side flares have a member of dance that is some salsa?
+7a. Is a crucifix a part of some level iv?
+6c. Does a crucifix have a member of dance that is some salsa?
+6c. Does a switching hands have a member of dance that is some salsa?
+7a. Is a three cha cha chas a part of some pre bronze?
+6c. Does a three cha cha chas have a member of dance that is some cha cha cha?
+6c. Does a cuban breaks have a member of dance that is some cha cha cha?
+7a. Is a cuban breaks a part of some silver?
+6c. Does a ronde chasse have a member of dance that is some cha cha cha?
+7a. Is a ronde chasse a part of some silver?
+7a. Is a new york a part of some pre bronze?
+6c. Does a new york have a member of dance that is some cha cha cha?
+7a. Is a mambo walk a part of some level iii?
+6c. Does a mambo walk have a member of dance that is some salsa?
+7a. Is a copa a part of some level ii?
+6c. Does a copa have a member of dance that is some salsa?
+6c. Does a basic cha cha have a member of dance that is some cha cha cha?
+7a. Is a basic cha cha a part of some intermediate bronze?
+6c. Does a change of a hand hold have a member of dance that is some salsa?
+6c. Does a the wrap have a member of dance that is some salsa?
+7a. Is a the wrap a part of some level iii?
+7a. Is a three cha chas forward or back a part of some pre bronze?
+6c. Does a three cha chas forward or back have a member of dance that is some cha cha cha?
+6c. Does a superwoman have a member of dance that is some salsa?
+7a. Is a superwoman a part of some level iv?
+7a. Is a burrito a part of some level iii?
+6c. Does a burrito have a member of dance that is some salsa?
+6c. Does a normal open holds have a member of dance that is some salsa?
+7a. Is a split cuban breaks a part of some silver?
+6c. Does a split cuban breaks have a member of dance that is some cha cha cha?
+6c. Does a delay step have a member of dance that is some salsa?
+7a. Is a 360 switch position a part of some level iii?
+6c. Does a 360 switch position have a member of dance that is some salsa?
+7a. Is an in and out a part of some level ii?
+6c. Does an in and out have a member of dance that is some salsa?
+6c. Does a front tap have a member of dance that is some salsa?
+7a. Is a front tap a part of some level iii?
+7a. Is a closed hip twist a part of some full bronze?
+6c. Does a closed hip twist have a member of dance that is some cha cha cha?
+7a. Is an elbow push a part of some level iv?
+6c. Does an elbow push have a member of dance that is some salsa?
+6c. Does a shoulder lead have a member of dance that is some salsa?
+7a. Is a shoulder lead a part of some level ii?
+7a. Is a guapea a part of some level i?
+6c. Does a guapea have a member of dance that is some salsa?
+7a. Is a back pass a part of some level ii?
+6c. Does a back pass have a member of dance that is some salsa?
+6c. Does an arm lock have a member of dance that is some salsa?
+7a. Is a trading places a part of some level iii?
+6c. Does a trading places have a member of dance that is some salsa?
+7a. Is a tightrope a part of some level iii?
+6c. Does a tightrope have a member of dance that is some salsa?
+6c. Does an arm hook have a member of dance that is some salsa?
+6c. Does a front rock have a member of dance that is some salsa?
+7a. Is a front rock a part of some level i?
+7a. Is a double cross over a part of some level ii?
+6c. Does a double cross over have a member of dance that is some salsa?
+6c. Does a left turn have a member of dance that is some salsa?
+7a. Is a left turn a part of some level i?
+7a. Is an inside turn a part of some level i?
+6c. Does an inside turn have a member of dance that is some salsa?
+6c. Does a cross basic have a member of dance that is some cha cha cha?
+7a. Is a cross basic a part of some silver?
+7a. Is a cross body lead a part of some full bronze?
+7a. Is a cross body lead a part of some level i?
+6c. Does a cross body lead have a member of dance that is some salsa?
+6c. Does a cross body lead have a member of dance that is some cha cha cha?
+6c. Does is walking around have a member of dance that is some salsa?
+7a. Is a foot change open to shadow a part of some gold?
+6c. Does a foot change open to shadow have a member of dance that is some cha cha cha?
+7a. Is a turkish towel a part of some gold?
+6c. Does a turkish towel have a member of dance that is some cha cha cha?
+7a. Is an outside breaks a part of some full bronze?
+6c. Does an outside breaks have a member of dance that is some cha cha cha?
+6c. Does a shadow check & turn have a member of dance that is some salsa?
+7a. Is a shadow check & turn a part of some level iv?
+6c. Does a double head loop have a member of dance that is some salsa?
+7a. Is a double head loop a part of some level ii?
+6c. Does a right side turn have a member of dance that is some salsa?
+7a. Is a right side turn a part of some level iii?
+6c. Does a normal closed hold have a member of dance that is some salsa?
+6c. Does a double front hook have a member of dance that is some salsa?
+7a. Is a double front hook a part of some level iii?
+6c. Does a spiral have a member of dance that is some cha cha cha?
+7a. Is a spiral a part of some silver?
+7a. Is a spiral a part of some level iv?
+6c. Does a spiral have a member of dance that is some salsa?
+6c. Does an open basic have a member of dance that is some cha cha cha?
+7a. Is an open basic a part of some pre bronze?
+6c. Does an outside turns have a member of dance that is some salsa?
+7a. Is an outside turns a part of some level ii?
+6c. Does a hand throw have a member of dance that is some salsa?
+7a. Is an alemana a part of some full bronze?
+6c. Does an alemana have a member of dance that is some cha cha cha?
+6c. Does a closed hold have a member of dance that is some salsa?
+6c. Does an open hold have a member of dance that is some salsa?
+7a. Is a rope spinning a part of some gold?
+6c. Does a rope spinning have a member of dance that is some cha cha cha?
+7a. Is a two corners a part of some level iii?
+6c. Does a two corners have a member of dance that is some salsa?
+7a. Is a merengue step a part of some level iii?
+6c. Does a merengue step have a member of dance that is some salsa?
+6c. Does a hand drop have a member of dance that is some salsa?
+6c. Does a basic movement in place have a member of dance that is some cha cha cha?
+7a. Is a basic movement in place a part of some pre bronze?
+6c. Does a butterfly & cradle have a member of dance that is some salsa?
+7a. Is a half right a part of some level ii?
+6c. Does a half right have a member of dance that is some salsa?
+7a. Is an enchufla a part of some level ii?
+6c. Does an enchufla have a member of dance that is some salsa?
+7a. Is an out of the way a part of some level iv?
+6c. Does an out of the way have a member of dance that is some salsa?
+7a. Is an advanced hip twist a part of some gold?
+6c. Does an advanced hip twist have a member of dance that is some cha cha cha?
+6c. Does a front hook have a member of dance that is some salsa?
+7a. Is a front hook a part of some level iii?
+7a. Is a windmill a part of some level iv?
+6c. Does a windmill have a member of dance that is some salsa?
+7a. Is a foot change a part of some gold?
+6c. Does a foot change have a member of dance that is some cha cha cha?
+6c. Does a broken left turn have a member of dance that is some salsa?
+7a. Is a broken left turn a part of some level ii?
+6c. Does a closed basic movement have a member of dance that is some cha cha cha?
+7a. Is a closed basic movement a part of some pre bronze?
+6c. Does a left spins have a member of dance that is some salsa?
+7a. Is a left spins a part of some level iii?
+6c. Does a change of directions have a member of dance that is some salsa?
+7a. Is a right turn a part of some level ii?
+6c. Does a right turn have a member of dance that is some salsa?
+6c. Does a facing the line of dance have a member of dance that is some salsa?
+7a. Is a cape a part of some level iii?
+6c. Does a cape have a member of dance that is some salsa?
+6c. Does an alternating have a member of dance that is some salsa?
+7a. Is an alternating a part of some level ii?
+6c. Does an inside turns have a member of dance that is some salsa?
+7a. Is an inside turns a part of some level i?
+7a. Is a travel step a part of some level iv?
+6c. Does a travel step have a member of dance that is some salsa?
+6c. Does a walkthrough have a member of dance that is some salsa?
+7a. Is a walkthrough a part of some level iv?
+7a. Is an open hip twist a part of some silver?
+6c. Does an open hip twist have a member of dance that is some cha cha cha?
+7a. Is a hammerlock a part of some level iv?
+6c. Does a hammerlock have a member of dance that is some salsa?
+6c. Does a simple dip have a member of dance that is some salsa?
+7a. Is a simple dip a part of some level iii?
+7a. Is a standard a part of some level iv?
+6c. Does a standard have a member of dance that is some salsa?
+6c. Does a duck have a member of dance that is some salsa?
+7a. Is a duck a part of some level iii?
+7a. Is a cuban side charge a part of some level iii?
+6c. Does a cuban side charge have a member of dance that is some salsa?
+6c. Does a taca taca have a member of dance that is some salsa?
+7a. Is a taca taca a part of some level iv?
+6c. Does a slave have a member of dance that is some salsa?
+7a. Is a slave a part of some level iii?
+7a. Is a suzie q a part of some level ii?
+6c. Does a suzie q have a member of dance that is some salsa?
+7a. Is a double crossed a part of some level ii?
+6c. Does a double crossed have a member of dance that is some salsa?
+6c. Does a fan have a member of dance that is some cha cha cha?
+7a. Is a fan a part of some full bronze?
+6c. Does an arm loop have a member of dance that is some salsa?
+6c. Does a butterfly have a member of dance that is some salsa?
+6c. Does a spiral turns have a member of dance that is some cha cha cha?
+7a. Is a spiral turns a part of some silver?
+6c. Does an aida have a member of dance that is some cha cha cha?
+7a. Is an aida a part of some silver?
+6c. Does a back spot turn have a member of dance that is some cha cha cha?
+7a. Is a back spot turn a part of some silver?
+6c. Does a back spot turn have a member of dance that is some salsa?
+7a. Is a back spot turn a part of some level i?
+6c. Does a cuban step have a member of dance that is some salsa?
+7a. Is a cuban step a part of some level ii?
+6c. Does a cuddle have a member of dance that is some salsa?
+7a. Is a cuddle a part of some level iv?
+6c. Does a 360 triple spins have a member of dance that is some salsa?
+7a. Is a 360 triple spins a part of some level iv?
+6c. Does a reverse cross body have a member of dance that is some salsa?
+7a. Is a reverse cross body a part of some level ii?
+6c. Does a basic movements have a member of dance that is some cha cha cha?
+7a. Is a basic movements a part of some pre bronze?
+6c. Does an uptown downtown have a member of dance that is some salsa?
+7a. Is an uptown downtown a part of some level iii?
+7a. Is a backward slide a part of some level i?
+6c. Does a backward slide have a member of dance that is some salsa?
+6c. Does a bridge have a member of dance that is some salsa?
+7a. Is a bridge a part of some level iii?
+6c. Does a half hammerlock have a member of dance that is some salsa?
+7a. Is a side steps a part of some level i?
+6c. Does a side steps have a member of dance that is some salsa?
+7a. Is a side steps a part of some intermediate bronze?
+6c. Does a side steps have a member of dance that is some cha cha cha?
+7a. Is a kick swivel a part of some intermediate bronze?
+6c. Does a kick swivel have a member of dance that is some cha cha cha?
+6c. Does a tunnel have a member of dance that is some salsa?
+7a. Is a tunnel a part of some level iii?
+6c. Does a back break have a member of dance that is some salsa?
+7a. Is a back break a part of some level i?
+7a. Is a basic movement a part of some pre bronze?
+6c. Does a basic movement have a member of dance that is some cha cha cha?
+6c. Does a right spins have a member of dance that is some salsa?
+7a. Is a right spins a part of some level iii?
+6c. Does a shadow to open have a member of dance that is some cha cha cha?
+7a. Is a shadow to open a part of some gold?
+6c. Does a hair comb have a member of dance that is some salsa?
+7a. Is a hair comb a part of some level iv?
+7a. Is a cross body check a part of some level iii?
+6c. Does a cross body check have a member of dance that is some salsa?
+6c. Does a right spin turn have a member of dance that is some salsa?
+7a. Is a right spin turn a part of some level iii?
+6c. Does a side press have a member of dance that is some salsa?
+7a. Is a side press a part of some level i?
+7a. Is a cumbia into men a part of some level ii?
+6c. Does a cumbia into men have a member of dance that is some salsa?
+7a. Is a back rock a part of some level i?
+6c. Does a back rock have a member of dance that is some salsa?
+7a. Is a peek a boo a part of some level i?
+6c. Does a peek a boo have a member of dance that is some salsa?
+6c. Does a front slide have a member of dance that is some salsa?
+7a. Is a front slide a part of some level iii?
+6c. Does a drape have a member of dance that is some salsa?
+7a. Is a drape a part of some level ii?
+6c. Does a cross over breaks have a member of dance that is some cha cha cha?
+7a. Is a cross over breaks a part of some intermediate bronze?
+6c. Does a sweetheart have a member of dance that is some cha cha cha?
+7a. Is a sweetheart a part of some gold?
+6c. Does a sombrero have a member of dance that is some salsa?
+6c. Does a walk have a member of dance that is some salsa?
+6c. Does a half left have a member of dance that is some salsa?
+7a. Is a half left a part of some level ii?
+6c. Does an u turn have a member of dance that is some salsa?
+7a. Is a side by side triples a part of some silver?
+6c. Does a side by side triples have a member of dance that is some cha cha cha?
+7a. Is a free spin a part of some level iii?
+6c. Does a free spin have a member of dance that is some salsa?
+7a. Is a hand toss a part of some level iii?
+6c. Does a hand toss have a member of dance that is some salsa?
+6c. Does a diamond step have a member of dance that is some salsa?
+7a. Is a diamond step a part of some level iii?
+6c. Does an overhead have a member of dance that is some salsa?
+7a. Is an overhead a part of some level iv?
+6c. Does a closed basic have a member of dance that is some cha cha cha?
+7a. Is a closed basic a part of some pre bronze?
+7a. Is a natural top a part of some full bronze?
+6c. Does a natural top have a member of dance that is some cha cha cha?
+6c. Does a stop and go have a member of dance that is some salsa?
+7a. Is a stop and go a part of some level ii?
+6c. Does a spot turns have a member of dance that is some salsa?
+7a. Is a spot turns a part of some level ii?
+6c. Does a spotting have a member of dance that is some salsa?
+7a. Is a spotting a part of some level iv?
+7a. Is a time step a part of some pre bronze?
+6c. Does a time step have a member of dance that is some cha cha cha?
+6c. Does a wraps have a member of dance that is some salsa?
+7a. Is a wraps a part of some level iv?
+7a. Is a hook turn a part of some level iii?
+6c. Does a hook turn have a member of dance that is some salsa?
+6c. Does an advanced back pass have a member of dance that is some salsa?
+7a. Is an advanced back pass a part of some level iv?
+6c. Does a switch position have a member of dance that is some salsa?
+7a. Is a switch position a part of some level iii?
+6c. Does a basic have a member of dance that is some cha cha cha?
+7a. Is a basic a part of some pre bronze?
+7a. Is a prep for double turn a part of some level iii?
+6c. Does a prep for double turn have a member of dance that is some salsa?
+6c. Does a head loop have a member of dance that is some salsa?
+7a. Is a head loop a part of some level ii?
+6c. Does a crossed hands have a member of dance that is some salsa?
+7a. Is a crossed hands a part of some level iii?
+6c. Does an around the world have a member of dance that is some salsa?
+7a. Is an around the world a part of some level iii?
+7a. Is an alternative basic movement a part of some pre bronze?
+6c. Does an alternative basic movement have a member of dance that is some cha cha cha?
+6c. Does a broken arm have a member of dance that is some salsa?
+7a. Is a back hook a part of some level iii?
+6c. Does a back hook have a member of dance that is some salsa?
+6c. Does a foot change 4 shadow to open have a member of dance that is some cha cha cha?
+7a. Is a foot change 4 shadow to open a part of some gold?
+6c. Does a curl have a member of dance that is some cha cha cha?
+7a. Is a curl a part of some silver?
+6c. Does a spiral kick have a member of dance that is some salsa?
+7a. Is a spiral kick a part of some level iv?
+6c. Does a forward slide have a member of dance that is some salsa?
+7a. Is a forward slide a part of some level iii?
+6c. Does a reverse top have a member of dance that is some cha cha cha?
+7a. Is a reverse top a part of some silver?
+6c. Does a back step have a member of dance that is some salsa?
+7a. Is a back step a part of some level i?
+7a. Is a hand slide a part of some level iv?
+6c. Does a hand slide have a member of dance that is some salsa?
+7a. Is a check copa a part of some level ii?
+6c. Does a check copa have a member of dance that is some salsa?
+6c. Does an embrace have a member of dance that is some salsa?
+7a. Is a basket a part of some level iv?
+6c. Does a basket have a member of dance that is some salsa?
+6c. Does an underarm turn have a member of dance that is some cha cha cha?
+7a. Is an underarm turn a part of some intermediate bronze?
+6c. Does an underarm turn have a member of dance that is some salsa?
+7a. Is an underarm turn a part of some level i?
+6c. Does a hook step have a member of dance that is some salsa?
+7a. Is a hook step a part of some level iii?
+6c. Does a front flare have a member of dance that is some salsa?
+7a. Is a front flare a part of some level iii?
+7a. Is a forward spot turn a part of some silver?
+6c. Does a forward spot turn have a member of dance that is some cha cha cha?
+6c. Does a promenade swivels have a member of dance that is some cha cha cha?
+7a. Is a promenade swivels a part of some silver?
+6c. Does a crossed holds have a member of dance that is some salsa?
+6c. Does a basic step have a member of dance that is some salsa?
+7a. Is a basic step a part of some level i?
+6c. Does a natural opening out movement have a member of dance that is some cha cha cha?
+7a. Is a natural opening out movement a part of some full bronze?
