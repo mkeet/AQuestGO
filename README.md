@@ -27,5 +27,8 @@ This repository contains implemented algorithms, the templates, the generated qu
 - Steve Wang
 - Maria Keet
 
+## Citing AQuestGo
+- Raboanary, T., Wang, S., Keet, C.M. Generating Answerable Questions from Ontologies for Educational Exercises. 15th Metadata and Semantics Research Conference (MTSR'21). Garoufallou, E., Ovalle-Perandones, M-A., Vlachidis, A (Eds.). Springer CCIS vol. 1537, 28-40. 29 Nov - 3 Dec, online. <a href="http://www.meteck.org/files/MTSR21Qgen.pdf">CRC</a> and <a href="https://link.springer.com/chapter/10.1007/978-3-030-98876-0_3">published version</a>
+
 ## Funding
 In theory, yes, since it was specified as part of the "Quest: Querying Smart Text" project that was approved for funding in 2019 by SADiLaR, but they still haven't paid. The insights gained are also relevant within the scope of the NRF-funded <a href="http://www.meteck.org/MoReNL/">MoreNL project</a> for surface realisers for African languages.
