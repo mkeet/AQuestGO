@@ -1,0 +1,60 @@
+A branch is part of a tree. True or false?
+A bumble bee participates in flying. True or false?
+A bumble bee participates in hibernating. True or false?
+A carnivorous plant eats an animal. True or false?
+A giraffe lives on land. True or false?
+A giraffe participates in walking. True or false?
+A lion eats a herbivore. True or false?
+A lion eats an impala. True or false?
+A lion lives on land. True or false?
+A plant parts is a proper part of a plant. True or false?
+A rock dassie lives on land. True or false?
+A rock dassie participates in walking. True or false?
+A warthog lives on land. True or false?
+A warthog participates in walking. True or false?
+An elephant lives on land. True or false?
+An elephant participates in walking. True or false?
+An impala lives on land. True or false?
+An impala participates in walking. True or false?
+Does a bumble bee participate in flying?
+Does a bumble bee participate in hibernating?
+Does a carnivorous plant eat an animal?
+Does a giraffe live on land?
+Does a giraffe participate in walking?
+Does a lion eat a herbivore?
+Does a lion eat an impala?
+Does a lion live on land?
+Does a rock dassie live on land?
+Does a rock dassie participate in walking?
+Does a warthog live on land?
+Does a warthog participate in walking?
+Does an elephant live on land?
+Does an elephant participate in walking?
+Does an impala live on land?
+Does an impala participate in walking?
+Is a branch part of a tree?
+Is a plant parts a proper part of a plant?
+Is phloem a proper part of a stem?
+Is xylem a proper part of a stem?
+Phloem is a proper part of a stem. True or false?
+True or false: A branch is part of a tree.
+True or false: A bumble bee participates in flying.
+True or false: A bumble bee participates in hibernating.
+True or false: A carnivorous plant eats an animal.
+True or false: A giraffe lives on land.
+True or false: A giraffe participates in walking.
+True or false: A lion eats a herbivore.
+True or false: A lion eats an impala.
+True or false: A lion lives on land.
+True or false: A plant parts is a proper part of a plant.
+True or false: A rock dassie lives on land.
+True or false: A rock dassie participates in walking.
+True or false: A warthog lives on land.
+True or false: A warthog participates in walking.
+True or false: An elephant lives on land.
+True or false: An elephant participates in walking.
+True or false: An impala lives on land.
+True or false: An impala participates in walking.
+True or false: Phloem is a proper part of a stem.
+True or false: Xylem is a proper part of a stem.
+Xylem is a proper part of a stem. True or false?

@@ -1,0 +1,96 @@
+Define a berry.
+Define a branch.
+Define a bumble bee.
+Define a camelopard.
+Define a carnivore.
+Define a carnivorous plant.
+Define a fruiting body.
+Define a giraffe.
+Define a gras.
+Define a habitat.
+Define a herbivore.
+Define a humble bee.
+Define a king of beasts.
+Define a leaf.
+Define a lion.
+Define a palmtree.
+Define a parsnip.
+Define a perdurant.
+Define a plant parts.
+Define a plant.
+Define a rock dassie.
+Define a root.
+Define a sea.
+Define a sky.
+Define a stem.
+Define a tasty plant.
+Define a terrestrial.
+Define a tree.
+Define a twig.
+Define a warthog.
+Define an animal.
+Define an apple.
+Define an atmosphere.
+Define an elephant.
+Define an endurant.
+Define an impala.
+Define an insect.
+Define an omnivore.
+Define aviating.
+Define being a loop.
+Define flying.
+Define grass.
+Define hibernating.
+Define holing up.
+Define land.
+Define phloem.
+Define walking.
+Define xylem.
+What is a berry?
+What is a branch?
+What is a bumble bee?
+What is a camelopard?
+What is a carnivore?
+What is a carnivorous plant?
+What is a fruiting body?
+What is a giraffe?
+What is a gras?
+What is a habitat?
+What is a herbivore?
+What is a humble bee?
+What is a king of beasts?
+What is a leaf?
+What is a lion?
+What is a palmtree?
+What is a parsnip?
+What is a perdurant?
+What is a plant parts?
+What is a plant?
+What is a rock dassie?
+What is a root?
+What is a sea?
+What is a sky?
+What is a stem?
+What is a tasty plant?
+What is a terrestrial?
+What is a tree?
+What is a twig?
+What is a warthog?
+What is an animal?
+What is an apple?
+What is an atmosphere?
+What is an elephant?
+What is an endurant?
+What is an impala?
+What is an insect?
+What is an omnivore?
+What is aviating?
+What is being a loop?
+What is flying?
+What is grass?
+What is hibernating?
+What is holing up?
+What is land?
+What is phloem?
+What is walking?
+What is xylem?

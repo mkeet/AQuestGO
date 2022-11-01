@@ -1,0 +1,21 @@
+Which animal eats only a herbivore?
+Which animal eats some impala?
+Which animal lives on only land?
+Which animal participates in walking?
+Which carnivore eats only a herbivore?
+Which carnivore eats some impala?
+Which carnivore lives on only land?
+Which endurant is a proper part of some plant?
+Which herbivore lives on only land?
+Which herbivore participates in walking?
+Which insect participates in flying?
+Which insect participates in hibernating?
+Which omnivore lives on only land?
+Which omnivore participates in walking?
+Which plant eats some animal?
+Which plant parts is a proper part of some stem?
+Which plant parts is part of some tree?
+Which terrestrial eats only a herbivore?
+Which terrestrial eats some impala?
+Which terrestrial lives on only land?
+Which terrestrial participates in walking?
