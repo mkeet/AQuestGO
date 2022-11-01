@@ -1,13 +1,13 @@
 # QAFarchitecture
 An Architecture for Generating Questions, Answers, and Feedback from Ontologies
 
-The supplementary materials contain:
-- the source code implementing the architecture,
-- the ontology used for generating the questions, answers and feedback,
-- the question cards defined for the test cases, 
-- the results, and,
+## This folder contains:
+- the source code implementing the architecture (source code),
+- the ontology used for generating the questions, answers and feedback (ontologies),
+- the question cards defined for the test cases (question cards), 
+- the results (results), and,
 - the content selection algorithm.
 
-Authors:
-- Toky Hajatiana Raboanary
+## Contributors:
+- Toky Raboanary
 - Maria Keet
