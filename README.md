@@ -9,6 +9,10 @@ Three approaches were designed: 1) template variables using foundational ontolog
 
 These approaches were implemented and evaluated by means of a user evaluation. The evaluation showed that constraining the template variables with domain class resulted in slightly better quality questions than using DOLCE foundational ontology categories; however, the linguistic-driven templates far outperformed both on syntactic and semantic adequacy of the generated questions.
 
+Furthermore, generating questions, answers, and feedback from ontologies and conceptual models is crucial for learning activities and knowledge validation. existing proposals are limited to predefined types of questions and the modelling style that they are tailored to, lack feedback generation, and their core algorithm are dependent on those characteristics, therewith hampering maintainability and reusability.
+
+We designed a new architecture where the question, answer and feedback specifications, the core algorithm for selecting the contents from the ontology, and the verbaliser are modularised for resolving these problems. We instantiated the architecture as a proof-of-concept, examined three test cases, and showed that it compares favourably to related work.  
+
 ## Content on this repo
 
 This repository contains implemented algorithms, the templates, the generated questions, the ontologies and the data used in the experiment.
@@ -20,7 +24,7 @@ This repository contains implemented algorithms, the templates, the generated qu
 - 'DigitalHumanities' contains the DH ontologies used and the generated questions.
 - 'Data Used' contains the collected data (excel and CSV files).
 - 'Report from data analysis' contains the results of the data analysis from the C# code.
-
+- 'QAFarchitecture' contains all files related to the architecture for generating questions, answers, and feedback from ontologies.
 
 ## Contributors:
 - Toky Raboanary
