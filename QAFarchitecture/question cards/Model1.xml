@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>Which X prop Y</TQ>
+    <Description>Which </Description>
+    <Example>What type of X can do Y</Example>
+    <SlotSpecs> <!-- Slot specifications -->
+        <SlotSpec id="1" nature="Class" route="OnlyChildren" excludes="SocialObject PhysicalObject">[X]</SlotSpec> 
+        <SlotSpec id="2" nature="Class" route="OnlyChildren" excludes="SocialObject PhysicalObject">[Y]</SlotSpec> 
+        <SlotSpec id="2" nature="Class" route="OnlyChildren" excludes="SocialObject PhysicalObject">[Z]</SlotSpec> 
+        <SlotSpec id="3" nature="Class" route="OnlyMe">[Soc] SocialObject</SlotSpec>
+        <SlotSpec id="4" nature="Class" route="OnlyMe">[Phy] PhysicalObject</SlotSpec>
+        <SlotSpec id="5" nature="OP" route="OnlyMe">[inheresIn] inheresIn</SlotSpec>   
+        <SlotSpec id="6" nature="OP" route="OnlyMe">[inheresIn] inheresIn</SlotSpec>   
+        <SlotSpec id="7" nature="OP" route="OnlyChildren" excludes="inheresIn">[prop]</SlotSpec> 
+    </SlotSpecs>
+    <APs> <!-- Axiom prerequisites -->
+        <AP id="1">  <!-- AxPreq1: First modelling style -->                      
+            <APitem id="1">[X] SubclassOf([Phy])</APitem>
+            <APitem id="2">[Y] SubclassOf([Soc])</APitem>
+            <APitem id="3">[Phy] DisjointWith([Soc])</APitem>
+            <APitem id="4">[Soc] SubclassOf([inheresIn] some [Phy])</APitem>
+            <APitem id="5">[Y] SubclassOf([inheresIn] some [X])</APitem>            
+            <APitem id="6">[Y] SubclassOf([prop] some [Z])</APitem>             
+            <APitem id="7">[X] DisjointWith([Y])</APitem>                        
+        </AP>
+        <AP id="2">  <!-- AxPreq2: Second modelling style -->                                   
+            <APitem id="1">[Y] SubclassOf([X])</APitem>
+            <APitem id="2">[Y] SubclassOf([prop] some [Z])</APitem>                       
+         </AP>       
+    </APs>
+    <LTs> <!-- Linguistic templates -->
+        <LT id="1">What type of [X/noArticle] [prop/*OP_VERB-third] [Z]?</LT>        
+        <LT id="2">What type of [X/noArticle] [prop/*OP_VERB_PREP-third] [Z]?</LT>  
+        <LT id="3">What type of [X/noArticle] [prop/*OP_HAS_NOUNS-third] that is [Z]?</LT>  
+        <LT id="4">What type of [X/noArticle] is [prop/*OP_IS_NOUNS_PREP] [Z]?</LT>
+        <LT id="5">What type of [X/noArticle] is [prop/*OP_IS_PAST_PARTICIPLE_BY] [Z]?</LT>
+        <LT id="6">What type of [X/noArticle] is [prop/*OP_IS_PAST_PARTICIPLE_PREP] [Z]?</LT>    
+    </LTs>
+    <As><!-- Answer patterns -->
+        <A id ="1" type="axiom">[Y]</A> <!-- Axiom/class/OP --> 
+        <A id ="2" type="LT"> <!-- Axiom/Class/OP -->
+            <LTA id="1">The answer is [Y].</LTA> <!-- Linguistic template -->
+        </A> 
+    </As> 
+</QTOnto>

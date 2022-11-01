@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>Equivalent classes</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Example>Are there any differences between an atmosphere and a sky?</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren" excludes="Perdurant/all">[X]</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren" excludes="Perdurant/all">[Y]</SlotSpec>                                               
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] EquivalentTo([Y])</APitem>            
+        </AP>          
+    </APs>
+    <LTs>
+        <LT id="1">Are there any differences between [X] and [Y]?</LT>                
+    </LTs>    
+    <As>
+        <A id ="1" type="boolean">1</A>        
+    </As> 
+</QTOnto>

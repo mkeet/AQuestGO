@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>yes/no, omnivore animal</TQ>
+    <Description>A descripiton</Description>
+    <Example>Some examples</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="MeAndChildren">[X] Animal</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="MeAndChildren">[Y] Animal</SlotSpec>            
+        <SlotSpec id="3" nature="Class" route="OnlyMe">[Z] Animal</SlotSpec> <!-- subsumption of Omnivore -->            
+        <SlotSpec id="4" nature="Class" route="MeAndChildren">[O]</SlotSpec>            
+        <SlotSpec id="5" nature="Class" route="MeAndChildren">[P1] PlantParts </SlotSpec>           <!-- FruitingBody --> 
+        <SlotSpec id="6" nature="Class" route="MeAndChildren">[P2] Plant</SlotSpec>  <!-- Grass --> 
+        <SlotSpec id="7" nature="Class" route="MeAndChildren">[P3] PlantParts</SlotSpec>  <!-- Root --> 
+        <SlotSpec id="8" nature="Class" route="MeAndChildren">[P4] Plant</SlotSpec> 
+        <SlotSpec id="9" nature="Class" route="MeAndChildren">[P5] Plant</SlotSpec>
+        <SlotSpec id="10" nature="Class" route="MeAndChildren">[W] Animal</SlotSpec>                            
+        <SlotSpec id="11" nature="OP" route="MeAndChildren">[prop1] eats</SlotSpec>          
+        <SlotSpec id="12" nature="OP" route="MeAndChildren">[prop2] eats</SlotSpec>   
+        <SlotSpec id="13" nature="OP" route="MeAndChildren">[prop3] eats</SlotSpec>   
+        <SlotSpec id="14" nature="OP" route="MeAndChildren">[prop4] eats</SlotSpec>  
+        <SlotSpec id="15" nature="OP" route="MeAndChildren">[prop5] part-of</SlotSpec>          
+        <SlotSpec id="16" nature="OP" route="MeAndChildren">[prop6] part-of</SlotSpec>      
+        <SlotSpec id="18" nature="OP" route="OnlyMe">[prop8] Live-on</SlotSpec>   
+        <SlotSpec id="19" nature="Class" route="OnlyMe">[Omni] Omnivore</SlotSpec>             
+        <SlotSpec id="21" nature="Class" route="OnlyMe">[L] Land</SlotSpec>  
+        <SlotSpec id="21" nature="Class" route="MeAndChildren">[S] Animal</SlotSpec>        
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[O] Herbivore</SlotSpec>                     
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] SubclassOf([Z])</APitem>
+            <APitem id="2">[X] SubclassOf([Omni])</APitem>
+            <APitem id="2">[S] DisjointWith([Omni])</APitem>
+            <APitem id="3">[X] SubclassOf([prop8] only [L])</APitem>       
+            <APitem id="4">[X] SubclassOf(([prop1] some [Y]) and ([prop2] some [P1]) and ([prop3] some [P2]) and ([prop4] some [P3]))</APitem>                        
+        </AP>        
+    </APs>
+    <LTs>
+        <LT id="1">What [Z/noArticle], which is not [S] and [prop8/third] [L], [prop1/third] some [Y] and the following plants or parts of plants: [P1], [P2] and [P3]?</LT>
+        <LT id="2">What is the mysterious object? It is [Z]. It is not [S] and [prop8/third] [L]. It is [Omni], and [prop1/third] some [Y] and the following plants or parts of plants: [P1], [P2] and [P3].</LT>
+    </LTs>
+    <As>        
+        <A id ="1" type="LT">
+            <LTA id="1">The answer is [X/noArticle], since [X] is [Omni], which means that [X] can eat animals and plants.</LTA>
+        </A>
+        <A id ="2" type="axiom">[X]</A> 
+    </As> 
+</QTOnto>

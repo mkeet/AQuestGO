@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>Yes-No 1 particular 1 relation</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Example>Does a bumble bee fly?</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren">[X] Endurant</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[Y] Perdurant</SlotSpec>            
+        <SlotSpec id="3" nature="OP" route="OnlyMe">[prop] Participate-In</SlotSpec>                  
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] SubclassOf([prop] some [Y])</APitem>            
+        </AP>       
+    </APs>
+    <LTs>
+        <LT id="1">Does [X] [Y/infinitive]?</LT>                
+    </LTs>
+    <As>
+        <A id ="1" type="boolean">1</A>        
+    </As> 
+</QTOnto>

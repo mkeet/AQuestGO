@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>Yes-No 2 particular 1 relation and 1 quantifier: some</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Example>True or false: A lion eats some impala.</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren">[X]</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[Y]</SlotSpec>            
+        <SlotSpec id="3" nature="OP" route="OnlyChildren">[prop]</SlotSpec>                  
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] SubclassOf([prop] some [Y])</APitem>            
+        </AP>       
+    </APs>
+    <LTs>
+        <LT id="1">Does [X] [prop/*OP_VERB-infinitive] some [Y]?</LT>        
+        <LT id="2">[X] [prop/*OP_VERB-third] some [Y]. True or false?</LT>  
+        <LT id="3">True or false: [X] [prop/*OP_VERB-third] some [Y].</LT>  
+        <LT id="4">Does [X] [prop/*OP_VERB_PREP-infinitive] some [Y]?</LT>
+        <LT id="5">[X] [prop/*OP_VERB_PREP-third] some [Y]. True or false?</LT>
+        <LT id="6">True or false: [X] [prop/*OP_VERB_PREP-third] some [Y].</LT>
+        <LT id="7">Does [X] [prop/*OP_HAS_NOUNS-infinitive] that is some [Y]?</LT>
+        <LT id="8">[X] [prop/*OP_HAS_NOUNS-third] that is some [Y]. True or false?</LT>
+        <LT id="9">True or false: [X] [prop/*OP_HAS_NOUNS-third] that is some [Y].</LT>
+        <LT id="10">Is [X] [prop/*OP_IS_NOUNS_PREP] some [Y]?</LT>
+        <LT id="11">[X] is [prop/*OP_IS_NOUNS_PREP] some [Y]. True or false?</LT>
+        <LT id="12">True or false: [X] is [prop/*OP_IS_NOUNS_PREP] some [Y].</LT>
+        <LT id="13">Is [X] [prop/*OP_IS_PAST_PARTICIPLE_BY] some [Y]?</LT>
+        <LT id="14">[X] is [prop/*OP_IS_PAST_PARTICIPLE_BY] some [Y]. True or false?</LT>
+        <LT id="15">True or false: [X] is [prop/*OP_IS_PAST_PARTICIPLE_BY] some [Y].</LT>
+        <LT id="16">Is [X] [prop/*OP_IS_PAST_PARTICIPLE_PREP] some [Y]?</LT>
+        <LT id="17">[X] is [prop/*OP_IS_PAST_PARTICIPLE_PREP] some [Y]. True or false?</LT>
+        <LT id="18">True or false: [X] is [prop/*OP_IS_PAST_PARTICIPLE_PREP] some [Y].</LT>
+    </LTs>
+    <As>
+        <A id ="1" type="boolean">1</A>        
+    </As> 
+</QTOnto>

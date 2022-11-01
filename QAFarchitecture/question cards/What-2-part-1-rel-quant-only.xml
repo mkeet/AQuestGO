@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>What 2 particulars 1 relation - quanitfier - only</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Example>Which animal lives on only land?</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren">[X]</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[Y]</SlotSpec> 
+        <SlotSpec id="3" nature="Class" route="OnlyChildren">[Z]</SlotSpec>           
+        <SlotSpec id="4" nature="OP" route="OnlyChildren">[prop]</SlotSpec>                  
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                                    
+            <APitem id="1">[Z] SubclassOf([X])</APitem>
+           <APitem id="2">[Z] SubclassOf([prop] only [Y])</APitem>                       
+        </AP>          
+    </APs>
+    <LTs>                
+        <LT id="1">Which [X/noArticle] [prop/*OP_VERB-third] only [Y]?</LT>        
+        <LT id="2">Which [X/noArticle] [prop/*OP_VERB_PREP-third] only [Y]?</LT>  
+        <LT id="3">Which [X/noArticle] [prop/*OP_HAS_NOUNS-third] that is only [Y]?</LT>  
+        <LT id="4">Which [X/noArticle] is [prop/*OP_IS_NOUNS_PREP] only [Y]?</LT>
+        <LT id="5">Which [X/noArticle] is [prop/*OP_IS_PAST_PARTICIPLE_BY] only [Y]?</LT>
+        <LT id="6">Which [X/noArticle] is [prop/*OP_IS_PAST_PARTICIPLE_PREP] only [Y]?</LT>        
+    </LTs>
+    <As>        
+        <A id ="1" type="axiom">[Z]</A>        
+    </As> 
+</QTOnto>

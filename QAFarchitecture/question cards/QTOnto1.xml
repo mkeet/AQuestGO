@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>yes/no, omnivore animal</TQ>
+    <Description>A descripiton</Description>
+    <Example>Some examples</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="MeAndChildren">[X] Animal</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="MeAndChildren">[Y] Animal</SlotSpec>            
+        <SlotSpec id="3" nature="Class" route="MeAndChildren">[Z] Animal</SlotSpec> <!-- subsumption of Omnivore -->            
+        <SlotSpec id="4" nature="Class" route="MeAndChildren">[O]</SlotSpec>            
+        <SlotSpec id="5" nature="Class" route="MeAndChildren">[P1] PlantParts </SlotSpec>           <!-- FruitingBody --> 
+        <SlotSpec id="6" nature="Class" route="MeAndChildren">[P2] Plant</SlotSpec>  <!-- Grass --> 
+        <SlotSpec id="7" nature="Class" route="MeAndChildren">[P3] PlantParts</SlotSpec>  <!-- Root --> 
+        <SlotSpec id="8" nature="Class" route="MeAndChildren">[P4] Plant</SlotSpec> 
+        <SlotSpec id="9" nature="Class" route="MeAndChildren">[P5] Plant</SlotSpec>
+        <SlotSpec id="10" nature="Class" route="MeAndChildren">[W] Animal</SlotSpec>                            
+        <SlotSpec id="11" nature="OP" route="MeAndChildren">[prop1] eats</SlotSpec>          
+        <SlotSpec id="12" nature="OP" route="MeAndChildren">[prop2] eats</SlotSpec>   
+        <SlotSpec id="13" nature="OP" route="MeAndChildren">[prop3] eats</SlotSpec>   
+        <SlotSpec id="14" nature="OP" route="MeAndChildren">[prop4] eats</SlotSpec>  
+        <SlotSpec id="15" nature="OP" route="MeAndChildren">[prop5] part-of</SlotSpec>          
+        <SlotSpec id="16" nature="OP" route="MeAndChildren">[prop6] part-of</SlotSpec>      
+        <SlotSpec id="17" nature="Class" route="OnlyMe">[Omni] Omnivore</SlotSpec>     
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] SubclassOf([Z])</APitem>            
+            <APitem id="2">[X] SubclassOf(([prop1] some [Y]) and ([prop2] some [P1]) and ([prop3] some [P2]) and ([prop4] some [P3]))</APitem>            
+            <APitem id="3">[O] EquivalentTo(([prop1] some [Y]) and ([prop2] some [P4]) and ([prop3] some (([prop5] some [W]) or ([prop6] some [P5]))))</APitem> 
+        </AP>
+        <AP id="2">            
+            <APitem id="1">[X] SubclassOf([Omni])</APitem>                        
+        </AP>
+    </APs>
+    <LTs>
+        <LT id="1">Can [X] that is [Z] [prop1/infinitive] [Y] and the following plants [P1], [P2] and [P3]?</LT>
+        <LT id="2">Is [X] [Omni]?</LT> 
+    </LTs>
+    <As>
+        <A id ="1" type="boolean">1</A>
+        <A id ="2" type="LT">
+            <LTA id="1">Yes, since [X] is [O], which means that [X] can eat animals and plants.</LTA>
+        </A>
+        <A id ="3" type="axiom">[O]</A> <!-- in case where the question is not yes/no -->
+    </As> 
+</QTOnto>

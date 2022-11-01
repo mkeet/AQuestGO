@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/tokyr/ontologies/2022/7/untitled-ontology-25#"
+     xml:base="http://www.semanticweb.org/tokyr/ontologies/2022/7/untitled-ontology-25"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/tokyr/ontologies/2022/7/untitled-ontology-25">
+        <rdfs:comment>African Wildlide Ontology, Semantic Web Primer, 4.3.1 pages 119-133</rdfs:comment>
+        <rdfs:comment>AfricanWildlifeOntology0.owl was then modified by Maria Keet (classes and object properties added, more comments added, updated the uri etc) and renamed into AfricanWildlifeOntology1.owl. 
+This is still an ontology just for tutorial purposes, so take it with a grain of salt</rdfs:comment>
+        <rdfs:comment>MK downloaded this file from http://www.iro.umontreal.ca/~lapalme/ift6281/OWL/AfricanWildlifeOntology.xml, changed the extension to .owl and appended the name with Web. That ontology give a load error in protege due to the use of Collection in the definition of Herbivore, so the AfricanWildlifeOntology0.owl has that piece removed.</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on">
+        <rdfs:range>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sea"/>
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sky"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In">
+        <rdfs:range>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Fly"/>
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hibernate"/>
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eaten-by -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eaten-by">
+        <owl:inverseOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:range>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                    <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                    </owl:Restriction>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#has-part -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#has-part">
+        <owl:inverseOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ReflexiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of -->
+
+    <owl:ObjectProperty rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of">
+        <rdfs:subPropertyOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+        <rdfs:subPropertyOf>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#has-part"/>
+            </rdf:Description>
+        </rdfs:subPropertyOf>
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of"/>
+            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of"/>
+        </owl:propertyChainAxiom>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant"/>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Atmosphere -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Atmosphere">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sky"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Aviate -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Aviate">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Fly"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Berry -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Berry">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#FruitingBody"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Branch -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Branch">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tree"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Branches are parts of trees.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#BumbleBee -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#BumbleBee">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#HumbleBee"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Insect"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Fly"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hibernate"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Camelopard -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Camelopard">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Giraffe"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Carnivore -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Carnivore">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:allValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                            </owl:Restriction>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore"/>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Omnivore"/>
+        <rdfs:comment>Carnivores are exactly those animals that eat only animals.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#CarnivorousPlant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#CarnivorousPlant">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Elephant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Elephant">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:allValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                            </owl:Restriction>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant"/>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Fly -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Fly">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#FruitingBody -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#FruitingBody">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Giraffe -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Giraffe">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Leaf"/>
+                            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Twig"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Lion"/>
+        <rdfs:comment>Giraffes are herbivores, and they eat only leaves.</rdfs:comment>
+        <rdfs:comment>they also eat twigs</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Gras -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Gras">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Grass"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Grass -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Grass">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Omnivore"/>
+        <rdfs:comment>Herbivores are exactly those animals that eat only plants or parts of plants </rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hibernate -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hibernate">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hole-up"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hole-up -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Hole-up">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#HumbleBee -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#HumbleBee">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Insect"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Impala -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Impala">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>An african antelope http://en.wikipedia.org/wiki/Impala</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Insect -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Insect">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#King-of-beasts -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#King-of-beasts">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Lion"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Carnivore"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Leaf -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Leaf">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Branch"/>
+                            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Twig"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Leaves are parts of branches.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Lion -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Lion">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Carnivore"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:complementOf>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                    </owl:Restriction>
+                </owl:complementOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Impala"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Lions are animals that eat only herbivores.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Loop -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Loop">
+        <owl:equivalentClass rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Omnivore -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Omnivore">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom>
+                            <owl:Class>
+                                <owl:unionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#part-of"/>
+                                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+                                    </owl:Restriction>
+                                </owl:unionOf>
+                            </owl:Class>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Palmtree -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Palmtree">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#has-part"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Branch"/>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Phloem -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Phloem">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Stem"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant"/>
+        <rdfs:comment>Plants are disjoint from animals.</rdfs:comment>
+        <rdfs:isDefinedBy>An edurant that is not an animal</rdfs:isDefinedBy>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Endurant"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#RockDassie -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#RockDassie">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>They eat grasses and broad-leafed plants</rdfs:comment>
+        <rdfs:comment>http://en.wikipedia.org/wiki/Rock_Hyrax</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Root -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Root">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sea -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sea">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sky -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Sky">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Habitat"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Stem -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Stem">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tasty-plant -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tasty-plant">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eaten-by"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Carnivore"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eaten-by"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Herbivore"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:comment>Plants eaten both by herbivores and carnivores</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tree -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Tree">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Plant"/>
+        <rdfs:comment>&apos;plant&apos; is here a shorthand for plant kingdom</rdfs:comment>
+        <rdfs:comment>Trees are a type of plant.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Twig -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Twig">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Perdurant"/>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Warthog -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Warthog">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Omnivore"/>
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Terrestrial"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Animal"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#FruitingBody"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Grass"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#eats"/>
+                        <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Root"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Participate-In"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Walk"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Live-on"/>
+                <owl:allValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Land"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Warthogs are Omnivorous http://en.wikipedia.org/wiki/Warthog</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Xylem -->
+
+    <owl:Class rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Xylem">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#PlantParts"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#proper-part-of"/>
+                <owl:someValuesFrom rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Stem"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- xml:base#Apple -->
+
+    <owl:Class rdf:about="xml:base#Apple">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#FruitingBody"/>
+    </owl:Class>
+    
+
+
+    <!-- xml:base#Parsnip -->
+
+    <owl:Class rdf:about="xml:base#Parsnip">
+        <rdfs:subClassOf rdf:resource="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Root"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Branch"/>
+            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Leaf"/>
+            <rdf:Description rdf:about="file:/Applications/Protege_4.1_beta/AfricanWildlifeOntology1.owl#Twig"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>What 1 particular 1 relation</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Example>What does a giraffe participate in?;</Example>
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren">[X]</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[Y]</SlotSpec>              
+        <SlotSpec id="3" nature="OP" route="OnlyChildren">[prop]</SlotSpec>                  
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                                              
+           <APitem id="1">[X] SubclassOf([prop] some [Y])</APitem>                       
+        </AP>  
+        <AP id="2">                            
+            <APitem id="1">[X] SubclassOf([prop] only [Y])</APitem>            
+        </AP>
+    </APs>
+    <LTs>        
+        <LT id="1">What does [X] [prop/*OP_VERB-infinitive]?</LT>        
+        <LT id="2">What does [X] [prop/*OP_VERB_PREP-infinitive]?</LT>  
+        <LT id="3">What is [X] [prop/*OP_IS_NOUNS_PREP]?</LT>  
+        <LT id="4">What is [X] is [prop/*OP_IS_PAST_PARTICIPLE_BY]?</LT>
+        <LT id="5">What is [X] is [prop/*OP_IS_PAST_PARTICIPLE_PREP]?</LT>
+        <LT id="6">What [prop/*OP_HAS_NOUNS-nounsNoArticle] does [X] have?</LT>        
+    </LTs>
+    <As>        
+        <A id ="1" type="LT">
+            <LTA id="1">[X] [prop] [Y].</LTA>
+        </A>  
+        <A id ="2" type="axiom">
+            <LTA id="1">[Y]</LTA>
+        </A>  
+
+    </As> 
+</QTOnto>

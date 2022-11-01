@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QTOnto id="qtono-1">    
+    <TQ>Definition</TQ>
+    <Description>Similar TQ from AQuestGO</Description>
+    <Examle>What is a lion?</Examle> <!-- top be updated 'example' -->
+    <SlotSpecs>
+        <SlotSpec id="1" nature="Class" route="OnlyChildren">[X]</SlotSpec>                            
+        <SlotSpec id="2" nature="Class" route="OnlyChildren">[Y]</SlotSpec>            
+        <SlotSpec id="3" nature="Class" route="OnlyChildren">[Z]</SlotSpec>                  
+        <SlotSpec id="4" nature="Class" route="OnlyChildren">[A]</SlotSpec> 
+    </SlotSpecs>
+    <APs>
+        <AP id="1">                        
+            <APitem id="1">[X] SubclassOf([Y])</APitem>            
+        </AP>  
+        <AP id="2">                        
+            <APitem id="1">[Z] SubclassOf([X])</APitem>            
+        </AP>      
+        <AP id="3">                        
+            <APitem id="1">[X] EquivalentTo([A])</APitem>            
+        </AP>      
+    </APs>
+    <LTs>
+        <LT id="1">What is [X]?</LT>               
+        <LT id="2">Define [X].</LT>        
+    </LTs>
+    <As>
+        <A id ="1" type="LT">
+            <LTA id="1">[X] can be defined.</LTA>
+        </A>
+                <!-- to be completed in the future -->
+    </As> 
+</QTOnto>
