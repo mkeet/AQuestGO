@@ -1,0 +1,90 @@
+What is a gras?
+What is a herbivore?
+What does a king of beasts eat?
+What is phloem part of?
+Which plant parts is part of a stem?
+Which carnivore eats an animal?
+Which carnivore eats only a herbivore?
+Which terrestrial animal eats only a plant parts?
+Which plant parts is part of some plant?
+Which animal eats some animal?
+True or false: A lion eats an animal.
+Does a warthog eat grass?
+True or false: A lion lives on only land.
+Does a king of beasts live on only land?
+A humble bee participates in hibernating. True or false?
+Does a humble bee participate in flying?
+What is a two dimensional physical entity?
+What is a compound of collective material entities?
+What agent does a manifest have?
+What agent does an use have?
+Which consume action has an agent that is a legal person?
+Which exploit has a condition that is a pay action?
+Which temporal results only a manifestation?
+Which use objects only a performance?
+Which exploit has a condition that is some pay action?
+Which disagree action has a consequence that is some ownership info?
+Does an improvise result a performance?
+Does a record result a recording?
+An improvise objects only work. True or false?
+Does a perform result only a performance?
+True or false: A sell has a consequence that is some ownership info.
+Does a rent have a condition that is some pay action?
+What is a card?
+What is a monumental area or complex?
+What is an event a site of?
+What sub event does a project have?
+Which cultural entity is part of a cultural entity?
+Which geographical area is held by an agent?
+Which creative work is held by only an agent?
+Which ticket has a ticket that is only a ticket?
+Which cultural entity has a type that is some cultural institute or site type?
+Which cultural entity has a type that is some cultural institute or site type?
+True or false: A semantic asset has an access condition that is an access condition.
+Creative work involves a cultural entity. True or false?
+True or false: A price specification has validity that is only validity.
+Does a theatre have a member that is only a cultural entity?
+A site is a site of some cultural entity. True or false?
+Is a name in time a valid during some time interval?
+What is a soho?
+What is a parma ham topping?
+What base does a vegetarian pizza2 have?
+What is a red onion topping a topping of?
+Which domain thing has a base that is a pizza base?
+Which vegetarian topping has a base that is a domain thing?
+Which spiciness is an ingredient of only an american hot?
+Which pizza topping has a spiciness that is only a hot?
+Which food has a spiciness that is some value partition?
+Which named pizza has an ingredient that is some mozzarella topping?
+A value partition has a base that is an olive topping. True or false?
+An onion topping is a topping of a pizza. True or false?
+True or false: A value partition is a topping of only a parmezan topping.
+A chicken topping has a base that is only food. True or false?
+A siciliana has an ingredient that is some garlic topping. True or false?
+Does a parmense have an ingredient that is some domain thing?
+What is being a solid?
+What is a solid foam?
+What stuff distribution does a liquid aerosol have?
+What is a piece part of?
+Which endurant inheres in a gel?
+Which endurant has a granule type that is a container?
+Which endurant has a portion that is only a drop?
+Which physical object has a granule type that is only a dispersion colloid?
+Which homogeneous mixture has proper part that is some stuff?
+Which physical endurant is a portion of some amount of stuff?
+A physical region instantiations that is a suspension. True or false?
+Does a solid foam have a quale that is an associational colloid?
+A solute is scattered stuff part of only a slice. True or false?
+True or false: Being a liquid inheres in only stuffing state.
+Pure stuff has a granule type that is some physical object. True or false?
+A paste has a granule type that is some multi molecule particle. True or false?
+What parent does a has conjunct have?
+What child does a has word conjunct have?
+Which dependency relation has a parent that is a non initial coordinating conjunction?
+Which morphosyntactic category has a specificity that is a nonspecific?
+Which attributive pronoun has a specificity that is some nonspecific?
+Which pronoun or determiner has a specificity that is some nonspecific?
+Does a nonspecific pronoun have a specificity that is a nonspecific?
+A nonspecific pronoun has a specificity that is a nonspecific. True or false?
+An impersonal verb has a semantic valency that is some atransitive. True or false?
+Does a has conjunct have a parent that is some non initial coordinating conjunction?
